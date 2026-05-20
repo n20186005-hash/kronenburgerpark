@@ -98,11 +98,13 @@
     "parkPrice": "完全免费，无需门票",
     "parking": "停车费用",
     "parkingPrice": "周边付费停车，有停车场可用",
-    "guided": "导览游（可选）",
-    "guidedPrice": "免费自助游，提供语音导览"
+    "guided": "科普探索",
+    "guidedPrice": "平台提供免费的公园历史与自然科普语音讲解"
   },
   "transport": {
     "title": "交通方式",
+    "fromAirport": "从机场出发",
+    "fromAirportDesc": "从史基浦机场(Schiphol)或埃因霍温机场(Eindhoven)可乘火车直达奈梅亨中央车站。",
     "fromCenter": "从市中心出发",
     "fromCenterDesc": "从 Grote Markt（大市场）步行约10分钟。公园位于 Kronenburgersingel，靠近中央车站。",
     "fromStation": "从中央车站出发",

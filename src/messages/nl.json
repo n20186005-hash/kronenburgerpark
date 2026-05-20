@@ -98,11 +98,13 @@
     "parkPrice": "Volledig gratis, geen toegangsgeld",
     "parking": "Parkeerkosten",
     "parkingPrice": "Betaald parkeren in de omgeving, parkeergarages beschikbaar",
-    "guided": "Gedelondegde Tour (Optioneel)",
-    "guidedPrice": "Gratis zelf-guided tour, audiogids beschikbaar"
+    "guided": "Educatieve Ontdekking",
+    "guidedPrice": "Gratis educatieve audiogids over de geschiedenis en natuur van het park"
   },
   "transport": {
     "title": "Hoe er te Komen",
+    "fromAirport": "Vanaf de Luchthaven",
+    "fromAirportDesc": "Er zijn directe treinverbindingen vanaf Schiphol Airport of Eindhoven Airport naar Nijmegen Centraal Station.",
     "fromCenter": "Vanaf het Centrum",
     "fromCenterDesc": "Loop ongeveer 10 minuten vanaf de Grote Markt. Het park bevindt zich aan de Kronenburgersingel, vlakbij het centraal station.",
     "fromStation": "Vanaf Centraal Station",

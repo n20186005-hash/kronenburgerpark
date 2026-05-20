@@ -98,11 +98,13 @@
     "parkPrice": "Completely free, no admission fee",
     "parking": "Parking Fee",
     "parkingPrice": "Paid parking in the area, parking garages available",
-    "guided": "Guided Tour (Optional)",
-    "guidedPrice": "Free self-guided tour, audio guide available"
+    "guided": "Educational Exploration",
+    "guidedPrice": "Free educational audio guide about the park's history and nature"
   },
   "transport": {
     "title": "How to Get Here",
+    "fromAirport": "From Airport",
+    "fromAirportDesc": "Direct trains run from Schiphol Airport or Eindhoven Airport to Nijmegen Central Station.",
     "fromCenter": "From City Center",
     "fromCenterDesc": "Walk about 10 minutes from the Grote Markt. The park is located on Kronenburgersingel, close to the central station.",
     "fromStation": "From Central Station",
