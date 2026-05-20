@@ -1,0 +1,333 @@
+{
+  "meta": {
+    "title": "Kronenburgerpark Nijmegen | Historisch Stadspark - Must-Visit Attractie",
+    "description": "Complete gids voor Kronenburgerpark in Nijmegen, Nederland. Ontdek dit prachtige historische stadspark, de facilitaire voorzieningen, locatie en bezoekinformatie. Geniet van de iconische kasteelmuur en natuur."
+  },
+  "header": {
+    "home": "Home",
+    "gallery": "Galerij",
+    "reviews": "Beoordelingen",
+    "map": "Kaart",
+    "backToHome": "Terug naar Home"
+  },
+  "hero": {
+    "title": "Kronenburgerpark",
+    "subtitle": "Historisch Stadspark Nijmegen - Geniet van de Kasteelmuur & Natuur",
+    "rating": "4.5(5,141)",
+    "reviewCount": "5,141 beoordelingen",
+    "type": "Stadspark · Nijmegen Must-Visit",
+    "openMaps": "Bekijk Locatie"
+  },
+  "intro": {
+    "title": "Ontdek Kronenburgerpark",
+    "description": "Kronenburgerpark is een prachtig historisch stadspark gelegen in Nijmegen, Nederland. Dit park is beroemd om zijn goed bewaarde kasteelmuur uit de 15e eeuw, de serene vijver en de uitgestrekte groene weides, waardoor het een van de meest geliefde recreatieve bestemmingen is voor zowel locals als toeristen.\n\nHet park ligt aan de Kronenburgersingel en biedt een perfecte balans tussen historie en natuur. De iconische ronde toren (kasteelmuur) is een populair fotogeniek monument en een symbool van Nijmegen. Het is een ideale plek om te wandelen, picknicken of simpelweg te ontspannen in de natuur.\n\nOf u nu komt voor een ochtendwandeling, een middagpicknick, of om de historische kasteelmuur te bewonderen, Kronenburgerpark biedt u de perfecte stadsnatuur ervaring. Het park beschikt over bankjes, verlichting en is gemakkelijk toegankelijk voor voetgangers.",
+    "visitGuide": {
+      "title": "Bezoektips",
+      "items": [
+        "Het park is gratis toegankelijk, geen tickets nodig",
+        "Bezoek in de vroege ochtend of late middag voor de beste lichtomstandigheden",
+        "Breng een picknickdeken en snacks mee voor een ontspannen middag",
+        "Weekenden en feestdagen zijn drukker - arriveer vroeg voor een rustige ervaring"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Park Highlights",
+      "items": [
+        "Bekend om de historische kasteelmuur (15e eeuw) met iconische ronde toren",
+        "Prachtige vijver en uitgestrekte groene weides",
+        "Een van de meest geliefde stadsparken in Nijmegen",
+        "Perfect voor fotografie, wandelen en ontspanning"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "Over Kronenburgerpark",
+    "sections": [
+      {
+        "id": "history",
+        "title": "Park Geschiedenis",
+        "content": "Kronenburgerpark is gebouwd op de locatie van de voormalige Kronenburgerpoort, een belangrijk onderdeel van de verdedigingswerken van Nijmegen. De iconische ronde toren die u vandaag de dag in het park ziet, is een overblijfsel van de kasteelmuur die dateert uit de 15e eeuw.\n\nHet park is in de loop der jaren zorgvuldig onderhouden en omgevormd tot een prachtig stadspark dat de rijke geschiedenis van Nijmegen combineert met moderne recreatieve voorzieningen. De kasteelmuur is een rijksmonument en trekt jaarlijks duizenden bezoekers."
+      },
+      {
+        "id": "features",
+        "title": "Park Faciliteiten",
+        "content": "Kronenburgerpark beschikt over uitstekende voorzieningen voor bezoekers:\n\n• Ruime groene weides, perfect voor picknicks en ontspanning\n• Een prachtige vijver met watervogels\n• Historische kasteelmuur met iconische ronde toren\n• Voldoende bankjes en zitgelegenheid\n• Wandellijnen door het park\n• Goede verlichting voor avondwandelingen\n• Toegankelijk voor voetgangers en kinderwagens\n\nDeze faciliteiten maken Kronenburgerpark een ideale keuze voor familie-uitjes, wandelingen en ontspanning in de stad."
+      },
+      {
+        "id": "location",
+        "title": "Locatie",
+        "content": "Het park bevindt zich op een prima locatie in Nijmegen aan de Kronenburgersingel, 6511 AL Nijmegen. Deze locatie biedt een ongeëvenaard uitzicht op de historische kasteelmuur en is een uitstekend startpunt voor het verkennen van Nijmegen.\n\nVanuit het park kunt u gemakkelijk naar andere bezienswaardigheden in Nijmegen lopen, waaronder de Grote Markt en het Valkhofpark. De centrale ligging maakt het park een ideale ontmoetingsplek in Nijmegen."
+      },
+      {
+        "id": "wildlife",
+        "title": "Natuur & Omgeving",
+        "content": "Kronenburgerpark is niet alleen een historische site, maar ook een geweldige plek om te genieten van stadsnatuur. In en rond het park en de vijver kunt u mogelijk zien:\n\n• Diverse watervogels zoals eenden en zwanen\n• Eekhoorns in de bomen (vooral in de ochtend)\n• Prachtige zonsondergangen bij de kasteelmuur\n• Historische architectuur en monumenten\n\nRespecteer de lokale natuurlijke omgeving, gooi geen afval in de vijver en help deze prachtige groene ruimte te behouden."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Basisinformatie",
+    "officialName": "Officiële Naam",
+    "officialNameValue": "Kronenburgerpark",
+    "type": "Type Attractie",
+    "typeValue": "Stadspark, Historisch Monument, Nijmegen Attractie",
+    "country": "Land",
+    "countryValue": "Nederland",
+    "city": "Stad",
+    "cityValue": "Nijmegen, Gelderland",
+    "googleRating": "Google Beoordeling",
+    "phone": "Telefoon",
+    "phoneValue": "+31 630 731 481",
+    "address": "Adres",
+    "addressValue": "Kronenburgersingel, 6511 AL Nijmegen, Nederland"
+  },
+  "hours": {
+    "title": "Openingsuren",
+    "park": "Park Toegang",
+    "parkTime": "Dagelijks 24 uur geopend (openbaar park)",
+    "bestTime": "Beste Tijd om te Bezoeken",
+    "bestTimeSpring": "Ochtend (7-9 AM): Friste lucht en zachte ochtendzon",
+    "bestTimeSummer": "Avond (18-20 PM): Geniet van de zonsondergang bij de kasteelmuur",
+    "bestTimeAutumn": "Hele dag: Prachtige herfstkleuren in het park",
+    "bestTimeWinter": "Middag (12-14 PM): Warmste deel van de dag in de winter",
+    "tip": "Controleer de website van de gemeente Nijmegen voor de meest recente informatie"
+  },
+  "tickets": {
+    "title": "Toegangsinformatie",
+    "park": "Park Toegang",
+    "parkPrice": "Volledig gratis, geen toegangsgeld",
+    "parking": "Parkeerkosten",
+    "parkingPrice": "Betaald parkeren in de omgeving, parkeergarages beschikbaar",
+    "guided": "Gedelondegde Tour (Optioneel)",
+    "guidedPrice": "Gratis zelf-guided tour, audiogids beschikbaar"
+  },
+  "transport": {
+    "title": "Hoe er te Komen",
+    "fromCenter": "Vanaf het Centrum",
+    "fromCenterDesc": "Loop ongeveer 10 minuten vanaf de Grote Markt. Het park bevindt zich aan de Kronenburgersingel, vlakbij het centraal station.",
+    "fromStation": "Vanaf Centraal Station",
+    "fromStationDesc": "Loop ongeveer 10 minuten vanaf Nijmegen Centraal Station, volg de borden naar Kronenburgerpark.",
+    "publicTransport": "Openbaar Vervoer",
+    "publicTransportDesc": "Nijmegen heeft uitstekende bus- en verbindingen. Het park is op loopafstand van het centraal station.",
+    "walking": "Wandelen of Fietsen",
+    "walkingDesc": "Het park is perfect bereikbaar te voet of per fiets vanuit het centrum van Nijmegen.",
+    "driving": "Met de Auto & Parkeren",
+    "drivingDesc": "Er zijn parkeergarages in de buurt, maar het wordt aanbevolen om met het openbaar vervoer of te voet te komen."
+  },
+  "route": {
+    "title": "Aanbevolen Bezoekroute",
+    "overview": "Kronenburgerpark is perfect voor een bezoek van 1-2 uur. We raden aan om in de ochtend aan te komen, de historische kasteelmuur te bewonderen, te picknicken op de weides en te genieten van de natuur. Plan ongeveer 1,5-2 uur voor het hele bezoek.",
+    "steps": [
+      "Kom aan in het park en bewonder de iconische ronde toren van de kasteelmuur",
+      "Wandel rond de vijver en geniet van de watervogels",
+      "Zoek een plekje op het gras voor een picknick of rustmoment",
+      "Maak foto's van de historische kasteelmuur en de groene omgeving",
+      "Wandel door de brede paden van het park en geniet van de natuur",
+      "Bezoek de nabijgelegen Grote Markt (ongeveer 10 minuten lopen)",
+      "Geniet van de zonsondergang bij de kasteelmuur als u in de avond bent",
+      "Relax op een bankje en geniet van de rustige sfeer van het park"
+    ]
+  },
+  "photoSpots": {
+    "title": "Beste Fotoplekken",
+    "spots": [
+      {
+        "name": "Kasteelmuur Toren",
+        "desc": "Fotografeer de iconische ronde toren van de 15e eeuwse kasteelmuur"
+      },
+      {
+        "name": "Vijverzicht",
+        "desc": "Maak foto's van de reflectie in het water en de watervogels"
+      },
+      {
+        "name": "Groene Weides",
+        "desc": "Fotografeer de uitgestrekte groene weides met de kasteelmuur op de achtergrond"
+      },
+      {
+        "name": "Zonsondergang",
+        "desc": "Vastleg de prachtige zonsondergang bij de historische muren"
+      },
+      {
+        "name": "Parkpaden",
+        "desc": "Sfeervolle foto's maken op de wandelpaden door het park"
+      }
+    ]
+  },
+  "hotels": {
+    "title": "Accommodatie",
+    "hotels": [
+      {
+        "name": "Hotel Oranjestaete Nijmegen",
+        "desc": "Luxe boetiekhotel in het centrum, 5 minuten lopen naar Kronenburgerpark",
+        "price": "~€150-250/nacht"
+      },
+      {
+        "name": "Van der Valk Hotel Nijmegen-Lent",
+        "desc": "Modern hotel met uitstekende voorzieningen, 10 minuten met de bus naar het park",
+        "price": "~€100-180/nacht"
+      },
+      {
+        "name": "B&B in Centrum Nijmegen",
+        "desc": "Gezellige bed & breakfast, Authentieke ervaring, loopafstand naar het park",
+        "price": "~€80-150/nacht"
+      },
+      {
+        "name": "Stayokay Nijmegen",
+        "desc": "Budget-vriendelijke hostel optie, schoon en comfortabel, dicht bij het centrum",
+        "price": "~€30-60/nacht"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Foto Galerij",
+    "subtitle": "Kronenburgerpark - Historisch Stadspark Nijmegen",
+    "captions": [
+      "Park Zicht 1",
+      "Park Zicht 2",
+      "Park Zicht 3",
+      "Park Zicht 4",
+      "Park Zicht 5",
+      "Park Zicht 6",
+      "Park Zicht 7",
+      "Park Zicht 8",
+      "Park Zicht 9",
+      "Park Zicht 10",
+      "Park Zicht 11",
+      "Park Zicht 12",
+      "Park Zicht 13",
+      "Park Zicht 14",
+      "Park Zicht 15",
+      "Park Zicht 16",
+      "Park Zicht 17"
+    ],
+    "viewAll": "Bekijk op Google Maps",
+    "showAll": "Alle Foto's Bekijken",
+    "showLess": "Minder Foto's"
+  },
+  "reviews": {
+    "title": "Bezoekersbeoordelingen",
+    "declaration": "Beoordelingen zijn te bekijken via Google Maps (externe link).",
+    "moreReviews": "Meer beoordelingen op Google Maps",
+    "items": [
+      {
+        "name": "Jan de Vries",
+        "date": "Mei 2026",
+        "rating": 5,
+        "text": "Kronenburgerpark is een prachtige groene oase in Nijmegen! De kasteelmuur is iconisch en de sfeer in het park is heel relaxed. Echt een aanrader voor een wandeling!"
+      },
+      {
+        "name": "Maria van den Berg",
+        "date": "April 2026",
+        "rating": 5,
+        "text": "Heerlijk park om met kinderen te bezoeken. De vijver is mooi en er is genoeg ruimte om te spelen. De historische muur is ook heel indrukwekkend om te zien."
+      },
+      {
+        "name": "Pieter Jansen",
+        "date": "Maart 2026",
+        "rating": 4,
+        "text": "Mooi historisch park met een geweldige ligging. Alleen jammer dat het in het weekend wat drukker is. Tip: kom op een doordeweekse dag voor meer rust."
+      },
+      {
+        "name": "Sophie de Wit",
+        "date": "Februari 2026",
+        "rating": 5,
+        "text": "Een van de mooiste stadsparken in Nederland. De ligging in Nijmegen is top en de kasteelmuur is fotogeniek. Zeker de moeite waard om te bezoeken!"
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Locatie & Route",
+    "subtitle": "Kronenburgersingel, 6511 AL Nijmegen, Nederland",
+    "openMaps": "Bekijk op Google Maps"
+  },
+  "footer": {
+    "rights": "© 2026 Kronenburgerpark Onafhankelijke Toerisme Onderzoeksvereniging · Alle rechten voorbehouden.",
+    "privacy": "Privacybeleid",
+    "terms": "Algemene Voorwaarden",
+    "cookies": "Cookie Instellingen",
+    "officialResourcesTitle": "Gerelateerde Bronnen & Informatie",
+    "officialLinks": {
+      "nijmegen": "Gemeente Nijmegen",
+      "gelderland": "Provincie Gelderland",
+      "cultureelErfgoed": "Cultureel Erfgoed",
+      "intonijmegen": "Visit Nijmegen",
+      "overheid": "Nederlandse Overheid",
+      "nederlandWereldwijd": "Nederland Wereldwijd"
+    },
+    "disclaimer": "Deze website is een onafhankelijk derde partij toeristisch informatieproject. Wij zijn niet gelieerd aan de lokale overheid of andere officiële instellingen."
+  },
+  "privacy": {
+    "title": "Privacybeleid",
+    "lastUpdated": "Laatst bijgewerkt: Mei 2026",
+    "sections": [
+      {
+        "heading": "1. Informatieverzameling",
+        "content": "We verzamelen over het algemeen geen persoonlijk identificeerbare informatie van gebruikers. Informatie die u verstrekt via contactformulieren of e-mails wordt strikt vertrouwelijk behandeld."
+      },
+      {
+        "heading": "2. Gebruik van Informatie",
+        "content": "De informatie die we verzamelen wordt uitsluitend gebruikt om onze diensten te leveren, te onderhouden en te verbeteren, en om met u te communiceren. We verkopen of delen uw persoonlijke informatie niet met derden voor marketingdoeleinden."
+      },
+      {
+        "heading": "3. Cookies en Tracking",
+        "content": "We gebruiken cookies en vergelijkbare trackingtechnologieën om de activiteit op onze website te volgen en bepaalde informatie vast te houden. U kunt uw browser instrueren om alle cookies te weigeren of om aan te geven wanneer een cookie wordt verzonden."
+      },
+      {
+        "heading": "4. Gegevensbeveiliging",
+        "content": "De beveiliging van uw gegevens is belangrijk voor ons. We gebruiken commercieel aanvaardbare middelen om uw persoonsgegevens te beschermen, hoewel geen enkele methode van verzending via internet 100% veilig is."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Algemene Voorwaarden",
+    "lastUpdated": "Laatst bijgewerkt: Mei 2026",
+    "sections": [
+      {
+        "heading": "1. Aanvaarding van Voorwaarden",
+        "content": "Door toegang te krijgen tot en deze website te gebruiken, gaat u akkoord met deze algemene voorwaarden. Als u het niet eens bent met enig deel van de voorwaarden, mag u de dienst niet openen."
+      },
+      {
+        "heading": "2. Gebruik van Dienst",
+        "content": "Deze website is een onafhankelijk derde partij toeristisch informatieproject. De verstrekte informatie is uitsluitend bedoeld voor algemene informatieve doeleinden. U gaat ermee akkoord de site op een verantwoordelijke en wettige manier te gebruiken."
+      },
+      {
+        "heading": "3. Intellectueel Eigendom",
+        "content": "Alle inhoud op deze website, inclusief teksten, afbeeldingen en logo's, is eigendom van de eigenaar van de website, tenzij anders vermeld. Ongeautoriseerd gebruik, reproductie of distributie is strikt verboden."
+      },
+      {
+        "heading": "4. Beperking van Aansprakelijkheid",
+        "content": "Wij zijn niet aansprakelijk voor enige directe, indirecte, incidentele of gevolgschade die voortvloeit uit het gebruik van of de onmogelijkheid om deze website of de daarin opgenomen informatie te gebruiken."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie Instellingen",
+    "description": "Beheer uw cookie-voorkeuren.",
+    "essential": {
+      "title": "Essentiële Cookies",
+      "description": "Vereist voor basis websitefunctionaliteit.",
+      "badge": "Altijd actief"
+    },
+    "analytics": {
+      "title": "Analytische Cookies",
+      "description": "Helpen ons begrijpen hoe bezoekers met de site interacteren."
+    },
+    "marketing": {
+      "title": "Marketing Cookies",
+      "description": "Gebruikt om bezoekers op websites te volgen."
+    },
+    "save": "Voorkeuren Opslaan",
+    "saved": "Voorkeuren opgeslagen!"
+  },
+  "officialManagement": {
+    "title": "Over Kronenburgerpark",
+    "text": "Kronenburgerpark is een prachtig historisch stadspark gelegen in Nijmegen, Nederland, beheerd door de gemeente Nijmegen.\n\nDit park beschikt over de iconische kasteelmuur uit de 15e eeuw, een prachtige vijver en uitgestrekte groene weides. Het is een van de meest geliefde bestemmingen voor zowel locals als bezoekers. Of u nu komt voor een wandeling of om te ontspannen, dit park biedt u de perfecte stadsnatuur ervaring."
+  },
+  "recommendations": {
+    "title": "",
+    "attractionsTitle": "",
+    "toursTitle": "",
+    "attractions": [],
+    "tours": []
+  }
+}

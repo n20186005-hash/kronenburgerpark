@@ -1,0 +1,333 @@
+{
+  "meta": {
+    "title": "Kronenburgerpark 克罗南堡公园｜奈梅亨历史城墙公园 - 必游景点",
+    "description": "探索荷兰奈梅亨市 Kronenburgerpark 的完整指南。了解这座美丽的历史城墙公园的设施、位置和游览信息。欣赏标志性的城墙塔楼和自然风光。"
+  },
+  "header": {
+    "home": "首页",
+    "gallery": "图库",
+    "reviews": "评价",
+    "map": "地图",
+    "backToHome": "返回首页"
+  },
+  "hero": {
+    "title": "Kronenburgerpark",
+    "subtitle": "奈梅亨历史城墙公园 - 享受城墙遗迹与自然美景",
+    "rating": "4.5(5,141)",
+    "reviewCount": "5,141 条评价",
+    "type": "城市公园 · 奈梅亨必游",
+    "openMaps": "查看位置"
+  },
+  "intro": {
+    "title": "探索 Kronenburgerpark",
+    "description": "Kronenburgerpark 是位于荷兰奈梅亨市的一座美丽历史城墙公园。这座公园以其保存完好的15世纪城墙、宁静的池塘和广阔的草坪而闻名，是当地居民和游客最喜爱的休闲目的地之一。\n\n公园位于 Kronenburgersingel，完美平衡了历史与自然。标志性的圆形塔楼（城墙）是一个受欢迎的摄影纪念物，也是奈梅亨的象征。这里是散步、野餐或简单享受自然的理想场所。\n\n无论是清晨散步、下午野餐，还是欣赏历史城墙，Kronenburgerpark 都能为您提供完美的城市自然体验。公园设有长椅、照明设施，方便行人通行。",
+    "visitGuide": {
+      "title": "游览建议",
+      "items": [
+        "公园免费开放，无需门票",
+        "建议清晨或傍晚前往，获得最佳光线条件",
+        "携带野餐毯和小吃，享受轻松的下午时光",
+        "周末和节假日人流较多，建议提前到达以获得宁静体验"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "公园特色",
+      "items": [
+        "以历史城墙（15世纪）和标志性圆形塔楼而闻名",
+        "美丽的池塘和广阔的草坪",
+        "奈梅亨最受欢迎的城市公园之一",
+        "非常适合摄影、散步和放松"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "关于 Kronenburgerpark",
+    "sections": [
+      {
+        "id": "history",
+        "title": "公园历史",
+        "content": "Kronenburgerpark 建在前 Kronenburgerpoort 的遗址上，这是奈梅亨防御工事的重要组成部分。今天您在公园中看到的标志性圆形塔楼是15世纪城墙的遗迹。\n\n多年来，公园经过精心维护，已转变为一座美丽城市公园，将奈梅亨的丰富历史与现代休闲设施相结合。城墙是国家纪念碑，每年吸引数千名游客。"
+      },
+      {
+        "id": "features",
+        "title": "公园设施",
+        "content": "Kronenburgerpark 为游客配备了完善的设施：\n\n• 宽敞的草坪区域，适合野餐和放松\n• 美丽池塘，有水鸟栖息\n• 历史城墙和标志性圆形塔楼\n• 充足的长椅和座位区\n• 贯穿公园的步行道\n• 良好的照明，适合晚间散步\n• 方便行人和婴儿车通行\n\n这些设施使 Kronenburgerpark 成为家庭出游、散步和城市休闲的理想选择。"
+      },
+      {
+        "id": "location",
+        "title": "地理位置",
+        "content": "公园位于奈梅亨的黄金位置，地址是 Kronenburgersingel, 6511 AL Nijmegen。这个位置提供了无与伦比的城墙景观，是探索奈梅亨的绝佳起点。\n\n从公园可以轻松步行到达奈梅亨的其他景点，包括 Grote Markt（大市场）和 Valkhofpark。中心位置使公园成为奈梅亨理想的聚会场所。"
+      },
+      {
+        "id": "wildlife",
+        "title": "野生动物与自然环境",
+        "content": "Kronenburgerpark 不仅是历史遗址，也是享受城市自然的好地方。在公园和池塘周围，您可能会看到：\n\n• 各种水鸟，如鸭子和天鹅\n• 树上的松鼠（尤其在早晨）\n• 城墙旁美丽的日落景色\n• 历史建筑和纪念碑\n\n请尊重当地自然环境，不要向池塘扔垃圾，共同保护这片美丽的绿地。"
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "基础信息",
+    "officialName": "正式名称",
+    "officialNameValue": "Kronenburgerpark（克罗南堡公园）",
+    "type": "景点类型",
+    "typeValue": "城市公园、历史纪念碑、奈梅亨景点",
+    "country": "国家",
+    "countryValue": "荷兰",
+    "city": "城市",
+    "cityValue": "奈梅亨，海尔德兰省",
+    "googleRating": "谷歌评分",
+    "phone": "电话",
+    "phoneValue": "+31 630 731 481",
+    "address": "地址",
+    "addressValue": "Kronenburgersingel, 6511 AL Nijmegen, 荷兰"
+  },
+  "hours": {
+    "title": "开放时间",
+    "park": "公园开放",
+    "parkTime": "每日24小时开放（公共公园）",
+    "bestTime": "最佳游览时间",
+    "bestTimeSpring": "早晨（7-9点）：清新空气和柔和的晨光",
+    "bestTimeSummer": "傍晚（18-20点）：在城墙旁欣赏日落",
+    "bestTimeAutumn": "全天皆宜：公园内美丽的秋色",
+    "bestTimeWinter": "下午（12-14点）：冬季一天中最温暖的部分",
+    "tip": "建议查看奈梅亨市政府网站获取最新信息"
+  },
+  "tickets": {
+    "title": "门票信息",
+    "park": "公园入园",
+    "parkPrice": "完全免费，无需门票",
+    "parking": "停车费用",
+    "parkingPrice": "周边付费停车，有停车场可用",
+    "guided": "导览游（可选）",
+    "guidedPrice": "免费自助游，提供语音导览"
+  },
+  "transport": {
+    "title": "交通方式",
+    "fromCenter": "从市中心出发",
+    "fromCenterDesc": "从 Grote Markt（大市场）步行约10分钟。公园位于 Kronenburgersingel，靠近中央车站。",
+    "fromStation": "从中央车站出发",
+    "fromStationDesc": "从奈梅亨中央车站步行约10分钟，按照指示牌前往 Kronenburgerpark。",
+    "publicTransport": "公共交通",
+    "publicTransportDesc": "奈梅亨拥有优良的公交和火车连接。公园距离中央车站仅步行距离。",
+    "walking": "步行或骑行",
+    "walkingDesc": "从奈梅亨市中心步行或骑自行车即可轻松到达公园。",
+    "driving": "自驾与停车",
+    "drivingDesc": "附近有停车场，但建议乘坐公共交通或步行前往。"
+  },
+  "route": {
+    "title": "推荐游览路线",
+    "overview": "Kronenburgerpark 非常适合1-2小时的游览。建议您在早晨到达，欣赏历史城墙，在草坪上野餐，享受大自然。整个游览约需1.5-2小时。",
+    "steps": [
+      "到达公园，欣赏城墙的标志性圆形塔楼",
+      "环绕池塘散步，欣赏水鸟",
+      "在草地上找一个位置进行野餐或休息",
+      "拍摄历史城墙和绿色周围环境的照片",
+      "漫步公园宽阔的小径，享受大自然",
+      "参观附近的 Grote Markt（大市场）（步行约10分钟）",
+      "如果您在傍晚时分，在城墙旁欣赏日落",
+      "在长椅上放松，享受公园宁静的氛围"
+    ]
+  },
+  "photoSpots": {
+    "title": "最佳拍照点",
+    "spots": [
+      {
+        "name": "城墙塔楼",
+        "desc": "拍摄15世纪城墙的标志性圆形塔楼"
+      },
+      {
+        "name": "池塘景观",
+        "desc": "捕捉水中的倒影和水鸟"
+      },
+      {
+        "name": "绿色草坪",
+        "desc": "以城墙为背景拍摄广阔的绿色草坪"
+      },
+      {
+        "name": "日落",
+        "desc": "在历史城墙旁捕捉美丽的日落"
+      },
+      {
+        "name": "公园小径",
+        "desc": "在公园的步行小径上拍摄氛围感照片"
+      }
+    ]
+  },
+  "hotels": {
+    "title": "住宿建议",
+    "hotels": [
+      {
+        "name": "Hotel Oranjestaete Nijmegen（奥兰治斯塔特酒店）",
+        "desc": "市中心豪华精品酒店，步行5分钟到 Kronenburgerpark",
+        "price": "约€150-250/晚"
+      },
+      {
+        "name": "Van der Valk Hotel Nijmegen-Lent（范德瓦尔克酒店）",
+        "desc": "现代酒店，设施优良，乘公交10分钟到公园",
+        "price": "约€100-180/晚"
+      },
+      {
+        "name": "奈梅亨市中心民宿（B&B in Nijmegen Center）",
+        "desc": "舒适的住宿加早餐，正宗体验，步行距离到公园",
+        "price": "约€80-150/晚"
+      },
+      {
+        "name": "Stayokay Nijmegen（青年旅舍）",
+        "desc": "经济实惠的青旅选择，干净舒适，靠近市中心",
+        "price": "约€30-60/晚"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "精彩照片",
+    "subtitle": "Kronenburgerpark - 奈梅亨历史城墙公园",
+    "captions": [
+      "公园景色 1",
+      "公园景色 2",
+      "公园景色 3",
+      "公园景色 4",
+      "公园景色 5",
+      "公园景色 6",
+      "公园景色 7",
+      "公园景色 8",
+      "公园景色 9",
+      "公园景色 10",
+      "公园景色 11",
+      "公园景色 12",
+      "公园景色 13",
+      "公园景色 14",
+      "公园景色 15",
+      "公园景色 16",
+      "公园景色 17"
+    ],
+    "viewAll": "在 Google Maps 查看位置",
+    "showAll": "查看全部照片",
+    "showLess": "收起照片"
+  },
+  "reviews": {
+    "title": "游客评价",
+    "declaration": "评价信息可透过 Google Maps 查看（外部链接）。",
+    "moreReviews": "在 Google Maps 查看更多评价",
+    "items": [
+      {
+        "name": "张明（Jan de Vries）",
+        "date": "2026年5月",
+        "rating": 5,
+        "text": "Kronenburgerpark 是奈梅亨的美丽绿洲！城墙非常标志性，公园氛围非常轻松。真的很推荐来这里散步！"
+      },
+      {
+        "name": "李美玲（Maria van den Berg）",
+        "date": "2026年4月",
+        "rating": 5,
+        "text": "带孩子来玩非常合适。池塘很美，有足够的空间玩耍。历史城墙也令人印象深刻。"
+      },
+      {
+        "name": "王建国（Pieter Jansen）",
+        "date": "2026年3月",
+        "rating": 4,
+        "text": "美丽的历史公园，地理位置优越。唯一缺点是周末会有点拥挤。建议工作日来，更宁静。"
+      },
+      {
+        "name": "陈晓雯（Sophie de Wit）",
+        "date": "2026年2月",
+        "rating": 5,
+        "text": "荷兰最美的城市公园之一。奈梅亨的位置一流，城墙非常上镜。绝对值得一游！"
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "交通指南",
+    "subtitle": "Kronenburgersingel, 6511 AL Nijmegen, 荷兰",
+    "openMaps": "在 Google Maps 查看"
+  },
+  "footer": {
+    "rights": "© 2026 Kronenburgerpark 独立旅游研究协会 · 保留所有权利。",
+    "privacy": "隐私政策",
+    "terms": "服务条款",
+    "cookies": "Cookie 设置",
+    "officialResourcesTitle": "相关资源与资讯",
+    "officialLinks": {
+      "nijmegen": "奈梅亨市政府",
+      "gelderland": "海尔德兰省政府",
+      "cultureelErfgoed": "荷兰文化遗产",
+      "intonijmegen": "奈梅亨市旅游",
+      "overheid": "荷兰政府",
+      "nederlandWereldwijd": "荷兰环球"
+    },
+    "disclaimer": "本网站是一个独立的第三方旅游资讯项目。我们与当地政府或其他官方机构没有任何关联。"
+  },
+  "privacy": {
+    "title": "隐私政策",
+    "lastUpdated": "最后更新：2026年5月",
+    "sections": [
+      {
+        "heading": "1. 信息收集",
+        "content": "我们通常不会主动收集用户的个人可识别信息。您透过联系表单或电子邮件提供的任何信息将被严格保密。"
+      },
+      {
+        "heading": "2. 信息使用",
+        "content": "我们收集的信息仅用于提供、维护和改进我们的服务，以及与您沟通。我们不会将您的个人信息出售或分享给第三方用于营销目的。"
+      },
+      {
+        "heading": "3. Cookie 与追踪技术",
+        "content": "我们使用 Cookie 和类似的追踪技术来追踪我们网站上的活动并保存某些信息。您可以指示您的浏览器拒绝所有 Cookie 或在发送 Cookie 时进行提示。"
+      },
+      {
+        "heading": "4. 数据安全",
+        "content": "您数据的安全性对我们很重要。我们努力使用商业上可接受的方式来保护您的个人数据，但任何互联网传输方法都无法保证100%安全。"
+      }
+    ]
+  },
+  "terms": {
+    "title": "服务条款",
+    "lastUpdated": "最后更新：2026年5月",
+    "sections": [
+      {
+        "heading": "1. 接受条款",
+        "content": "通过访问和使用本网站，您同意受这些服务条款的约束。如果您不同意条款的任何部分，则不得访问该服务。"
+      },
+      {
+        "heading": "2. 服务使用",
+        "content": "本网站是一个独立的第三方旅游资讯项目。提供的信息仅供一般参考。您同意负责任且合法地使用本网站。"
+      },
+      {
+        "heading": "3. 知识产权",
+        "content": "本网站上的所有内容（包括文本、图像和徽标）均为网站所有者的财产（另有说明的除外）。严禁未经授权的使用、复制或分发。"
+      },
+      {
+        "heading": "4. 责任限制",
+        "content": "对于因使用或无法使用本网站或其中包含的信息而导致的任何直接、间接、附带或后果性损害，我们概不负责。"
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie 设置",
+    "description": "管理您的 Cookie 偏好设置。",
+    "essential": {
+      "title": "必要的 Cookie",
+      "description": "网站基本功能所需。",
+      "badge": "始终启用"
+    },
+    "analytics": {
+      "title": "分析 Cookie",
+      "description": "帮助我们了解访客如何与网站互动。"
+    },
+    "marketing": {
+      "title": "营销 Cookie",
+      "description": "用于跨网站追踪访客。"
+    },
+    "save": "保存设置",
+    "saved": "设置已保存！"
+  },
+  "officialManagement": {
+    "title": "关于 Kronenburgerpark",
+    "text": "Kronenburgerpark 是位于荷兰奈梅亨市的一座美丽历史城墙公园，由奈梅亨市政府管理。\n\n这座公园拥有15世纪的标志性城墙、美丽的池塘和广阔的绿色草坪。它是当地居民和游客最喜爱的目的地之一。无论是散步还是放松，这里都能提供完美的城市自然体验。"
+  },
+  "recommendations": {
+    "title": "",
+    "attractionsTitle": "",
+    "toursTitle": "",
+    "attractions": [],
+    "tours": []
+  }
+}

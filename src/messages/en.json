@@ -1,0 +1,333 @@
+{
+  "meta": {
+    "title": "Kronenburgerpark Nijmegen | Historic City Park - Must-Visit Attraction",
+    "description": "Complete guide to Kronenburgerpark in Nijmegen, Netherlands. Learn about this beautiful historic city park, its facilities, location, and visiting information. Enjoy the iconic castle wall and nature."
+  },
+  "header": {
+    "home": "Home",
+    "gallery": "Gallery",
+    "reviews": "Reviews",
+    "map": "Map",
+    "backToHome": "Back to Home"
+  },
+  "hero": {
+    "title": "Kronenburgerpark",
+    "subtitle": "Historic City Park Nijmegen - Enjoy the Castle Wall & Nature",
+    "rating": "4.5(5,141)",
+    "reviewCount": "5,141 reviews",
+    "type": "City Park · Nijmegen Must-Visit",
+    "openMaps": "View Location"
+  },
+  "intro": {
+    "title": "Discover Kronenburgerpark",
+    "description": "Kronenburgerpark is a beautiful historic city park located in Nijmegen, Netherlands. This park is renowned for its well-preserved castle wall from the 15th century, the serene pond, and the expansive green lawns, making it one of the most beloved recreational destinations for both locals and tourists.\n\nThe park is situated along Kronenburgersingel and offers a perfect balance between history and nature. The iconic round tower (castle wall) is a popular photogenic monument and a symbol of Nijmegen. It is an ideal place to walk, picnic, or simply relax in nature.\n\nWhether you come for a morning walk, an afternoon picnic, or to admire the historic castle wall, Kronenburgerpark offers you the perfect urban nature experience. The park features benches, lighting, and is easily accessible for pedestrians.",
+    "visitGuide": {
+      "title": "Visit Tips",
+      "items": [
+        "Park admission is free, no tickets required",
+        "Visit early morning or late afternoon for the best lighting conditions",
+        "Bring a picnic blanket and snacks for a relaxing afternoon",
+        "Weekends and holidays are busier - arrive early for a peaceful experience"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Park Highlights",
+      "items": [
+        "Famous for the historic castle wall (15th century) with iconic round tower",
+        "Beautiful pond and expansive green lawns",
+        "One of the most beloved city parks in Nijmegen",
+        "Perfect for photography, walking, and relaxation"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "About Kronenburgerpark",
+    "sections": [
+      {
+        "id": "history",
+        "title": "Park History",
+        "content": "Kronenburgerpark is built on the site of the former Kronenburgerpoort, an important part of Nijmegen's fortifications. The iconic round tower that you see in the park today is a remnant of the castle wall dating from the 15th century.\n\nThe park has been carefully maintained over the years and transformed into a beautiful city park that combines Nijmegen's rich history with modern recreational facilities. The castle wall is a national monument and attracts thousands of visitors annually."
+      },
+      {
+        "id": "features",
+        "title": "Park Facilities",
+        "content": "Kronenburgerpark is equipped with excellent facilities for visitors:\n\n• Spacious green lawns, perfect for picnics and relaxation\n• Beautiful pond with waterfowl\n• Historic castle wall with iconic round tower\n• Sufficient benches and seating areas\n• Walking paths throughout the park\n• Good lighting for evening walks\n• Accessible for pedestrians and strollers\n\nThese facilities make Kronenburgerpark an ideal choice for family outings, walks, and relaxation in the city."
+      },
+      {
+        "id": "location",
+        "title": "Location",
+        "content": "The park is located in a prime location in Nijmegen at Kronenburgersingel, 6511 AL Nijmegen. This location offers unparalleled views of the historic castle wall and is an excellent starting point for exploring Nijmegen.\n\nFrom the park, you can easily walk to other attractions in Nijmegen, including the Grote Markt and Valkhofpark. The central location makes the park an ideal meeting place in Nijmegen."
+      },
+      {
+        "id": "wildlife",
+        "title": "Wildlife & Natural Environment",
+        "content": "Kronenburgerpark is not only a historical site but also a great place to enjoy urban nature. In and around the park and pond, you might see:\n\n• Various waterfowl such as ducks and swans\n• Squirrels in the trees (especially in the morning)\n• Beautiful sunsets by the castle wall\n• Historic architecture and monuments\n\nPlease respect the local natural environment, do not throw waste in the pond, and help preserve this beautiful green space."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Basic Information",
+    "officialName": "Official Name",
+    "officialNameValue": "Kronenburgerpark",
+    "type": "Attraction Type",
+    "typeValue": "City Park, Historic Monument, Nijmegen Attraction",
+    "country": "Country",
+    "countryValue": "Netherlands",
+    "city": "City",
+    "cityValue": "Nijmegen, Gelderland",
+    "googleRating": "Google Rating",
+    "phone": "Phone",
+    "phoneValue": "+31 630 731 481",
+    "address": "Address",
+    "addressValue": "Kronenburgersingel, 6511 AL Nijmegen, Netherlands"
+  },
+  "hours": {
+    "title": "Park Hours",
+    "park": "Park Access",
+    "parkTime": "Open 24 hours daily (public park)",
+    "bestTime": "Best Time to Visit",
+    "bestTimeSpring": "Morning (7-9 AM): Fresh air and soft morning sun",
+    "bestTimeSummer": "Evening (18-20 PM): Enjoy sunset by the castle wall",
+    "bestTimeAutumn": "All day: Beautiful autumn colors in the park",
+    "bestTimeWinter": "Afternoon (12-14 PM): Warmest part of the day in winter",
+    "tip": "Check the municipality of Nijmegen website for the latest information"
+  },
+  "tickets": {
+    "title": "Admission Information",
+    "park": "Park Entry",
+    "parkPrice": "Completely free, no admission fee",
+    "parking": "Parking Fee",
+    "parkingPrice": "Paid parking in the area, parking garages available",
+    "guided": "Guided Tour (Optional)",
+    "guidedPrice": "Free self-guided tour, audio guide available"
+  },
+  "transport": {
+    "title": "How to Get Here",
+    "fromCenter": "From City Center",
+    "fromCenterDesc": "Walk about 10 minutes from the Grote Markt. The park is located on Kronenburgersingel, close to the central station.",
+    "fromStation": "From Central Station",
+    "fromStationDesc": "Walk about 10 minutes from Nijmegen Central Station, follow the signs to Kronenburgerpark.",
+    "publicTransport": "Public Transport",
+    "publicTransportDesc": "Nijmegen has excellent bus and train connections. The park is within walking distance from the central station.",
+    "walking": "Walking or Biking",
+    "walkingDesc": "The park is perfectly accessible on foot or by bike from the center of Nijmegen.",
+    "driving": "Driving & Parking",
+    "drivingDesc": "There are parking garages nearby, but it is recommended to come by public transport or on foot."
+  },
+  "route": {
+    "title": "Recommended Visit Route",
+    "overview": "Kronenburgerpark is perfect for a 1-2 hour visit. We recommend arriving in the morning, admiring the historic castle wall, having a picnic on the lawns, and enjoying nature. Plan about 1.5-2 hours for the entire visit.",
+    "steps": [
+      "Arrive at the park and admire the iconic round towers of the castle wall",
+      "Walk around the pond and enjoy the waterfowl",
+      "Find a spot on the grass for a picnic or rest moment",
+      "Take photos of the historic castle wall and the green surroundings",
+      "Walk through the wide paths of the park and enjoy nature",
+      "Visit the nearby Grote Markt (about 10 minutes walk)",
+      "Enjoy the sunset by the castle wall if you are there in the evening",
+      "Relax on a bench and enjoy the peaceful atmosphere of the park"
+    ]
+  },
+  "photoSpots": {
+    "title": "Best Photo Spots",
+    "spots": [
+      {
+        "name": "Castle Wall Tower",
+        "desc": "Photograph the iconic round towers of the 15th century castle wall"
+      },
+      {
+        "name": "Pond View",
+        "desc": "Capture reflections in the water and waterfowl"
+      },
+      {
+        "name": "Green Lawns",
+        "desc": "Photograph the expansive green lawns with the castle wall in the background"
+      },
+      {
+        "name": "Sunset",
+        "desc": "Capture beautiful sunsets by the historic walls"
+      },
+      {
+        "name": "Park Paths",
+        "desc": "Atmospheric photos on the walking paths through the park"
+      }
+    ]
+  },
+  "hotels": {
+    "title": "Accommodation",
+    "hotels": [
+      {
+        "name": "Hotel Oranjestaete Nijmegen",
+        "desc": "Luxury boutique hotel in the center, 5 minutes walk to Kronenburgerpark",
+        "price": "~€150-250/night"
+      },
+      {
+        "name": "Van der Valk Hotel Nijmegen-Lent",
+        "desc": "Modern hotel with excellent facilities, 10 minutes by bus to the park",
+        "price": "~€100-180/night"
+      },
+      {
+        "name": "B&B in Nijmegen Center",
+        "desc": "Cozy bed & breakfast, authentic experience, walking distance to the park",
+        "price": "~€80-150/night"
+      },
+      {
+        "name": "Stayokay Nijmegen",
+        "desc": "Budget-friendly hostel option, clean and comfortable, close to the center",
+        "price": "~€30-60/night"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Photo Gallery",
+    "subtitle": "Kronenburgerpark - Historic City Park Nijmegen",
+    "captions": [
+      "Park View 1",
+      "Park View 2",
+      "Park View 3",
+      "Park View 4",
+      "Park View 5",
+      "Park View 6",
+      "Park View 7",
+      "Park View 8",
+      "Park View 9",
+      "Park View 10",
+      "Park View 11",
+      "Park View 12",
+      "Park View 13",
+      "Park View 14",
+      "Park View 15",
+      "Park View 16",
+      "Park View 17"
+    ],
+    "viewAll": "View on Google Maps",
+    "showAll": "View All Photos",
+    "showLess": "Show Less"
+  },
+  "reviews": {
+    "title": "Visitor Reviews",
+    "declaration": "Visitor feedback can be viewed via Google Maps (external link).",
+    "moreReviews": "View more reviews on Google Maps",
+    "items": [
+      {
+        "name": "Jan de Vries",
+        "date": "May 2026",
+        "rating": 5,
+        "text": "Kronenburgerpark is a beautiful green oasis in Nijmegen! The castle wall is iconic and the atmosphere in the park is very relaxed. Highly recommended for a walk!"
+      },
+      {
+        "name": "Maria van den Berg",
+        "date": "April 2026",
+        "rating": 5,
+        "text": "Lovely park to visit with children. The pond is beautiful and there is plenty of space to play. The historic wall is also very impressive to see."
+      },
+      {
+        "name": "Pieter Jansen",
+        "date": "March 2026",
+        "rating": 4,
+        "text": "Beautiful historic park with a great location. Only downside is that it gets a bit crowded on weekends. Tip: come on a weekday for more peace."
+      },
+      {
+        "name": "Sophie de Wit",
+        "date": "February 2026",
+        "rating": 5,
+        "text": "One of the most beautiful city parks in the Netherlands. The location in Nijmegen is top and the castle wall is very photogenic. Worth a visit!"
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Location & Directions",
+    "subtitle": "Kronenburgersingel, 6511 AL Nijmegen, Netherlands",
+    "openMaps": "View on Google Maps"
+  },
+  "footer": {
+    "rights": "© 2026 Kronenburgerpark Independent Tourism Research Association · All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Settings",
+    "officialResourcesTitle": "Related Resources & Information",
+    "officialLinks": {
+      "nijmegen": "Municipality of Nijmegen",
+      "gelderland": "Province of Gelderland",
+      "cultureelErfgoed": "Cultural Heritage",
+      "intonijmegen": "Visit Nijmegen",
+      "overheid": "Dutch Government",
+      "nederlandWereldwijd": "Netherlands Worldwide"
+    },
+    "disclaimer": "This website is an independent third-party tourist information project. We are not affiliated with the local government or any other official institutions."
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: May 2026",
+    "sections": [
+      {
+        "heading": "1. Information Collection",
+        "content": "We generally do not actively collect personally identifiable information from users. Any information provided by you through contact forms or emails will be kept strictly confidential."
+      },
+      {
+        "heading": "2. Use of Information",
+        "content": "The information we collect is used solely to provide, maintain, and improve our services, and to communicate with you. We do not sell or share your personal information with third parties for marketing purposes."
+      },
+      {
+        "heading": "3. Cookies and Tracking",
+        "content": "We use cookies and similar tracking technologies to track the activity on our website and hold certain information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent."
+      },
+      {
+        "heading": "4. Data Security",
+        "content": "The security of your data is important to us. We use commercially acceptable means to protect your Personal Data, though no method of transmission over the Internet is 100% secure."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last updated: May 2026",
+    "sections": [
+      {
+        "heading": "1. Acceptance of Terms",
+        "content": "By accessing and using this website, you agree to be bound by these terms of service. If you disagree with any part of the terms, you may not access the service."
+      },
+      {
+        "heading": "2. Use of Service",
+        "content": "This website is an independent third-party tourist information project. The information provided is for general informational purposes only. You agree to use the site responsibly and lawfully."
+      },
+      {
+        "heading": "3. Intellectual Property",
+        "content": "All content on this website, including texts, images, and logos, is the property of the website owner unless otherwise stated. Unauthorized use, reproduction, or distribution is strictly prohibited."
+      },
+      {
+        "heading": "4. Limitation of Liability",
+        "content": "We shall not be held liable for any direct, indirect, incidental, or consequential damages resulting from the use or inability to use this website or the information contained herein."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie Settings",
+    "description": "Manage your cookie preferences.",
+    "essential": {
+      "title": "Essential Cookies",
+      "description": "Required for basic website functionality.",
+      "badge": "Always active"
+    },
+    "analytics": {
+      "title": "Analytics Cookies",
+      "description": "Help us understand how visitors interact with the site."
+    },
+    "marketing": {
+      "title": "Marketing Cookies",
+      "description": "Used to track visitors across websites."
+    },
+    "save": "Save Preferences",
+    "saved": "Preferences saved!"
+  },
+  "officialManagement": {
+    "title": "About Kronenburgerpark",
+    "text": "Kronenburgerpark is a beautiful historic city park located in Nijmegen, Netherlands, managed by the Municipality of Nijmegen.\n\nThis park features the iconic castle wall from the 15th century, a beautiful pond, and expansive green lawns. It is one of the most beloved destinations for both locals and visitors. Whether you come for a walk or to relax, this park offers you the perfect urban nature experience."
+  },
+  "recommendations": {
+    "title": "",
+    "attractionsTitle": "",
+    "toursTitle": "",
+    "attractions": [],
+    "tours": []
+  }
+}
