@@ -1,12 +1,14 @@
 'use client';
 
-import { useTranslations } from 'next-intl';
+import { useTranslations, useMessages } from 'next-intl';
 
 export default function TicketsSection() {
   const t = useTranslations('tickets');
+  const messages = useMessages() as any;
+  const topics: string[] = messages?.tickets?.guidedTopics || [];
 
   return (
-    <section className="section-padding" style={{ background: 'var(--bg-secondary)' }}>
+    <section id="tickets" className="section-padding" style={{ background: 'var(--bg-secondary)' }}>
       <div className="max-w-4xl mx-auto">
         <h2
           className="font-display text-3xl sm:text-4xl font-semibold mb-6"
@@ -64,19 +66,31 @@ export default function TicketsSection() {
           </div>
         </div>
 
-        {/* Guided Tour */}
+        {/* Guided / Educational exploration */}
         <div
-          className="mt-6 rounded-xl p-5 flex items-start gap-4"
+          className="mt-6 rounded-xl p-6"
           style={{ background: 'var(--bg-tertiary)', border: '1px solid var(--accent)' }}
         >
-          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="var(--accent)" strokeWidth="2" className="flex-shrink-0 mt-0.5">
-            <circle cx="12" cy="12" r="10"/>
-            <line x1="12" y1="16" x2="12" y2="12"/>
-            <line x1="12" y1="8" x2="12.01" y2="8"/>
-          </svg>
-          <div>
-            <p className="font-medium" style={{ color: 'var(--text-primary)' }}>{t('guided')}</p>
-            <p className="text-sm" style={{ color: 'var(--text-secondary)' }}>{t('guidedPrice')}</p>
+          <div className="flex items-start gap-4">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="var(--accent)" strokeWidth="2" className="flex-shrink-0 mt-0.5">
+              <circle cx="12" cy="12" r="10"/>
+              <line x1="12" y1="16" x2="12" y2="12"/>
+              <line x1="12" y1="8" x2="12.01" y2="8"/>
+            </svg>
+            <div className="flex-1">
+              <p className="font-medium" style={{ color: 'var(--text-primary)' }}>{t('guided')}</p>
+              <p className="text-sm mb-3" style={{ color: 'var(--text-secondary)' }}>{t('guidedPrice')}</p>
+              {topics.length > 0 && (
+                <ul className="grid grid-cols-1 sm:grid-cols-2 gap-2">
+                  {topics.map((topic, i) => (
+                    <li key={i} className="flex items-start gap-2 text-sm" style={{ color: 'var(--text-secondary)' }}>
+                      <span className="mt-1.5 flex-shrink-0 w-1.5 h-1.5 rounded-full" style={{ background: 'var(--accent)' }} />
+                      <span>{topic}</span>
+                    </li>
+                  ))}
+                </ul>
+              )}
+            </div>
           </div>
         </div>
       </div>

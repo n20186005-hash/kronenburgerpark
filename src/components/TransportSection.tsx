@@ -1,18 +1,26 @@
 'use client';
 
-import { useTranslations } from 'next-intl';
+import { useTranslations, useMessages } from 'next-intl';
 import type { ReactNode } from 'react';
 
 export default function TransportSection() {
   const t = useTranslations('transport');
+  const messages = useMessages() as any;
+  const airports = (messages?.transport?.airports || []) as Array<{
+    code: string;
+    name: string;
+    steps: string[];
+  }>;
+  const lastMile = (messages?.transport?.lastMile || []) as string[];
+  const accessibility = (messages?.transport?.accessibility || []) as string[];
 
-  const transportOptions = [
+  const overviewOptions = [
     {
       key: 'fromCenter',
       icon: (
         <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-          <path d="M12 2L2 22h20L12 2z"/>
-          <circle cx="12" cy="15" r="3"/>
+          <path d="M12 2L2 22h20L12 2z" />
+          <circle cx="12" cy="15" r="3" />
         </svg>
       ),
     },
@@ -20,9 +28,9 @@ export default function TransportSection() {
       key: 'fromStation',
       icon: (
         <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-          <rect x="2" y="3" width="20" height="14" rx="2"/>
-          <path d="M8 21h8"/>
-          <path d="M12 17v4"/>
+          <rect x="2" y="3" width="20" height="14" rx="2" />
+          <path d="M8 21h8" />
+          <path d="M12 17v4" />
         </svg>
       ),
     },
@@ -30,21 +38,10 @@ export default function TransportSection() {
       key: 'publicTransport',
       icon: (
         <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-          <rect x="4" y="3" width="16" height="16" rx="2"/>
-          <path d="M4 11h16"/>
-          <circle cx="8" cy="15" r="1"/>
-          <circle cx="16" cy="15" r="1"/>
-        </svg>
-      ),
-    },
-    {
-      key: 'walking',
-      icon: (
-        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-          <path d="M12 2l3 7h-6l3-7z"/>
-          <path d="M12 9v13"/>
-          <path d="M8 17l4 4 4-4"/>
-          <path d="M5 22h14"/>
+          <rect x="4" y="3" width="16" height="16" rx="2" />
+          <path d="M4 11h16" />
+          <circle cx="8" cy="15" r="1" />
+          <circle cx="16" cy="15" r="1" />
         </svg>
       ),
     },
@@ -52,37 +49,73 @@ export default function TransportSection() {
       key: 'driving',
       icon: (
         <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-          <path d="M14 3v4a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V3"/>
-          <path d="M14 6h6a1 1 0 0 1 1 1v2a1 1 0 0 1-1 1h-6"/>
-          <path d="M4 20h16"/>
-          <circle cx="7" cy="17" r="2"/>
-          <circle cx="17" cy="17" r="2"/>
-        </svg>
-      ),
-    },
-    {
-      key: 'fromAirport',
-      icon: (
-        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-          <path d="M17.8 19.2L16 11l3.5-3.5C21 6 21.5 4 21 3c-1-.5-3 0-4.5 1.5L13 8 4.8 6.2c-.5-.1-.9.2-1.1.6L2.5 9l5.4 3.1L4.7 15.3 2 15l-1 1 3 4 4 3 1-1-.3-2.7 3.2-3.2 3.1 5.4 2.2-1.2c.4-.2.7-.6.6-1.1z"/>
+          <path d="M14 3v4a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V3" />
+          <path d="M14 6h6a1 1 0 0 1 1 1v2a1 1 0 0 1-1 1h-6" />
+          <path d="M4 20h16" />
+          <circle cx="7" cy="17" r="2" />
+          <circle cx="17" cy="17" r="2" />
         </svg>
       ),
     },
   ];
 
   return (
-    <section className="section-padding">
+    <section className="section-padding" id="transport">
       <div className="max-w-5xl mx-auto">
         <h2
-          className="font-display text-3xl sm:text-4xl font-semibold mb-6"
+          className="font-display text-3xl sm:text-4xl font-semibold mb-2"
           style={{ color: 'var(--text-primary)' }}
         >
           {t('title')}
         </h2>
+        <p className="text-base leading-relaxed mb-4 max-w-2xl" style={{ color: 'var(--text-secondary)' }}>
+          {t('intro')}
+        </p>
         <div className="w-12 h-0.5 mb-10" style={{ background: 'var(--accent)' }} />
 
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-          {transportOptions.map((option) => (
+        {/* Airport-to-site routes */}
+        <h3 className="font-display text-xl font-semibold mb-4" style={{ color: 'var(--text-primary)' }}>
+          {t('airportTitle')}
+        </h3>
+        <div className="space-y-4 mb-10">
+          {airports.map((a) => (
+            <div
+              key={a.code}
+              className="rounded-xl p-5"
+              style={{ background: 'var(--bg-tertiary)', border: '1px solid var(--border-color)' }}
+            >
+              <div className="flex items-center gap-3 mb-3">
+                <span
+                  className="text-xs font-bold px-2 py-1 rounded"
+                  style={{ background: 'var(--accent)', color: 'white' }}
+                >
+                  {a.code}
+                </span>
+                <h4 className="font-semibold" style={{ color: 'var(--text-primary)' }}>{a.name}</h4>
+              </div>
+              <ol className="space-y-2">
+                {a.steps.map((step, i) => (
+                  <li key={i} className="flex items-start gap-3 text-sm" style={{ color: 'var(--text-secondary)' }}>
+                    <span
+                      className="flex-shrink-0 w-5 h-5 rounded-full flex items-center justify-center text-xs font-bold"
+                      style={{ background: 'var(--bg-primary)', color: 'var(--accent)' }}
+                    >
+                      {i + 1}
+                    </span>
+                    <span>{step}</span>
+                  </li>
+                ))}
+              </ol>
+            </div>
+          ))}
+        </div>
+
+        {/* Local overview */}
+        <h3 className="font-display text-xl font-semibold mb-4" style={{ color: 'var(--text-primary)' }}>
+          {t('localTitle')}
+        </h3>
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-10">
+          {overviewOptions.map((option) => (
             <TransportCard
               key={option.key}
               icon={option.icon}
@@ -91,6 +124,48 @@ export default function TransportSection() {
             />
           ))}
         </div>
+
+        {/* Last mile */}
+        {lastMile.length > 0 && (
+          <div
+            className="rounded-xl p-5 mb-6"
+            style={{ background: 'var(--bg-tertiary)', border: '1px solid var(--border-color)' }}
+          >
+            <h4 className="font-semibold mb-3" style={{ color: 'var(--text-primary)' }}>{t('lastMileTitle')}</h4>
+            <ul className="space-y-2">
+              {lastMile.map((line, i) => (
+                <li key={i} className="flex items-start gap-2 text-sm" style={{ color: 'var(--text-secondary)' }}>
+                  <span className="mt-1.5 flex-shrink-0 w-1.5 h-1.5 rounded-full" style={{ background: 'var(--accent)' }} />
+                  <span>{line}</span>
+                </li>
+              ))}
+            </ul>
+          </div>
+        )}
+
+        {/* Accessibility */}
+        {accessibility.length > 0 && (
+          <div
+            className="rounded-xl p-5"
+            style={{ background: 'var(--bg-tertiary)', border: '1px solid var(--accent)' }}
+          >
+            <h4 className="font-semibold mb-3 flex items-center gap-2" style={{ color: 'var(--text-primary)' }}>
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="var(--accent)" strokeWidth="2">
+                <circle cx="12" cy="4" r="2" />
+                <path d="M12 6v6m0 0l-3 7m3-7l3 7M8 10h8" />
+              </svg>
+              {t('accessibilityTitle')}
+            </h4>
+            <ul className="space-y-2">
+              {accessibility.map((line, i) => (
+                <li key={i} className="flex items-start gap-2 text-sm" style={{ color: 'var(--text-secondary)' }}>
+                  <span className="mt-1.5 flex-shrink-0 w-1.5 h-1.5 rounded-full" style={{ background: 'var(--accent)' }} />
+                  <span>{line}</span>
+                </li>
+              ))}
+            </ul>
+          </div>
+        )}
       </div>
     </section>
   );

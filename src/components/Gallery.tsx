@@ -4,27 +4,29 @@ import { useTranslations, useMessages } from 'next-intl';
 import { useState, useCallback } from 'react';
 
 const photos = [
-  { src: '/gallery/kronenburgerpark (1).jpg', alt: 'Kronenburgerpark 照片 1' },
-  { src: '/gallery/kronenburgerpark (2).jpg', alt: 'Kronenburgerpark 照片 2' },
-  { src: '/gallery/kronenburgerpark (3).jpg', alt: 'Kronenburgerpark 照片 3' },
-  { src: '/gallery/kronenburgerpark (4).jpg', alt: 'Kronenburgerpark 照片 4' },
-  { src: '/gallery/kronenburgerpark (5).jpg', alt: 'Kronenburgerpark 照片 5' },
-  { src: '/gallery/kronenburgerpark (6).jpg', alt: 'Kronenburgerpark 照片 6' },
-  { src: '/gallery/kronenburgerpark (7).jpg', alt: 'Kronenburgerpark 照片 7' },
-  { src: '/gallery/kronenburgerpark (8).jpg', alt: 'Kronenburgerpark 照片 8' },
-  { src: '/gallery/kronenburgerpark (9).jpg', alt: 'Kronenburgerpark 照片 9' },
-  { src: '/gallery/kronenburgerpark (10).jpg', alt: 'Kronenburgerpark 照片 10' },
-  { src: '/gallery/kronenburgerpark (11).jpg', alt: 'Kronenburgerpark 照片 11' },
-  { src: '/gallery/kronenburgerpark (12).jpg', alt: 'Kronenburgerpark 照片 12' },
-  { src: '/gallery/kronenburgerpark (13).jpg', alt: 'Kronenburgerpark 照片 13' },
-  { src: '/gallery/kronenburgerpark (14).jpg', alt: 'Kronenburgerpark 照片 14' },
-  { src: '/gallery/kronenburgerpark (15).jpg', alt: 'Kronenburgerpark 照片 15' },
-  { src: '/gallery/kronenburgerpark (16).jpg', alt: 'Kronenburgerpark 照片 16' },
-  { src: '/gallery/kronenburgerpark (17).jpg', alt: 'Kronenburgerpark 照片 17' },
+  { src: '/gallery/kronenburgerpark (1).jpg' },
+  { src: '/gallery/kronenburgerpark (2).jpg' },
+  { src: '/gallery/kronenburgerpark (3).jpg' },
+  { src: '/gallery/kronenburgerpark (4).jpg' },
+  { src: '/gallery/kronenburgerpark (5).jpg' },
+  { src: '/gallery/kronenburgerpark (6).jpg' },
+  { src: '/gallery/kronenburgerpark (7).jpg' },
+  { src: '/gallery/kronenburgerpark (8).jpg' },
+  { src: '/gallery/kronenburgerpark (9).jpg' },
+  { src: '/gallery/kronenburgerpark (10).jpg' },
+  { src: '/gallery/kronenburgerpark (11).jpg' },
+  { src: '/gallery/kronenburgerpark (12).jpg' },
+  { src: '/gallery/kronenburgerpark (13).jpg' },
+  { src: '/gallery/kronenburgerpark (14).jpg' },
+  { src: '/gallery/kronenburgerpark (15).jpg' },
+  { src: '/gallery/kronenburgerpark (16).jpg' },
+  { src: '/gallery/kronenburgerpark (17).jpg' },
 ];
 
 export default function Gallery() {
   const t = useTranslations('gallery');
+  const messages = useMessages() as any;
+  const captions: string[] = messages?.gallery?.captions || [];
   const [currentIndex, setCurrentIndex] = useState(0);
   const [isLightboxOpen, setIsLightboxOpen] = useState(false);
   const [showAll, setShowAll] = useState(true); // 默认显示全部照片
@@ -39,6 +41,8 @@ export default function Gallery() {
 
   const openLightbox = () => setIsLightboxOpen(true);
   const closeLightbox = () => setIsLightboxOpen(false);
+
+  const altFor = (i: number) => captions[i] || t('title');
 
   return (
     <>
@@ -66,14 +70,14 @@ export default function Gallery() {
                 >
                   <img
                     src={photo.src}
-                    alt={photo.alt}
+                    alt={altFor(i)}
                     className="w-full h-full object-cover rounded-lg"
                     style={{ minHeight: i === 0 ? '400px' : '180px' }}
                     loading="lazy"
                   />
                   <div className="absolute inset-0 bg-black/0 group-hover:bg-black/30 transition-colors rounded-lg flex items-end">
                     <p className="text-white text-sm p-3 opacity-0 group-hover:opacity-100 transition-opacity">
-                      {photo.alt}
+                      {altFor(i)}
                     </p>
                   </div>
                 </div>
@@ -142,7 +146,7 @@ export default function Gallery() {
 
           <img
             src={photos[currentIndex].src}
-            alt={photos[currentIndex].alt}
+            alt={altFor(currentIndex)}
             className="max-w-[90vw] max-h-[85vh] object-contain rounded-lg"
             onClick={(e) => e.stopPropagation()}
           />

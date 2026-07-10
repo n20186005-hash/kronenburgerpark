@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Kronenburgerpark Nijmegen | Historisch Stadspark - Must-Visit Attractie",
-    "description": "Complete gids voor Kronenburgerpark in Nijmegen, Nederland. Ontdek dit prachtige historische stadspark, de facilitaire voorzieningen, locatie en bezoekinformatie. Geniet van de iconische kasteelmuur en natuur."
+    "title": "Kronenburgerpark Nijmegen | Middeleeuws Vestingsrestant & Stedelijk Ecopark",
+    "description": "Een onafhankelijke, niet-commerciële gids voor het Kronenburgerpark in Nijmegen: de Kruittoren uit de 15e eeuw, de overgebleven stadswal en de ecologie en geschiedenis van het park. Bezoekinfo, historie en natuur."
   },
   "header": {
     "home": "Home",
@@ -12,56 +12,192 @@
   },
   "hero": {
     "title": "Kronenburgerpark",
-    "subtitle": "Historisch Stadspark Nijmegen - Geniet van de Kasteelmuur & Natuur",
-    "rating": "4.5(5,141)",
-    "reviewCount": "5,141 beoordelingen",
-    "type": "Stadspark · Nijmegen Must-Visit",
+    "subtitle": "Middeleeuws Vestingsrestant & Stedelijk Ecopark, Nijmegen",
+    "rating": "4.7 (6.073)",
+    "reviewCount": "6.073 beoordelingen",
+    "type": "Historisch Monument · Stedelijk Park",
     "openMaps": "Bekijk Locatie"
   },
   "intro": {
-    "title": "Ontdek Kronenburgerpark",
-    "description": "Kronenburgerpark is een prachtig historisch stadspark gelegen in Nijmegen, Nederland. Dit park is beroemd om zijn goed bewaarde kasteelmuur uit de 15e eeuw, de serene vijver en de uitgestrekte groene weides, waardoor het een van de meest geliefde recreatieve bestemmingen is voor zowel locals als toeristen.\n\nHet park ligt aan de Kronenburgersingel en biedt een perfecte balans tussen historie en natuur. De iconische ronde toren (kasteelmuur) is een populair fotogeniek monument en een symbool van Nijmegen. Het is een ideale plek om te wandelen, picknicken of simpelweg te ontspannen in de natuur.\n\nOf u nu komt voor een ochtendwandeling, een middagpicknick, of om de historische kasteelmuur te bewonderen, Kronenburgerpark biedt u de perfecte stadsnatuur ervaring. Het park beschikt over bankjes, verlichting en is gemakkelijk toegankelijk voor voetgangers.",
+    "title": "Over Kronenburgerpark",
+    "description": "Kronenburgerpark is een openbaar stedelijk park in Nijmegen, gelegen op de plek van de voormalige stadsverdediging. Het meest opvallende element is de Kruittoren, een ronde poorttoren die rond 1425 werd gebouwd als onderdeel van de middeleeuwse stadsmuren. Na het verlies van de vestingstatus door de Vestingwet van 1874 werden de overgebleven wallen in 1881 door landschapsarchitect Liévin Rosseels en architect Pierre Cuypers verwerkt in een openbaar parkontwerp. Het park functioneert vandaag de dag tegelijk als beschermd monument, als ecologisch leefgebied en als ruimte voor recreatie en informeel onderwijs.",
     "visitGuide": {
       "title": "Bezoektips",
       "items": [
-        "Het park is gratis toegankelijk, geen tickets nodig",
-        "Bezoek in de vroege ochtend of late middag voor de beste lichtomstandigheden",
-        "Breng een picknickdeken en snacks mee voor een ontspannen middag",
-        "Weekenden en feestdagen zijn drukker - arriveer vroeg voor een rustige ervaring"
+        "Toegang is gratis; het park is vrij toegankelijk voor het publiek.",
+        "Vroege ochtend en late middag bieden het rustigste licht en de minste bezoekers.",
+        "Neem een deken en water mee voor rust op het gazon; picknicken is toegestaan.",
+        "Weekenden en feestdagen zijn het drukst; doordeweeks is het rustiger."
       ]
     },
     "alsoKnownAs": {
-      "title": "Park Highlights",
+      "title": "Kenmerken",
       "items": [
-        "Bekend om de historische kasteelmuur (15e eeuw) met iconische ronde toren",
-        "Prachtige vijver en uitgestrekte groene weides",
-        "Een van de meest geliefde stadsparken in Nijmegen",
-        "Perfect voor fotografie, wandelen en ontspanning"
+        "De Kruittoren (ca. 1425), een ronde middeleeuwse poorttoren en rijksmonument.",
+        "Restanten van de stadswal uit de 15e eeuw.",
+        "Een vijver als leefgebied voor watervogels en amfibieën.",
+        "Beheerd als zowel monument als stedelijk ecologisch reservaat."
       ]
     }
   },
   "knowledge": {
-    "title": "Over Kronenburgerpark",
+    "title": "Overzicht",
     "sections": [
       {
         "id": "history",
-        "title": "Park Geschiedenis",
-        "content": "Kronenburgerpark is gebouwd op de locatie van de voormalige Kronenburgerpoort, een belangrijk onderdeel van de verdedigingswerken van Nijmegen. De iconische ronde toren die u vandaag de dag in het park ziet, is een overblijfsel van de kasteelmuur die dateert uit de 15e eeuw.\n\nHet park is in de loop der jaren zorgvuldig onderhouden en omgevormd tot een prachtig stadspark dat de rijke geschiedenis van Nijmegen combineert met moderne recreatieve voorzieningen. De kasteelmuur is een rijksmonument en trekt jaarlijks duizenden bezoekers."
+        "title": "Geschiedenis & Erfgoed",
+        "content": "Kronenburgerpark ligt op de plek van de voormalige Kronenburgerpoort, een toegangspoort in de middeleeuwse verdediging van Nijmegen. De ronde Kruittoren in het park dateert van circa 1425 en is het best bewaarde restant van de stadsmuur. Na de Vestingwet van 1874, waarmee Nijmegen zijn vestingstatus verloor, dreigde de sloop van de muren; in plaats daarvan werden de restanten in 1881 door Rosseels en Cuypers verweven in een openbaar park. De wal en de toren zijn beschermd als rijksmonument."
       },
       {
         "id": "features",
-        "title": "Park Faciliteiten",
-        "content": "Kronenburgerpark beschikt over uitstekende voorzieningen voor bezoekers:\n\n• Ruime groene weides, perfect voor picknicks en ontspanning\n• Een prachtige vijver met watervogels\n• Historische kasteelmuur met iconische ronde toren\n• Voldoende bankjes en zitgelegenheid\n• Wandellijnen door het park\n• Goede verlichting voor avondwandelingen\n• Toegankelijk voor voetgangers en kinderwagens\n\nDeze faciliteiten maken Kronenburgerpark een ideale keuze voor familie-uitjes, wandelingen en ontspanning in de stad."
+        "title": "Voorzieningen",
+        "content": "Kronenburgerpark biedt openbare infrastructuur voor bezoekers:\n\n• Open gazon geschikt voor rust en picknick\n• Een vijver met watervogels en aquatisch leven\n• De historische wal en de Kruittoren\n• Bankjes en zitgelegenheid door het hele park\n• Voetpaden die de hoofdelementen verbinden\n• Verlichting voor donkere uren\n• Gelijkvloerse toegang voor voetgangers en kinderwagens\n\nDeze voorzieningen ondersteunen recreatie met minimale impact op het monument."
       },
       {
         "id": "location",
         "title": "Locatie",
-        "content": "Het park bevindt zich op een prima locatie in Nijmegen aan de Kronenburgersingel, 6511 AL Nijmegen. Deze locatie biedt een ongeëvenaard uitzicht op de historische kasteelmuur en is een uitstekend startpunt voor het verkennen van Nijmegen.\n\nVanuit het park kunt u gemakkelijk naar andere bezienswaardigheden in Nijmegen lopen, waaronder de Grote Markt en het Valkhofpark. De centrale ligging maakt het park een ideale ontmoetingsplek in Nijmegen."
+        "content": "Het park ligt aan de Kronenburgersingel, 6511 AL Nijmegen, op de voormalige westelijke toegang tot de stad. Vanaf deze plek heeft men direct zicht op de Kruittoren en de bakstenen wal. Vanuit het park is het een korte wandeling naar de Grote Markt en het Valkhofpark, waardoor het een natuurlijk startpunt is voor de historische binnenstad."
       },
       {
         "id": "wildlife",
-        "title": "Natuur & Omgeving",
-        "content": "Kronenburgerpark is niet alleen een historische site, maar ook een geweldige plek om te genieten van stadsnatuur. In en rond het park en de vijver kunt u mogelijk zien:\n\n• Diverse watervogels zoals eenden en zwanen\n• Eekhoorns in de bomen (vooral in de ochtend)\n• Prachtige zonsondergangen bij de kasteelmuur\n• Historische architectuur en monumenten\n\nRespecteer de lokale natuurlijke omgeving, gooi geen afval in de vijver en help deze prachtige groene ruimte te behouden."
+        "title": "Natuur & Leefgebied",
+        "content": "Naast zijn erfgoedwaarde is Kronenburgerpark een stedelijk leefgebied. De vijver en gazons bieden ruimte aan watervogels zoals eenden en zwanen, terwijl vrijlopende pauwen en grazende geiten deel uitmaken van de ecologie en het beheer van de begroeiing. Rode eekhoorns en zangvogels worden regelmatig gezien, vooral in de vroege ochtend. Bezoekers wordt gevraagd de natuur te respecteren: houd honden aan de lijn en voed de dieren niet."
+      }
+    ]
+  },
+  "historyTimeline": {
+    "title": "Historische Tijdlijn",
+    "intro": "Van middeleeuwse vesting tot beschermd openbaar park: de sleutelmomenten in de ontwikkeling van de locatie.",
+    "items": [
+      {
+        "year": "ca.1425",
+        "title": "De Kruittoren wordt gebouwd",
+        "desc": "Een ronde poorttoren wordt opgericht als onderdeel van de uitbreidende stadsmuur van Nijmegen, een weerspiegeling van de toenmalige vooruitgang in artillerieverdediging."
+      },
+      {
+        "year": "1874",
+        "title": "De Vestingwet",
+        "desc": "Een landelijke wet ontnemt Nijmegen zijn status als vestingstad. De middeleeuwse wallen verliezen hun militaire functie en worden ter sloop aangemerkt."
+      },
+      {
+        "year": "1881",
+        "title": "Een park wordt ontworpen",
+        "desc": "Landschapsarchitect Liévin Rosseels en architect Pierre Cuypers verwerken de overgebleven wallen en toren in een openbaar park, waarmee zij behoud mogelijk maken."
+      },
+      {
+        "year": "1985",
+        "title": "Er verschijnt een lied",
+        "desc": "Zanger-liedschrijver Frank Boeijen brengt 'Kronenburg Park' uit, een nummer dat deel gaat uitmaken van het Nederlandse culturele geheugen."
+      },
+      {
+        "year": "Nu",
+        "title": "Erfgoed & ecologie",
+        "desc": "Het park wordt door de gemeente Nijmegen beheerd als beschermd monument en stedelijk ecologisch reservaat, toegankelijk voor publiek en gebruikt voor informeel onderwijs."
+      }
+    ]
+  },
+  "historyHeritage": {
+    "title": "Geschiedenis & Erfgoed",
+    "intro": "Drie episodes die verklaren waarom Kronenburgerpark van belang is als erfgoedlocatie, en niet slechts als recreatief terrein.",
+    "items": [
+      {
+        "id": "vestingwet",
+        "title": "Het behoud van de wal (de Vestingwet van 1874)",
+        "content": "In 1874 nam het Nederlandse parlement de Vestingwet aan, een wet die het stelsel van vestingsteden ontmantelde. Nijmegen verloor daarmee zijn militaire status, en de omliggende wallen — kostbaar in onderhoud en verouderd in de moderne oorlogvoering — werden ter sloop aangemerkt. Op een moment dat veel Europese steden hun muren slechtten, dreigde Nijmegen een bepalend deel van zijn identiteit te verliezen. De uiteindelijke keuze om de overgebleven muren te behouden en een nieuwe functie te geven was allesbehalve vanzelfsprekend, en is de reden dat de Kruittoren en de wal vandaag de dag nog bestaan."
+      },
+      {
+        "id": "kruittoren",
+        "title": "De Kruittoren: een middeleeuwse poorttoren (ca. 1425)",
+        "content": "Het beeldbepalende bouwwerk van het park is de Kruittoren, een bijna ronde toren gebouwd rond 1425 als onderdeel van de stedelijke verdedigingsring. De ronde vorm was een bewust antwoord op buskruitartillerie: een cilindrisch profiel kaatst kanonsvuur effectiever af dan vlakke muren, en het dikke metselwerk was bedoeld om buskruit op veilige afstand van de stad op te slaan. Als overblijfsel uit het artillerietijdperk is de toren een belangrijk document van middeleeuwse militaire architectuur en beschermd als rijksmonument."
+      },
+      {
+        "id": "modern",
+        "title": "Van verwaarloosd terrein tot cultuurmonument",
+        "content": "In de late 20e eeuw raakte het park in verval en kreeg het een reputatie als onveilig deel van de stad. Een vernieuwingsprogramma maakte er weer een veilige, goed onderhouden openbare ruimte van. De culturele betekenis werd bevestigd in 1985, toen de Nijmeegse zanger Frank Boeijen 'Kronenburg Park' uitbracht, een ingetogen lied dat deel bleef uitmaken van de Nederlandse populaire canon. Het park verenigt vandaag erfgoed, ecologie en publiek gebruik."
+      }
+    ]
+  },
+  "architecture": {
+    "title": "Architectuur & Archeologie",
+    "intro": "Een referentiearchief over de middeleeuwse verdedigingsstructuur van het park, met nadruk op de Kruittoren en diens restauratiegeschiedenis.",
+    "schematicAlt": "Schets van de ronde Kruittoren met kanonskogelafbuiging en het binnenste kruithol",
+    "schematicCaption": "Schematische reconstructie van de Kruittoren (ca. 1425): een cilindrische vorm kaatst inkomend vuur af, met een beschermd binnenste kruithol.",
+    "facts": [
+      { "label": "Gebouwd", "value": "ca. 1425" },
+      { "label": "Vorm", "value": "Ronde toren" },
+      { "label": "Gerestaureerd", "value": "1878–1883" },
+      { "label": "Monumentnr.", "value": "522957" }
+    ],
+    "items": [
+      {
+        "id": "kruittoren-analysis",
+        "title": "Anatomie van de Kruittoren",
+        "content": "De Kruittoren is een bijna cilindrische toren, rond 1425 gebouwd als onderdeel van de uitbreidende stadsmuur van Nijmegen. Het ronde profiel was een bewust antwoord op de verspreiding van buskruitartillerie: een ronde muur kaatst inkomende kanonskogels effectiever af dan een vlakke muur, waardoor de energie van een schampschot wordt gedissipeerd. Het massieve baksteen- en stenenmetselwerk — het dikst aan de basis — was zowel bedoeld om extern bombardement te weerstaan als om het risico van een interne explosie bij ontsteking van het opgeslagen kruit te beperken. Binnen hield een gewelfde ruimte het kruit droog en geïsoleerd van woonvertrekken. Als overblijfsel uit het artillerietijdperk is de toren een primair document van laatmiddeleeuwse militaire architectuur."
+      },
+      {
+        "id": "cuypers-restoration",
+        "title": "De restauratie van 1878–1883 door Pierre Cuypers",
+        "content": "Nadat Nijmegen zijn vestingstatus verloor door de Vestingwet van 1874, begon in 1876 de sloop van de wallen. Een eerste parkontwerp (1880) stelde voor de resterende muur geheel te verwijderen. Tussen 1881 en 1882 herzag landschapsarchitect Liévin Rosseels het ontwerp echter, en op sterk advies van de vermaarde architect Pierre Cuypers koos de gemeente ervoor de wal te behouden en in het nieuwe landschap te verweven. Cuypers leidde zelf de ingrijpende restauratie van de Kruittoren van 1878 tot 1883: hij consolideerde het metselwerk, reconstrueerde verdwenen elementen en vastigde het silhoeet dat wij vandaag zien. Het park en de toren staan nu als rijksmonument (nr. 522957) op de hoogste erfgoedbescherming."
+      },
+      {
+        "id": "archaeology",
+        "title": "Archeologie & de stadsmuur",
+        "content": "De bewaarde wal is een fragment van een veel grotere middeleeuwse enceinte die ooit Nijmegen omsloot. Opgravingen en archiefcartografie stellen geleerden in staat de oorspronkelijke muurlijn en de ligging van poorten zoals de Kronenburgerpoort te reconstrueren. Het in het park behouden deel functioneert daarmee als een openlucht-archeologisch archief: elke baksteenlaag documenteert een fase van de stadsontwikkeling, en de overgang tussen toren en aarden wal toont hoe artillerieverdediging op oudere vestingwerken werd gelegd."
+      }
+    ]
+  },
+  "floraFauna": {
+    "title": "Flora & Fauna",
+    "intro": "Kronenburgerpark herbergt een kleine maar opvallende gemeenschap van stedelijke natuur. Tik op een kaart voor meer informatie.",
+    "tapHint": "Tik voor meer",
+    "cards": [
+      {
+        "name": "Pauw",
+        "latin": "Pavo cristatus",
+        "icon": "peacock",
+        "desc": "Vrijlopende pauwen behoren tot de meest herkenbare bewoners van het park. Houd honden aan de lijn en voer ze niet, om de dieren niet te belasten."
+      },
+      {
+        "name": "Damherten",
+        "latin": "Dama dama",
+        "icon": "deer",
+        "desc": "Een kleine kudde damherten wordt in het park gehouden als onderdeel van de levende collectie. Zij zijn gewend aan bezoekers, maar moeten niet gevoerd of van dichtbij benaderd worden."
+      },
+      {
+        "name": "Grazende Geiten",
+        "latin": "Capra aegagrus hircus",
+        "icon": "goat",
+        "desc": "Geiten worden ingezet voor natuurlijk beheer: zij houden grasland en taluds open zonder machines — een vorm van beheer met minimale impact."
+      },
+      {
+        "name": "Rode Eekhoorn",
+        "latin": "Sciurus vulgaris",
+        "icon": "squirrel",
+        "desc": "Rode eekhoorns zijn 's ochtends vroeg het meest actief tussen de volwassen bomen. Zij zijn een inheemse soort en een nuttige indicator voor de kwaliteit van het stedelijk leefgebied."
+      },
+      {
+        "name": "Zwanen & Watervogels",
+        "latin": "Cygnus olor / Anatidae",
+        "icon": "waterfowl",
+        "desc": "De vijver biedt onderdak aan knobbelzwanen, eenden en andere watervogels. Oplettende bezoekers zien mogelijk ook amfibieën langs de oever."
+      },
+      {
+        "name": "Zomereik",
+        "latin": "Quercus robur",
+        "icon": "tree",
+        "desc": "Volwassen loofbomen, waaronder eiken, vormen het bladerdak van het park. Hun seizoenscyclus bepaalt grotendeels de ecologie en kleur van het park."
+      },
+      {
+        "name": "Linde (kleinbladig)",
+        "latin": "Tilia cordata",
+        "icon": "tree",
+        "desc": "Een inheemse loofboom, gewaardeerd om zijn nectarrijke bloemen. Hij ondersteunt bestuivers en draagt bij aan het zomerse bladerdak."
+      },
+      {
+        "name": "Zangvogels",
+        "latin": "Passeriformes",
+        "icon": "bird",
+        "desc": "Een verscheidenheid aan zangvogels bewoont de gazons en boomrijen. Vroege bezoeken bieden de beste kansen voor vogelaars."
       }
     ]
   },
@@ -69,138 +205,184 @@
     "title": "Basisinformatie",
     "officialName": "Officiële Naam",
     "officialNameValue": "Kronenburgerpark",
-    "type": "Type Attractie",
-    "typeValue": "Stadspark, Historisch Monument, Nijmegen Attractie",
+    "type": "Type",
+    "typeValue": "Stedelijk Park, Rijksmonument, Erfgoedlocatie",
     "country": "Land",
     "countryValue": "Nederland",
     "city": "Stad",
     "cityValue": "Nijmegen, Gelderland",
-    "googleRating": "Google Beoordeling",
-    "phone": "Telefoon",
-    "phoneValue": "+31 630 731 481",
+    "googleRating": "Bezoekerswaardering",
+    "phone": "Beheercontact",
+    "phoneValue": "+31 6 30731481",
+    "pets": "Huisdieren",
+    "petsValue": "Honden toegestaan (aan de lijn, om pauwen en andere dieren te beschermen)",
+    "plusCode": "Plus Code",
+    "plusCodeValue": "RVW4+HX Nijmegen, Nederland",
     "address": "Adres",
     "addressValue": "Kronenburgersingel, 6511 AL Nijmegen, Nederland"
   },
   "hours": {
     "title": "Openingsuren",
-    "park": "Park Toegang",
+    "park": "Toegang",
     "parkTime": "Dagelijks 24 uur geopend (openbaar park)",
-    "bestTime": "Beste Tijd om te Bezoeken",
-    "bestTimeSpring": "Ochtend (7-9 AM): Friste lucht en zachte ochtendzon",
-    "bestTimeSummer": "Avond (18-20 PM): Geniet van de zonsondergang bij de kasteelmuur",
-    "bestTimeAutumn": "Hele dag: Prachtige herfstkleuren in het park",
-    "bestTimeWinter": "Middag (12-14 PM): Warmste deel van de dag in de winter",
-    "tip": "Controleer de website van de gemeente Nijmegen voor de meest recente informatie"
+    "bestTime": "Seizoen- & Ecologische Notities",
+    "bestTimeSpring": "Lente (mrt–mei): Vogelactiviteit en broedende watervogels; het bladerdak loopt uit.",
+    "bestTimeSummer": "Zomer (jun–aug): Dichte begroeiing en lange dagen, geschikt voor avondwandelingen.",
+    "bestTimeAutumn": "Herfst (sep–nov): Vallende bladerencontrasteren met de bakstenen wal; trektijd voor vogels.",
+    "bestTimeWinter": "Winter (dec–feb): Blote takken onthullen het metselwerk van de toren; zachte middagen zijn aangenaam.",
+    "tip": "Raadpleeg de website van de gemeente Nijmegen voor de meest actuele informatie."
   },
   "tickets": {
-    "title": "Toegangsinformatie",
-    "park": "Park Toegang",
-    "parkPrice": "Volledig gratis, geen toegangsgeld",
-    "parking": "Parkeerkosten",
-    "parkingPrice": "Betaald parkeren in de omgeving, parkeergarages beschikbaar",
-    "guided": "Educatieve Ontdekking",
-    "guidedPrice": "Gratis educatieve audiogids over de geschiedenis en natuur van het park"
+    "title": "Toegang & Voorzieningen",
+    "park": "Parktoegang",
+    "parkPrice": "Gratis, geen entreegeld",
+    "parking": "Parkeren",
+    "parkingPrice": "Betaald parkeren in de omliggende straten; parkeergarages in de buurt.",
+    "guided": "Educatieve Verkenning",
+    "guidedPrice": "Een gratis audio-commentaar verklaart de geschiedenis en ecologie van het park. Onderwerpen:",
+    "guidedTopics": [
+      "Middeleeuwse verdedigingsarchitectuur van de Kruittoren",
+      "De Vestingwet van 1874 en het behoud van de wal",
+      "Stadsnatuur kijken en seizoensecologie",
+      "Natuurlijk beheer (grazende geiten)"
+    ]
   },
   "transport": {
     "title": "Hoe er te Komen",
+    "intro": "Reisadvies van deur tot deur vanaf de belangrijkste luchthavens van Nederland naar het park, met een toegankelijkheidsverklaring voor bezoekers met rolstoel of kinderwagen.",
+    "airportTitle": "Luchthaven naar Park",
+    "localTitle": "Lokale Verbindingen",
+    "lastMileTitle": "Het Laatste Stuk: Station naar Park",
+    "accessibilityTitle": "Toegankelijkheid",
     "fromAirport": "Vanaf de Luchthaven",
-    "fromAirportDesc": "Er zijn directe treinverbindingen vanaf Schiphol Airport of Eindhoven Airport naar Nijmegen Centraal Station.",
+    "fromAirportDesc": "Er rijden directe treinen vanaf Schiphol of Eindhoven Airport naar Nijmegen Centraal.",
     "fromCenter": "Vanaf het Centrum",
-    "fromCenterDesc": "Loop ongeveer 10 minuten vanaf de Grote Markt. Het park bevindt zich aan de Kronenburgersingel, vlakbij het centraal station.",
+    "fromCenterDesc": "Loop ongeveer 10 minuten vanaf de Grote Markt. Het park ligt aan de Kronenburgersingel, vlakbij het station.",
     "fromStation": "Vanaf Centraal Station",
-    "fromStationDesc": "Loop ongeveer 10 minuten vanaf Nijmegen Centraal Station, volg de borden naar Kronenburgerpark.",
+    "fromStationDesc": "Loop ongeveer 10 minuten vanaf Nijmegen Centraal, volg de borden naar Kronenburgerpark.",
     "publicTransport": "Openbaar Vervoer",
-    "publicTransportDesc": "Nijmegen heeft uitstekende bus- en verbindingen. Het park is op loopafstand van het centraal station.",
+    "publicTransportDesc": "Nijmegen heeft frequente bus- en treinverbindingen. Het park ligt op loopafstand van het station.",
     "walking": "Wandelen of Fietsen",
-    "walkingDesc": "Het park is perfect bereikbaar te voet of per fiets vanuit het centrum van Nijmegen.",
+    "walkingDesc": "Het park is lopend of per fiets gemakkelijk bereikbaar vanuit het centrum.",
     "driving": "Met de Auto & Parkeren",
-    "drivingDesc": "Er zijn parkeergarages in de buurt, maar het wordt aanbevolen om met het openbaar vervoer of te voet te komen."
+    "drivingDesc": "Parkeergarages zijn in de buurt; openbaar vervoer of actieve verplaatsing wordt aanbevolen.",
+    "airports": [
+      {
+        "code": "AMS",
+        "name": "Luchthaven Amsterdam Schiphol (AMS)",
+        "steps": [
+          "Daal vanaf de terminal af naar het ondergrondse NS-station en neem een Intercity richting Nijmegen.",
+          "Sommige treinen rijden direct; andere vereisen een overstap op hetzelfde perron in Utrecht Centraal (ca. 1 uur 30 – 1 uur 45 min totaal).",
+          "Stap uit bij Nijmegen Centraal en volg de looproute hieronder."
+        ]
+      },
+      {
+        "code": "EIN",
+        "name": "Luchthaven Eindhoven (EIN)",
+        "steps": [
+          "Neem buiten de terminal bus 400 of 401 naar Eindhoven Centraal (ca. 25 min).",
+          "Stap over op een NS-Intercity richting Nijmegen (meestal met overstap in 's-Hertogenbosch).",
+          "Stap uit bij Nijmegen Centraal (ca. 1 uur 30 min totaal) en volg de looproute hieronder."
+        ]
+      }
+    ],
+    "lastMile": [
+      "Verlaat Nijmegen Centraal via de hoofdingang en ga oostwaarts.",
+      "Volg het stationsplein, steek via de tunnel of zebrapad over, en sla rechts (zuid) de Kronenburgersingel in.",
+      "Het park verschijnt na een vlakke wandeling van ongeveer 5–10 minuten aan uw linkerzijde."
+    ],
+    "accessibility": [
+      "De trottoirs van het station naar de parkingang zijn breed en vlak, geschikt voor rolstoelen en kinderwagens.",
+      "De buitenring en de hoofdgazons zijn drempelvrij en vast berijdbaar.",
+      "De aarden wal en de verhoogde uitkijkpunten kennen trappen en hellingen; voor de bovenste niveaus is mogelijk hulp nodig.",
+      "Bezoekers met grote bagage wordt aangeraden eerst de bagagevoorziening van het station te gebruiken."
+    ]
   },
   "route": {
-    "title": "Aanbevolen Bezoekroute",
-    "overview": "Kronenburgerpark is perfect voor een bezoek van 1-2 uur. We raden aan om in de ochtend aan te komen, de historische kasteelmuur te bewonderen, te picknicken op de weides en te genieten van de natuur. Plan ongeveer 1,5-2 uur voor het hele bezoek.",
+    "title": "Voorgesteld Bezoektraject",
+    "overview": "Kronenburgerpark leent zich goed voor een bezoek van 1–2 uur. Wij adviseren 's ochtends te komen om de Kruittoren te bestuderen, uit te rusten op het gazon en het vijverleven te observeren. Reken op 1,5–2 uur voor de volledige ronde.",
     "steps": [
-      "Kom aan in het park en bewonder de iconische ronde toren van de kasteelmuur",
-      "Wandel rond de vijver en geniet van de watervogels",
-      "Zoek een plekje op het gras voor een picknick of rustmoment",
-      "Maak foto's van de historische kasteelmuur en de groene omgeving",
-      "Wandel door de brede paden van het park en geniet van de natuur",
-      "Bezoek de nabijgelegen Grote Markt (ongeveer 10 minuten lopen)",
-      "Geniet van de zonsondergang bij de kasteelmuur als u in de avond bent",
-      "Relax op een bankje en geniet van de rustige sfeer van het park"
+      "Kom aan en bekijk de ronde Kruittoren en de overgebleven wal.",
+      "Loop de wal en lees de geschiedenis van de verdediging.",
+      "Pauzeer bij de vijver om watervogels en, in het seizoen, broedvogels te zien.",
+      "Let op de vrijlopende pauwen en de grazende geiten.",
+      "Volg de voetpaden door de gazons en het volwassen bladerdak.",
+      "Loop door naar de nabijgelegen Grote Markt (ca. 10 minuten).",
+      "Bezoek je 's avonds, bekijk de toren bij laag licht.",
+      "Rust op een bankje en let op de combinatie van erfgoed en ecologie."
     ]
   },
   "photoSpots": {
-    "title": "Beste Fotoplekken",
+    "title": "Opvallende Zichten",
     "spots": [
       {
-        "name": "Kasteelmuur Toren",
-        "desc": "Fotografeer de iconische ronde toren van de 15e eeuwse kasteelmuur"
+        "name": "De Kruittoren",
+        "desc": "De ronde poorttoren (ca. 1425) tegen de bakstenen wal."
       },
       {
-        "name": "Vijverzicht",
-        "desc": "Maak foto's van de reflectie in het water en de watervogels"
+        "name": "Vijvergezicht",
+        "desc": "Spiegeling in het water en de watervogels."
       },
       {
-        "name": "Groene Weides",
-        "desc": "Fotografeer de uitgestrekte groene weides met de kasteelmuur op de achtergrond"
+        "name": "Gazon & Wal",
+        "desc": "De open gazons met de historische muur op de achtergrond."
       },
       {
-        "name": "Zonsondergang",
-        "desc": "Vastleg de prachtige zonsondergang bij de historische muren"
+        "name": "Laag Licht",
+        "desc": "Het metselwerk van de toren bij ochtend- of avondlicht."
       },
       {
-        "name": "Parkpaden",
-        "desc": "Sfeervolle foto's maken op de wandelpaden door het park"
+        "name": "Voetpaden",
+        "desc": "Sfeervolle doorkijkjes langs de beplante paden."
       }
     ]
   },
   "hotels": {
-    "title": "Accommodatie",
+    "title": "Overnachten in de Buurt",
     "hotels": [
       {
         "name": "Hotel Oranjestaete Nijmegen",
-        "desc": "Luxe boetiekhotel in het centrum, 5 minuten lopen naar Kronenburgerpark",
+        "desc": "Boetiekhotel in het centrum, 5 minuten lopen van Kronenburgerpark.",
         "price": "~€150-250/nacht"
       },
       {
         "name": "Van der Valk Hotel Nijmegen-Lent",
-        "desc": "Modern hotel met uitstekende voorzieningen, 10 minuten met de bus naar het park",
+        "desc": "Modern hotel met goede voorzieningen, 10 minuten met de bus van het park.",
         "price": "~€100-180/nacht"
       },
       {
         "name": "B&B in Centrum Nijmegen",
-        "desc": "Gezellige bed & breakfast, Authentieke ervaring, loopafstand naar het park",
+        "desc": "Gezellige bed & breakfast, authentieke ervaring, loopafstand tot het park.",
         "price": "~€80-150/nacht"
       },
       {
         "name": "Stayokay Nijmegen",
-        "desc": "Budget-vriendelijke hostel optie, schoon en comfortabel, dicht bij het centrum",
+        "desc": "Budgetvriendelijke hostel, schoon en comfortabel, dicht bij het centrum.",
         "price": "~€30-60/nacht"
       }
     ]
   },
   "gallery": {
     "title": "Foto Galerij",
-    "subtitle": "Kronenburgerpark - Historisch Stadspark Nijmegen",
+    "subtitle": "Kronenburgerpark — Middeleeuws Vestingsrestant & Stedelijk Ecopark",
     "captions": [
-      "Park Zicht 1",
-      "Park Zicht 2",
-      "Park Zicht 3",
-      "Park Zicht 4",
-      "Park Zicht 5",
-      "Park Zicht 6",
-      "Park Zicht 7",
-      "Park Zicht 8",
-      "Park Zicht 9",
-      "Park Zicht 10",
-      "Park Zicht 11",
-      "Park Zicht 12",
-      "Park Zicht 13",
-      "Park Zicht 14",
-      "Park Zicht 15",
-      "Park Zicht 16",
-      "Park Zicht 17"
+      "De Kruittoren",
+      "Wal en gazon",
+      "Parkpad",
+      "Vijver en watervogels",
+      "Bakstenen wal",
+      "Open gazon",
+      "Boomkruin",
+      "Voetpad door groen",
+      "Parkoverzicht",
+      "Detail stadsmuur",
+      "Oever",
+      "Seizoensblad",
+      "Wijd parkzicht",
+      "Toren bij licht",
+      "Gazon en pad",
+      "Rustige hoek",
+      "Avondlicht"
     ],
     "viewAll": "Bekijk op Google Maps",
     "showAll": "Alle Foto's Bekijken",
@@ -208,32 +390,32 @@
   },
   "reviews": {
     "title": "Bezoekersbeoordelingen",
-    "declaration": "Beoordelingen zijn te bekijken via Google Maps (externe link).",
+    "declaration": "Beoordelingen zijn te raadplegen via Google Maps (externe link).",
     "moreReviews": "Meer beoordelingen op Google Maps",
     "items": [
       {
         "name": "Jan de Vries",
         "date": "Mei 2026",
         "rating": 5,
-        "text": "Kronenburgerpark is een prachtige groene oase in Nijmegen! De kasteelmuur is iconisch en de sfeer in het park is heel relaxed. Echt een aanrader voor een wandeling!"
+        "text": "Kronenburgerpark is een rustige groene ruimte in Nijmegen. De Kruittoren is opvallend, en de combinatie van erfgoed en natuur is bijzonder. Een goede plek voor een wandeling."
       },
       {
         "name": "Maria van den Berg",
         "date": "April 2026",
         "rating": 5,
-        "text": "Heerlijk park om met kinderen te bezoeken. De vijver is mooi en er is genoeg ruimte om te spelen. De historische muur is ook heel indrukwekkend om te zien."
+        "text": "Een prettig park om met kinderen te bezoeken. De vijver en open ruimte werken goed, en de historische wal is echt interessant om te zien."
       },
       {
         "name": "Pieter Jansen",
         "date": "Maart 2026",
         "rating": 4,
-        "text": "Mooi historisch park met een geweldige ligging. Alleen jammer dat het in het weekend wat drukker is. Tip: kom op een doordeweekse dag voor meer rust."
+        "text": "Een goed onderhouden historisch park op een goede locatie. In het weekend is het drukker; doordeweeks is het rustiger."
       },
       {
         "name": "Sophie de Wit",
         "date": "Februari 2026",
         "rating": 5,
-        "text": "Een van de mooiste stadsparken in Nederland. De ligging in Nijmegen is top en de kasteelmuur is fotogeniek. Zeker de moeite waard om te bezoeken!"
+        "text": "Een van de meer bijzondere stedelijke parken van Nederland vanwege het monument. De toren is bijzonder fotogeniek."
       }
     ]
   },
@@ -243,7 +425,7 @@
     "openMaps": "Bekijk op Google Maps"
   },
   "footer": {
-    "rights": "© 2026 Kronenburgerpark Onafhankelijke Toerisme Onderzoeksvereniging · Alle rechten voorbehouden.",
+    "rights": "© 2026 Kronenburgerpark Onafhankelijke Erfgoed Onderzoeksvereniging · Alle rechten voorbehouden.",
     "privacy": "Privacybeleid",
     "terms": "Algemene Voorwaarden",
     "cookies": "Cookie Instellingen",
@@ -256,7 +438,7 @@
       "overheid": "Nederlandse Overheid",
       "nederlandWereldwijd": "Nederland Wereldwijd"
     },
-    "disclaimer": "Deze website is een onafhankelijk derde partij toeristisch informatieproject. Wij zijn niet gelieerd aan de lokale overheid of andere officiële instellingen."
+    "disclaimer": "Deze website is een onafhankelijk, niet-commercieel erfgoed- en ecologieonderzoeksproject. Wij zijn niet gelieerd aan de Gemeente Nijmegen of enige andere officiële instelling."
   },
   "privacy": {
     "title": "Privacybeleid",
@@ -268,11 +450,11 @@
       },
       {
         "heading": "2. Gebruik van Informatie",
-        "content": "De informatie die we verzamelen wordt uitsluitend gebruikt om onze diensten te leveren, te onderhouden en te verbeteren, en om met u te communiceren. We verkopen of delen uw persoonlijke informatie niet met derden voor marketingdoeleinden."
+        "content": "De informatie die we verzamelen wordt uitsluitend gebruikt om onze diensten te leveren, te onderhouden en te verbeteren. We verkopen of delen uw persoonlijke informatie niet met derden voor marketingdoeleinden."
       },
       {
         "heading": "3. Cookies en Tracking",
-        "content": "We gebruiken cookies en vergelijkbare trackingtechnologieën om de activiteit op onze website te volgen en bepaalde informatie vast te houden. U kunt uw browser instrueren om alle cookies te weigeren of om aan te geven wanneer een cookie wordt verzonden."
+        "content": "We gebruiken cookies en vergelijkbare technieken om te begrijpen hoe bezoekers met de site omgaan. U kunt uw browser instrueren om alle cookies te weigeren of om aan te geven wanneer een cookie wordt verzonden."
       },
       {
         "heading": "4. Gegevensbeveiliging",
@@ -290,7 +472,7 @@
       },
       {
         "heading": "2. Gebruik van Dienst",
-        "content": "Deze website is een onafhankelijk derde partij toeristisch informatieproject. De verstrekte informatie is uitsluitend bedoeld voor algemene informatieve doeleinden. U gaat ermee akkoord de site op een verantwoordelijke en wettige manier te gebruiken."
+        "content": "Deze website is een onafhankelijk, niet-commercieel erfgoed- en ecologieonderzoeksproject. De verstrekte informatie is uitsluitend bedoeld voor algemene informatieve doeleinden. U gaat ermee akkoord de site op een verantwoordelijke en wettige manier te gebruiken."
       },
       {
         "heading": "3. Intellectueel Eigendom",
@@ -322,8 +504,8 @@
     "saved": "Voorkeuren opgeslagen!"
   },
   "officialManagement": {
-    "title": "Over Kronenburgerpark",
-    "text": "Kronenburgerpark is een prachtig historisch stadspark gelegen in Nijmegen, Nederland, beheerd door de gemeente Nijmegen.\n\nDit park beschikt over de iconische kasteelmuur uit de 15e eeuw, een prachtige vijver en uitgestrekte groene weides. Het is een van de meest geliefde bestemmingen voor zowel locals als bezoekers. Of u nu komt voor een wandeling of om te ontspannen, dit park biedt u de perfecte stadsnatuur ervaring."
+    "title": "Over het Park",
+    "text": "Kronenburgerpark is een historisch openbaar park in Nijmegen, beheerd door de Gemeente Nijmegen. Het behoudt een deel van de middeleeuwse verdedigingsring van de stad, waaronder de Kruittoren (ca. 1425). Het park verbindt erfgoed met stedelijke ecologie en biedt groen voor bewoners en bezoekers."
   },
   "recommendations": {
     "title": "",
@@ -331,5 +513,51 @@
     "toursTitle": "",
     "attractions": [],
     "tours": []
+  },
+  "references": {
+    "title": "Bronnen & Verder Lezen",
+    "intro": "Deze gids is gebaseerd op openbare erfgoedregistraties en gemeentelijke bronnen. De volgende bronnen ondersteunen de historische en ecologische informatie op deze pagina.",
+    "items": [
+      {
+        "title": "Kronenburgerpark — Wikipedia (Nederlands)",
+        "publisher": "Wikimedia Foundation",
+        "url": "https://nl.wikipedia.org/wiki/Kronenburgerpark"
+      },
+      {
+        "title": "Kronenburgerpark — Gemeentelijke parkinformatie",
+        "publisher": "Gemeente Nijmegen",
+        "url": "https://www.nijmegen.nl/"
+      },
+      {
+        "title": "Rijksmonumentenregister",
+        "publisher": "Rijksdienst voor het Cultureel Erfgoed",
+        "url": "https://www.cultureelerfgoed.nl/"
+      },
+      {
+        "title": "Visit Nijmegen — Officiële toerismeportal",
+        "publisher": "Intonijmegen",
+        "url": "https://en.intonijmegen.com/"
+      },
+      {
+        "title": "'Kronenburg Park' — Frank Boeijen (1985)",
+        "publisher": "Nederlandse liedcanon / publieke omroeparchieven",
+        "url": "https://nl.wikipedia.org/wiki/Frank_Boeijen_(zanger)"
+      }
+    ]
+  },
+  "toc": {
+    "label": "Op deze pagina",
+    "hero": "Overzicht",
+    "intro": "Over",
+    "basicInfo": "Basisinfo",
+    "historyTimeline": "Tijdlijn",
+    "historyHeritage": "Erfgoed",
+    "architecture": "Architectuur",
+    "floraFauna": "Flora & Fauna",
+    "tickets": "Toegang",
+    "transport": "Route",
+    "route": "Wandelroute",
+    "gallery": "Galerij",
+    "references": "Bronnen"
   }
 }
