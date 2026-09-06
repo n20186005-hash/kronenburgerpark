@@ -1,7 +1,57 @@
 {
   "meta": {
-    "title": "Kronenburgerpark Nijmegen | Medieval Rampart Relic & Urban Ecology Park",
-    "description": "An independent, non-profit guide to Kronenburgerpark in Nijmegen: the 15th-century Kruittoren powder tower, the surviving city ramparts, and the park's ecology and heritage. Visiting information, history, and wildlife."
+    "title": "Kronenburgerpark Nijmegen | Historic Park & Kruittoren (Free Entry)",
+    "description": "Kronenburgerpark in Nijmegen: the 15th-century Kruittoren powder tower, ornamental pond and surviving medieval ramparts. Free entry, open 24 hours. Parking, walking routes and visitor tips."
+  },
+  "kruittorenPage": {
+    "metaTitle": "Kruittoren Nijmegen | 15th-Century Powder Tower in Kronenburgerpark",
+    "metaDescription": "All about Nijmegen's Kruittoren: the round 15th-century gunpowder tower (c. 1425) in Kronenburgerpark. History, why it is round, and how to see it for free.",
+    "pageTitle": "The Kruittoren of Nijmegen",
+    "pageLead": "The round medieval powder tower that gives Kronenburgerpark its character — built around 1425, protected as a rijksmonument and free to admire from the park.",
+    "factsTitle": "Kruittoren at a glance",
+    "facts": [
+      { "label": "Built", "value": "c. 1425" },
+      { "label": "Purpose", "value": "Gunpowder store & city defence" },
+      { "label": "Status", "value": "Rijksmonument (protected)" },
+      { "label": "Setting", "value": "Kronenburgerpark, Nijmegen" },
+      { "label": "Viewing", "value": "Free · park open 24/7" }
+    ],
+    "storyTitle": "A tower built for gunpowder",
+    "storyLead": "Three short chapters explain why this tower was built — and why it is still standing.",
+    "storyItems": [
+      {
+        "id": "oorsprong",
+        "title": "Powder storage for the city defences (c. 1425)",
+        "content": "The Kruittoren was erected around 1425 as part of Nijmegen's medieval defensive ring. Inside its thick walls the city stored gunpowder, kept at a safe distance from the built-up town centre. The tower is a rare surviving example of early fortification designed for the age of cannon."
+      },
+      {
+        "id": "waarom-rond",
+        "title": "Why is the tower round?",
+        "content": "Round towers arrived with gunpowder artillery: a circular profile has no vulnerable corners and deflects cannon fire far better than flat walls. The Kruittoren's almost circular ground plan is a textbook example of this design logic."
+      },
+      {
+        "id": "behouden",
+        "title": "Saved by the park (1870s–1880s)",
+        "content": "In 1874 the Vestingwet stripped Nijmegen of its fortress status, and the ramparts were scheduled for demolition. Around the surviving masonry a public park was laid out, which preserved the Kruittoren. Architect Pierre Cuypers restored the tower in 1878–1883. Today the monument stands in a freely accessible park."
+      }
+    ],
+    "visitTitle": "Visiting the Kruittoren",
+    "visitLead": "You view the Kruittoren from the outside, in a public park — no fences, no entry fee.",
+    "visitItems": [
+      { "title": "Free & always open", "text": "Kronenburgerpark is freely accessible all year round, so the tower can be seen up close at any time of day." },
+      { "title": "In the old centre", "text": "The tower stands at the edge of the old city centre along Kronenburgersingel, about a 10-minute walk from Nijmegen Centraal station." },
+      { "title": "Best moments", "text": "Come early or late in the day: the light is at its best and the park is at its quietest." }
+    ],
+    "faqTitle": "Kruittoren FAQ",
+    "faqLead": "Quick answers about Nijmegen's medieval powder tower.",
+    "faqItems": [
+      { "q": "What is the Kruittoren?", "a": "The Kruittoren is a round medieval tower from around 1425, built to store gunpowder as part of Nijmegen's city defences. It is protected as a rijksmonument and is the most famous monument in Kronenburgerpark." },
+      { "q": "Why was the Kruittoren built round?", "a": "A circular profile has no vulnerable corners and deflects cannonballs more effectively than flat walls. Round designs became standard once gunpowder artillery appeared." },
+      { "q": "Do I have to pay to see the Kruittoren?", "a": "No. The tower stands in Kronenburgerpark, a public park that is free and accessible around the clock." }
+    ],
+    "backTitle": "Discover the whole park",
+    "backText": "The complete Kronenburgerpark visitor guide — history, walking routes, wildlife, parking and much more.",
+    "backCta": "Read the Kronenburgerpark guide"
   },
   "header": {
     "home": "Home",
@@ -13,8 +63,8 @@
   "hero": {
     "title": "Kronenburgerpark",
     "subtitle": "Medieval Defensive Relic & Urban Ecology Park, Nijmegen",
-    "rating": "4.7 (6,073)",
-    "reviewCount": "6,073 reviews",
+    "rating": "4.5 (5,231)",
+    "reviewCount": "5,231 reviews",
     "type": "Historical Landmark · Urban Park",
     "openMaps": "View Location"
   },
@@ -115,7 +165,10 @@
         "title": "From neglected ground to cultural landmark",
         "content": "In the later 20th century the park fell into disrepair and acquired a reputation as an insecure part of the city. A programme of renewal restored it as a safe, well-maintained public space. Its cultural resonance was cemented in 1985 when Nijmegen singer-songwriter Frank Boeijen released 'Kronenburg Park', a quietly enduring song that remains part of the Dutch popular canon. The park today balances heritage conservation, ecology, and public use."
       }
-    ]
+    ],
+    "towerPageTitle": "The Kruittoren in detail",
+    "towerPageText": "The story of Nijmegen's medieval powder tower — why it was built round, how it survived, and what you see there today.",
+    "towerPageCta": "Read the Kruittoren guide"
   },
   "floraFauna": {
     "title": "Flora & Fauna",
@@ -214,7 +267,11 @@
     "transport": "Getting Here",
     "route": "Route",
     "gallery": "Gallery",
-    "references": "References"
+    "references": "References",
+    "faq": "FAQ",
+    "weather": "Weather",
+    "amenities": "Amenities",
+    "sources": "Sources"
   },
   "basicInfo": {
     "title": "Basic Information",
@@ -280,7 +337,7 @@
     "walking": "Walking or Cycling",
     "walkingDesc": "The park is easily reached on foot or by bicycle from the centre of Nijmegen.",
     "driving": "Driving & Parking",
-    "drivingDesc": "Parking garages are available nearby; public transport or active travel is recommended.",
+    "drivingDesc": "Paid parking on Kronenburgersingel and the surrounding streets (parking meters); several central car parks are within walking distance. Public transport or walking is recommended — check current rates on the Municipality of Nijmegen website.",
     "airports": [
       {
         "code": "AMS",
@@ -437,7 +494,9 @@
   "mapSection": {
     "title": "Location & Directions",
     "subtitle": "Kronenburgersingel, 6511 AL Nijmegen, Netherlands",
-    "openMaps": "View on Google Maps"
+    "openMaps": "View on Google Maps",
+    "officialPortalText": "For official updates and regional tourism information, visit the",
+    "officialPortalLink": "Netherlands / Gelderland Official Tourism Portal"
   },
   "footer": {
     "rights": "© 2026 Kronenburgerpark Independent Heritage Research Association · All rights reserved.",
@@ -453,7 +512,10 @@
       "overheid": "Dutch Government",
       "nederlandWereldwijd": "Netherlands Worldwide"
     },
-    "disclaimer": "This website is an independent, non-profit heritage and ecology research project. We are not affiliated with the Municipality of Nijmegen or any other official institution."
+    "disclaimer": "This website is an independent, non-profit heritage and ecology research project. We are not affiliated with the Municipality of Nijmegen or any other official institution.",
+    "imageCredits": "Image credits: all photographs displayed on this website remain the property and copyright of their respective photographers.",
+    "exploreTitle": "Plan your visit",
+    "contactTitle": "Address & contact"
   },
   "privacy": {
     "title": "Privacy Policy",
@@ -557,6 +619,182 @@
         "title": "'Kronenburg Park' — Frank Boeijen (1985)",
         "publisher": "Dutch song canon / public broadcaster archives",
         "url": "https://en.wikipedia.org/wiki/Frank_Boeijen"
+      }
+    ]
+  },
+  "entity": {
+    "breadcrumbLabel": "Location",
+    "welcome": "Welcome to Kronenburgerpark, the historic 19th-century park at the heart of Nijmegen, Gelderland, the Netherlands. Known by its official name and recognised as the central Kronenburgerpark of the city, this scenic green space with its pond was established around the medieval defence structure on Kronenburgersingel and serves as a primary green hub for travellers exploring Nijmegen.",
+    "landmarks": "When visiting Kronenburgerpark, visitors can easily explore surrounding historical landmarks and points of interest, including St. Stephen's Church (Sint Stevenskerk) and the Grote Markt in Nijmegen's old town, the medieval Kruittoren (c. 1425) inside the park itself, and the Museum Het Valkhof with the adjoining Valkhofpark.",
+    "hierarchy": "Kronenburgerpark → Nijmegen → Gelderland → Netherlands"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "intro": "Quick answers to the most common questions about visiting Kronenburgerpark in Nijmegen.",
+    "items": [
+      {
+        "q": "Where exactly is Kronenburgerpark located?",
+        "a": "Kronenburgerpark is located along Kronenburgersingel, 6511 AL, in the centre of Nijmegen, Gelderland, the Netherlands. It is about a 10-minute walk from Nijmegen Central Station and close to the Grote Markt."
+      },
+      {
+        "q": "Is Kronenburgerpark free to visit?",
+        "a": "Yes. Kronenburgerpark is a public park and is free to visit year-round. The park has no gates and no admission fee, and it is open 24 hours a day."
+      },
+      {
+        "q": "What is the Kruittoren in Kronenburgerpark?",
+        "a": "The Kruittoren (Powder Tower) is a circular medieval tower built around 1425 as part of Nijmegen's city fortifications. It is the park's most famous monument and is protected as a Dutch national monument (rijksmonument)."
+      },
+      {
+        "q": "What can visitors see at Kronenburgerpark?",
+        "a": "Visitors can see the 15th-century Kruittoren and the surviving city rampart, a pond with swans and waterfowl, open lawns and mature trees, and free-roaming peacocks, fallow deer and grazing goats."
+      },
+      {
+        "q": "What are the opening hours of Kronenburgerpark?",
+        "a": "Kronenburgerpark is a public space that is always open. It can be visited 24 hours a day, every day of the year, free of charge."
+      },
+      {
+        "q": "Are dogs allowed in Kronenburgerpark?",
+        "a": "Yes, dogs are allowed in Kronenburgerpark, but they should be kept on a lead to protect the free-roaming peacocks and other wildlife."
+      }
+    ]
+  },
+  "sources": {
+    "title": "Sources & Official References",
+    "intro": "The information on this page is supported by official government, heritage and tourism sources. These sources strengthen the accuracy and credibility (E-E-A-T) of this visitor guide.",
+    "items": [
+      {
+        "title": "Municipality of Nijmegen — official municipal website",
+        "publisher": "Gemeente Nijmegen",
+        "url": "https://www.nijmegen.nl/"
+      },
+      {
+        "title": "Province of Gelderland — official provincial government",
+        "publisher": "Provincie Gelderland",
+        "url": "https://www.gelderland.nl/"
+      },
+      {
+        "title": "National Monuments Register (Rijksmonumenten)",
+        "publisher": "Cultural Heritage Agency of the Netherlands",
+        "url": "https://www.cultureelerfgoed.nl/"
+      },
+      {
+        "title": "Visit Nijmegen — official city tourism portal",
+        "publisher": "Intonijmegen",
+        "url": "https://en.intonijmegen.com/"
+      },
+      {
+        "title": "Holland.com — official Netherlands tourism portal",
+        "publisher": "Netherlands Board of Tourism & Conventions",
+        "url": "https://www.holland.com/"
+      },
+      {
+        "title": "Kronenburgerpark — Wikipedia",
+        "publisher": "Wikimedia Foundation",
+        "url": "https://nl.wikipedia.org/wiki/Kronenburgerpark"
+      }
+    ]
+  },
+  "weather": {
+    "title": "Weather at Kronenburgerpark",
+    "subtitle": "Current conditions and the 7-day outlook for the park and the Nijmegen city centre.",
+    "forecast": "7-day forecast",
+    "current": "Current conditions",
+    "feelsLike": "Feels like",
+    "wind": "Wind",
+    "humidity": "Humidity",
+    "precip": "Chance of rain",
+    "updated": "Updated",
+    "unavailable": "The weather data is temporarily unavailable. Please check back shortly.",
+    "conds": {
+      "clear": "Clear sky",
+      "mainlyClear": "Mainly clear",
+      "partlyCloudy": "Partly cloudy",
+      "overcast": "Overcast",
+      "fog": "Fog",
+      "drizzle": "Drizzle",
+      "lightRain": "Light rain",
+      "moderateRain": "Moderate rain",
+      "heavyRain": "Heavy rain",
+      "snow": "Snow",
+      "rainShowers": "Rain showers",
+      "snowShowers": "Snow showers",
+      "thunderstorm": "Thunderstorm"
+    },
+    "advice": {
+      "heading": "Today's visit tips",
+      "groupOutfit": "What to wear",
+      "groupActivity": "Plan your visit",
+      "groupItems": "Bring along",
+      "riskTitle": "Safety note",
+      "noWarning": "No special weather warnings today",
+      "outfit": {
+        "o_heat": "Hot weather: wear light, breathable clothing and sun protection.",
+        "o_cold": "It is cold — wear a warm coat and a scarf.",
+        "o_spread": "Large day-night temperature swings — a light extra layer helps.",
+        "o_wind": "Windy: choose a windproof jacket and keep hats secure.",
+        "o_rain": "Wind and rain — a waterproof jacket or raincoat is more practical than an umbrella."
+      },
+      "activity": {
+        "a_sunny": "Fine weather for strolling, a picnic and photos.",
+        "a_overcast": "Soft light is great for a relaxed walk and photography without harsh sun.",
+        "a_fog": "Fog limits the views — take care along the waterside paths.",
+        "a_rainLikely": "Rain is likely, so carry an umbrella and pick indoor stops or walk between showers.",
+        "a_lightRain": "Light rain makes lawns and paths slippery and outdoor time less enjoyable.",
+        "a_heavyRain": "Not a good day for the outdoors — reschedule or choose an indoor visit.",
+        "a_storm": "Thunderstorms: postpone or cancel outdoor plans and stay indoors.",
+        "a_hot": "Avoid the midday heat — visit in the morning or evening and follow shady routes.",
+        "a_cold": "It is cold — keep outdoor time short and dress warmly.",
+        "a_breezy": "Breezy but fine for walking — hold on to hats and loose items.",
+        "a_windy": "Very windy: limit time outdoors and keep clear of large trees."
+      },
+      "items": {
+        "i_umbrella": "Foldable umbrella",
+        "i_raincoat": "Raincoat (wet and windy — an umbrella will not help much)",
+        "i_sunscreen": "Sunscreen",
+        "i_sunglasses": "Sunglasses",
+        "i_hat": "Sun hat",
+        "i_water": "Drinking water",
+        "i_thermal": "Warm coat & scarf"
+      },
+      "risks": {
+        "r_thunder": "Thunderstorm: do not shelter under large trees or in open areas near the water.",
+        "r_heavyrain": "Heavy rain: paths may be wet and puddled — avoid low spots and keep away from the water edge.",
+        "r_strongwind": "Strong wind: keep away from large trees and structures; branches may fall.",
+        "r_fog": "Dense fog and low visibility on damp paths — watch children and elderly companions."
+      }
+    }
+  },
+  "amenities": {
+    "title": "Practical Information & Nearby Services",
+    "intro": "Kronenburgerpark lies at the edge of Nijmegen's historic centre, so everyday services are close at hand. As an independent, non-profit guide we do not recommend any specific businesses; the overview below lists only the types of facilities you can expect nearby.",
+    "items": [
+      {
+        "title": "Public toilets (WC)",
+        "text": "There are no public toilet facilities inside the park. The nearest public toilets are located in the city centre, in shopping streets and public buildings, and around Nijmegen Central Station, about a 5-15 minute walk away."
+      },
+      {
+        "title": "Parking",
+        "text": "The streets immediately around the park are largely traffic-calmed. Several paid public car parks (garages and on-street paid bays) are located on the edge of the centre, a short walk away. Bicycle parking is available along the park side."
+      },
+      {
+        "title": "Restaurants & cafes",
+        "text": "The old town offers a varied choice of restaurants, cafes, lunchrooms and terraces serving Dutch, Gelderland regional and international cuisine, within about 5-10 minutes on foot."
+      },
+      {
+        "title": "Shops & supermarkets",
+        "text": "Supermarkets, bakeries and convenience stores can be found in the city centre and around Nijmegen Central Station, many of them open seven days a week. The Grote Markt and the shopping streets are a short walk from the park."
+      },
+      {
+        "title": "Accommodation",
+        "text": "Hotels, bed & breakfasts and hostels in different price categories are within walking distance, with several larger hotels located around the station and along the Waalkade riverside."
+      },
+      {
+        "title": "Fuel & electric charging",
+        "text": "There are no filling stations inside the historic centre. Petrol stations are situated on Nijmegen's ring roads and main approach routes, while public electric charging points are spread across the city, including on streets around the centre."
+      },
+      {
+        "title": "Public transport & cycling",
+        "text": "Bus stops around the park connect with the city network, and Nijmegen Central Station with national and international rail connections is about a 10-minute walk away. Cycle routes run along the Kronenburgersingel."
       }
     ]
   }

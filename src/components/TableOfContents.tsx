@@ -16,7 +16,11 @@ const SECTIONS = [
   { id: 'transport', key: 'transport' },
   { id: 'route', key: 'route' },
   { id: 'gallery', key: 'gallery' },
+  { id: 'faq', key: 'faq' },
+  { id: 'weather', key: 'weather' },
+  { id: 'amenities', key: 'amenities' },
   { id: 'references', key: 'references' },
+  { id: 'sources', key: 'sources' },
 ] as const;
 
 export default function TableOfContents() {

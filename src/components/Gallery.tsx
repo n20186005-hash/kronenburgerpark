@@ -42,7 +42,8 @@ export default function Gallery() {
   const openLightbox = () => setIsLightboxOpen(true);
   const closeLightbox = () => setIsLightboxOpen(false);
 
-  const altFor = (i: number) => captions[i] || t('title');
+  const altFor = (i: number) =>
+    `Kronenburgerpark, Nijmegen - ${captions[i] || t('title')}`;
 
   return (
     <>

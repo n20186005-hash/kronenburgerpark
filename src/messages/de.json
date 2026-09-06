@@ -1,7 +1,45 @@
 {
   "meta": {
-    "title": "Kronenburgerpark Nijmegen | Mittelalterliche Befestigungsreste & Stadtökologischer Park",
-    "description": "Ein unabhängiger, gemeinnütziger Führer durch den Kronenburgerpark in Nijmegen: der Kruittoren aus dem 15. Jahrhundert, die erhaltenen Stadtmauern sowie die Ökologie und Geschichte des Parks. Besuchsinformationen, Historie und Wildtierfauna."
+    "title": "Kronenburgerpark Nimwegen | Altstadt-Park & Historischer Pulverturm",
+    "description": "Kronenburgerpark in Nimwegen: der Pulverturm Kruittoren aus dem 15. Jahrhundert, der Teich und die erhaltene mittelalterliche Stadtmauer. Kostenlos und rund um die Uhr geöffnet. Parken, Wege und Besuchertipps."
+  },
+  "kruittorenPage": {
+    "metaTitle": "Kruittoren Nimwegen | Pulverturm aus dem 15. Jh. im Kronenburgerpark",
+    "metaDescription": "Alles über den Kruittoren in Nimwegen: der runde Pulverturm aus dem 15. Jahrhundert (um 1425) im Kronenburgerpark. Geschichte, warum er rund ist und wie Sie ihn kostenlos sehen.",
+    "pageTitle": "Der Kruittoren von Nimwegen",
+    "pageLead": "Der runde mittelalterliche Pulverturm, der dem Kronenburgerpark sein Gesicht gibt — um 1425 erbaut, als Rijksmonument geschützt und kostenlos aus dem Park zu bewundern.",
+    "factsTitle": "Der Kruittoren auf einen Blick",
+    "facts": [
+      { "label": "Erbaut", "value": "um 1425" },
+      { "label": "Zweck", "value": "Pulverlager & Stadtverteidigung" },
+      { "label": "Status", "value": "Rijksmonument (geschützt)" },
+      { "label": "Standort", "value": "Kronenburgerpark, Nimwegen" },
+      { "label": "Besichtigung", "value": "Kostenlos · Park rund um die Uhr offen" }
+    ],
+    "storyTitle": "Ein Turm für das Schießpulver",
+    "storyLead": "Drei kurze Kapitel erzählen, warum dieser Turm gebaut wurde — und warum er noch heute steht.",
+    "storyItems": [
+      { "id": "oorsprong", "title": "Pulverlager für die Stadtverteidigung (um 1425)", "content": "Der Kruittoren entstand um 1425 als Teil des mittelalterlichen Verteidigungsrings von Nimwegen. In seinen dicken Mauern lagerte die Stadt Schießpulver, sicher außerhalb des bewohnten Stadtkerns. Der Turm ist ein selten erhaltenes Beispiel früher Festungsbaukunst aus dem Zeitalter der Kanonen." },
+      { "id": "waarom-rond", "title": "Warum ist der Turm rund?", "content": "Runde Türme kamen mit dem Geschütz auf: Ein rundes Profil hat keine verwundbaren Ecken und lenkt Kanonenfeuer besser ab als flache Mauern. Der nahezu kreisrunde Grundriss des Kruittoren ist ein Lehrbuchbeispiel dieser Konstruktionslogik." },
+      { "id": "behouden", "title": "Durch den Park gerettet (1870er–1880er Jahre)", "content": "1874 verlor Nimwegen mit dem Vestingwet seinen Festungsstatus; die Stadtmauer sollte abgerissen werden. Um die erhaltenen Mauern herum wurde ein Stadtpark angelegt, der den Kruittoren bewahrte. Architekt Pierre Cuypers restaurierte den Turm 1878–1883. Heute steht das Denkmal in einem frei zugänglichen Park." }
+    ],
+    "visitTitle": "Den Kruittoren besichtigen",
+    "visitLead": "Der Kruittoren wird von außen besichtigt — in einem öffentlichen Park, ohne Zäune und ohne Eintrittspreis.",
+    "visitItems": [
+      { "title": "Kostenlos & immer geöffnet", "text": "Der Kronenburgerpark ist ganzjährig frei zugänglich, sodass der Turm jederzeit aus nächster Nähe zu sehen ist." },
+      { "title": "In der Altstadt", "text": "Der Turm steht am Rand der Altstadt an der Kronenburgersingel, etwa 10 Gehminuten vom Bahnhof Nimwegen Centraal entfernt." },
+      { "title": "Beste Zeiten", "text": "Kommen Sie früh oder spät am Tag: Dann ist das Licht am schönsten und der Park am ruhigsten." }
+    ],
+    "faqTitle": "Kruittoren: Häufige Fragen",
+    "faqLead": "Kurze Antworten zum mittelalterlichen Pulverturm von Nimwegen.",
+    "faqItems": [
+      { "q": "Was ist der Kruittoren?", "a": "Der Kruittoren ist ein runder mittelalterlicher Turm aus der Zeit um 1425, gebaut zur Lagerung von Schießpulver als Teil der Stadtverteidigung von Nimwegen. Er ist als Rijksmonument geschützt und das berühmteste Denkmal des Kronenburgerparks." },
+      { "q": "Warum wurde der Kruittoren rund gebaut?", "a": "Ein rundes Profil hat keine verwundbaren Ecken und lenkt Kanonenkugeln besser ab als flache Mauern. Runde Bauweisen wurden ab dem Aufkommen des Geschützes zum Standard." },
+      { "q": "Muss ich Eintritt zahlen, um den Kruittoren zu sehen?", "a": "Nein. Der Turm steht im Kronenburgerpark, einem öffentlichen Park, der kostenlos und rund um die Uhr zugänglich ist." }
+    ],
+    "backTitle": "Den ganzen Park entdecken",
+    "backText": "Der komplette Reiseführer zum Kronenburgerpark — Geschichte, Wege, Tiere, Parken und mehr.",
+    "backCta": "Kronenburgerpark-Führer lesen"
   },
   "header": {
     "home": "Start",
@@ -13,8 +51,8 @@
   "hero": {
     "title": "Kronenburgerpark",
     "subtitle": "Mittelalterliche Befestigungsreste & Stadtökologischer Park, Nijmegen",
-    "rating": "4,7 (6.073)",
-    "reviewCount": "6.073 Bewertungen",
+    "rating": "4,5 (5.231)",
+    "reviewCount": "5.231 Bewertungen",
     "type": "Historisches Denkmal · Stadtpark",
     "openMaps": "Standort anzeigen"
   },
@@ -115,7 +153,10 @@
         "title": "Vom Problemviertel zum Kulturdenkmal",
         "content": "Im späten 20. Jahrhundert verfiel der Park und erlangte den Ruf, ein unsicherer Teil der Stadt zu sein. Ein Sanierungsprogramm machte ihn wieder zu einem sicheren, gut gepflegten öffentlichen Raum. Seine kulturelle Bedeutung wurde 1985 befestigt, als der Nijmegener Liedermacher Frank Boeijen 'Kronenburg Park' veröffentlichte, ein schlichtes Lied, das Teil des niederländischen Popularkanons blieb. Der heutige Park verbindet Denkmalpflege, Ökologie und öffentliche Nutzung."
       }
-    ]
+    ],
+    "towerPageTitle": "Der Kruittoren im Detail",
+    "towerPageText": "Die Geschichte des mittelalterlichen Pulverturms von Nimwegen — warum er rund ist, wie er erhalten blieb und was Sie heute dort sehen.",
+    "towerPageCta": "Kruittoren-Führer lesen"
   },
   "architecture": {
     "title": "Architektur & Archäologie",
@@ -265,7 +306,7 @@
     "walking": "Zu Fuß oder mit dem Rad",
     "walkingDesc": "Der Park ist von der Innenstadt Nijmegens leicht zu Fuß oder mit dem Rad erreichbar.",
     "driving": "Auto & Parken",
-    "drivingDesc": "Parkhäuser sind in der Nähe; öffentliche Verkehrsmittel oder aktive Anreise werden empfohlen.",
+    "drivingDesc": "Kostenpflichtiges Parken an der Kronenburgersingel und in den umliegenden Straßen (Parkscheinautomaten); mehrere Parkhäuser im Zentrum sind zu Fuß erreichbar. ÖPNV oder Zufußgehen empfohlen; aktuelle Tarife auf der Website der Gemeinde Nijmegen.",
     "airports": [
       {
         "code": "AMS",
@@ -422,7 +463,9 @@
   "mapSection": {
     "title": "Lage & Anreise",
     "subtitle": "Kronenburgersingel, 6511 AL Nijmegen, Niederlande",
-    "openMaps": "Auf Google Maps ansehen"
+    "openMaps": "Auf Google Maps ansehen",
+    "officialPortalText": "Für offizielle Updates und regionale Tourismusinformationen besuchen Sie das",
+    "officialPortalLink": "offizielle Tourismusportal Niederlande / Gelderland"
   },
   "footer": {
     "rights": "© 2026 Kronenburgerpark Unabhängiger Denkmal-Forschungsverein · Alle Rechte vorbehalten.",
@@ -438,7 +481,10 @@
       "overheid": "Niederländische Regierung",
       "nederlandWereldwijd": "Niederlande weltweit"
     },
-    "disclaimer": "Diese Website ist ein unabhängiges, gemeinnütziges Forschungsprojekt zu Denkmalpflege und Ökologie. Wir stehen in keiner Verbindung zur Gemeinde Nijmegen oder einer anderen offiziellen Einrichtung."
+    "disclaimer": "Diese Website ist ein unabhängiges, gemeinnütziges Forschungsprojekt zu Denkmalpflege und Ökologie. Wir stehen in keiner Verbindung zur Gemeinde Nijmegen oder einer anderen offiziellen Einrichtung.",
+    "imageCredits": "Bildnachweis: Alle auf dieser Website gezeigten Bilder bleiben Eigentum und Copyright der jeweiligen Fotografen.",
+    "exploreTitle": "Besuch planen",
+    "contactTitle": "Adresse & Kontakt"
   },
   "privacy": {
     "title": "Datenschutz",
@@ -558,6 +604,186 @@
     "transport": "Anreise",
     "route": "Route",
     "gallery": "Galerie",
-    "references": "Quellen"
+    "references": "Quellen",
+    "faq": "FAQ",
+    "weather": "Wetter",
+    "amenities": "Einrichtungen",
+    "sources": "Offizielle Quellen"
+  },
+  "entity": {
+    "breadcrumbLabel": "Standort",
+    "welcome": "Willkommen im Kronenburgerpark, dem historischen Stadtpark aus dem 19. Jahrhundert im Herzen von Nijmegen, Gelderland, Niederlande. Unter seinem offiziellen Namen bekannt und als zentraler Kronenburgerpark der Stadt anerkannt, umgibt diese Grünanlage mit Teich die mittelalterliche Verteidigungsanlage an der Kronenburgersingel und dient als wichtiger grüner Ausgangspunkt für Besucher, die Nimwegen erkunden.",
+    "landmarks": "Bei einem Besuch des Kronenburgerparks lassen sich bequem die historischen Sehenswürdigkeiten der Umgebung erkunden, darunter die Sint Stevenskerk und der Grote Markt in der Altstadt von Nimwegen, der mittelalterliche Kruittoren (um 1425) im Park selbst sowie das Museum Het Valkhof mit dem angrenzenden Valkhofpark.",
+    "hierarchy": "Kronenburgerpark → Nijmegen → Gelderland → Niederlande"
+  },
+  "faq": {
+    "title": "Häufig gestellte Fragen",
+    "intro": "Schnelle Antworten auf die häufigsten Fragen zum Besuch des Kronenburgerparks in Nijmegen.",
+    "items": [
+      {
+        "q": "Wo genau liegt der Kronenburgerpark?",
+        "a": "Der Kronenburgerpark liegt an der Kronenburgersingel, 6511 AL, im Zentrum von Nijmegen, Gelderland, Niederlande, etwa 10 Gehminuten vom Hauptbahnhof Nijmegen und nahe dem Grote Markt."
+      },
+      {
+        "q": "Ist der Eintritt in den Kronenburgerpark kostenlos?",
+        "a": "Ja. Der Kronenburgerpark ist ein öffentlicher Park und das ganze Jahr über kostenlos zugänglich. Der Park hat keine Tore und keine Eintrittsgebühr und ist 24 Stunden am Tag geöffnet."
+      },
+      {
+        "q": "Was ist der Kruittoren im Kronenburgerpark?",
+        "a": "Der Kruittoren (Pulverturm) ist ein runder mittelalterlicher Turm aus der Zeit um 1425, der als Teil der Stadtbefestigung von Nimwegen errichtet wurde. Er ist das bekannteste Denkmal des Parks und steht als niederländisches Nationaldenkmal (Rijksmonument) unter Schutz."
+      },
+      {
+        "q": "Was können Besucher im Kronenburgerpark sehen?",
+        "a": "Besucher können den Kruittoren und die erhaltenen Stadtmauerreste sehen, einen Teich mit Schwänen und Wasservögeln, offene Rasenflächen und alte Bäume sowie frei laufende Pfauen, Damhirsche und Ziegen, die zur Grünflächenpflege eingesetzt werden."
+      },
+      {
+        "q": "Wie sind die Öffnungszeiten des Kronenburgerparks?",
+        "a": "Der Kronenburgerpark ist eine öffentliche Grünanlage und jederzeit zugänglich. Er kann 24 Stunden am Tag, an allen Tagen des Jahres und kostenlos besucht werden."
+      },
+      {
+        "q": "Sind Hunde im Kronenburgerpark erlaubt?",
+        "a": "Ja, Hunde sind im Kronenburgerpark erlaubt, sollten jedoch an der Leine geführt werden, um die frei laufenden Pfauen und andere Tiere zu schützen."
+      }
+    ]
+  },
+  "sources": {
+    "title": "Quellen & offizielle Referenzen",
+    "intro": "Die Informationen auf dieser Seite werden durch offizielle Regierungs-, Denkmal- und Tourismusquellen gestützt. Diese Quellen stärken die Genauigkeit und Glaubwürdigkeit (E-E-A-T) dieses Besucherführers.",
+    "items": [
+      {
+        "title": "Gemeinde Nimwegen — offizielle Gemeinde-Website",
+        "publisher": "Gemeente Nijmegen",
+        "url": "https://www.nijmegen.nl/"
+      },
+      {
+        "title": "Provinz Gelderland — offizielle Provinzregierung",
+        "publisher": "Provincie Gelderland",
+        "url": "https://www.gelderland.nl/"
+      },
+      {
+        "title": "Nationales Denkmalregister (Rijksmonumenten)",
+        "publisher": "Rijksdienst voor het Cultureel Erfgoed",
+        "url": "https://www.cultureelerfgoed.nl/"
+      },
+      {
+        "title": "Visit Nijmegen — offizielles Tourismusportal der Stadt",
+        "publisher": "Intonijmegen",
+        "url": "https://en.intonijmegen.com/"
+      },
+      {
+        "title": "Holland.com — offizielles Tourismusportal der Niederlande",
+        "publisher": "Netherlands Board of Tourism & Conventions",
+        "url": "https://www.holland.com/"
+      },
+      {
+        "title": "Kronenburgerpark — Wikipedia",
+        "publisher": "Wikimedia Foundation",
+        "url": "https://nl.wikipedia.org/wiki/Kronenburgerpark"
+      }
+    ]
+  },
+  "weather": {
+    "title": "Wetter im Kronenburgerpark",
+    "subtitle": "Aktuelle Bedingungen und die 7-Tage-Vorhersage für den Park und das Zentrum von Nijmegen.",
+    "forecast": "7-Tage-Vorhersage",
+    "current": "Aktuelle Bedingungen",
+    "feelsLike": "Gefühlt",
+    "wind": "Wind",
+    "humidity": "Luftfeuchtigkeit",
+    "precip": "Regenwahrscheinlichkeit",
+    "updated": "Aktualisiert",
+    "unavailable": "Die Wetterdaten sind derzeit nicht verfügbar. Bitte versuchen Sie es später erneut.",
+    "conds": {
+      "clear": "Klarer Himmel",
+      "mainlyClear": "Überwiegend klar",
+      "partlyCloudy": "Teils bewölkt",
+      "overcast": "Bedeckt",
+      "fog": "Nebel",
+      "drizzle": "Nieselregen",
+      "lightRain": "Leichter Regen",
+      "moderateRain": "Mäßiger Regen",
+      "heavyRain": "Starker Regen",
+      "snow": "Schnee",
+      "rainShowers": "Regenschauer",
+      "snowShowers": "Schneeschauer",
+      "thunderstorm": "Gewitter"
+    },
+    "advice": {
+      "heading": "Tipps für heute",
+      "groupOutfit": "Kleidung",
+      "groupActivity": "Aktivitäten",
+      "groupItems": "Mitbringen",
+      "riskTitle": "Sicherheitshinweis",
+      "noWarning": "Keine besonderen Wetterwarnungen für heute",
+      "outfit": {
+        "o_heat": "Bei Hitze luftige Kleidung tragen und an Sonnenschutz denken.",
+        "o_cold": "Es ist kalt — warmer Mantel und Schal einplanen.",
+        "o_spread": "Große Tag-Nacht-Schwankungen — eine leichte Schicht zum Überziehen hilft.",
+        "o_wind": "Windig: winddichte Jacke wählen und Hüte gut festhalten.",
+        "o_rain": "Wind und Regen — eine wasserdichte Jacke oder ein Regencape ist praktischer als ein Schirm."
+      },
+      "activity": {
+        "a_sunny": "Schönes Wetter für Spaziergang, Picknick und Fotos.",
+        "a_overcast": "Weiches Licht eignet sich gut für eine entspannte Wanderung und Fotos ohne grelle Sonne.",
+        "a_fog": "Nebel schränkt die Sicht ein — am Wasserweg vorsichtig gehen.",
+        "a_rainLikely": "Regen ist wahrscheinlich: Schirm mitnehmen, Indoor-Ziele wählen oder zwischen den Schauern gehen.",
+        "a_lightRain": "Bei leichtem Regen sind Wiesen und Wege rutschig, draußen ist es weniger schön.",
+        "a_heavyRain": "Kein guter Tag für draußen — Besuch verschieben oder ein Indoor-Ziel wählen.",
+        "a_storm": "Gewitter: Aktivitäten im Freien verschieben oder absagen und drinnen bleiben.",
+        "a_hot": "Mittagshitze meiden — morgens oder abends kommen und schattige Routen wählen.",
+        "a_cold": "Es ist kalt — den Aufenthalt im Freien kurz halten und sich warm anziehen.",
+        "a_breezy": "Frisch, aber gut für einen Spaziergang — Hüte und lose Gegenstände festhalten.",
+        "a_windy": "Sehr windig: Aufenthalt im Freien kurz halten und Abstand zu großen Bäumen."
+      },
+      "items": {
+        "i_umbrella": "Faltregenschirm",
+        "i_raincoat": "Regencape (bei Regen mit Wind hilft ein Schirm wenig)",
+        "i_sunscreen": "Sonnencreme",
+        "i_sunglasses": "Sonnenbrille",
+        "i_hat": "Sonnenhut",
+        "i_water": "Trinkwasser",
+        "i_thermal": "Warmer Mantel & Schal"
+      },
+      "risks": {
+        "r_thunder": "Gewitter: nicht unter großen Bäumen oder in offenem Gelände am Wasser Schutz suchen.",
+        "r_heavyrain": "Starker Regen: Wege können nass und rutschig sein — Senken meiden und Abstand zum Wasser halten.",
+        "r_strongwind": "Starker Wind: Abstand zu großen Bäumen und Konstruktionen halten; Äste können abbrechen.",
+        "r_fog": "Nebel und schlechte Sicht auf feuchten Wegen — auf Kinder und ältere Begleitung achten."
+      }
+    }
+  },
+  "amenities": {
+    "title": "Praktische Informationen & Einrichtungen in der Nähe",
+    "intro": "Der Kronenburgerpark liegt am Rande des historischen Zentrums von Nijmegen, sodass Alltagsangebote schnell erreichbar sind. Als unabhängiger, gemeinnütziger Reiseführer empfehlen wir keine bestimmten Geschäfte; die folgende Übersicht nennt nur die Art von Einrichtungen, die Sie in der Umgebung erwarten können.",
+    "items": [
+      {
+        "title": "Öffentliche Toiletten (WC)",
+        "text": "Im Park selbst gibt es keine öffentlichen Toiletten. Die nächsten öffentlichen Toiletten befinden sich im Stadtzentrum, in Einkaufsstraßen und öffentlichen Gebäuden sowie rund um den Hauptbahnhof Nijmegen, etwa 5-15 Gehminuten entfernt."
+      },
+      {
+        "title": "Parken",
+        "text": "Die Straßen unmittelbar rund um den Park sind weitgehend verkehrsberuhigt. Am Rande des Zentrums gibt es mehrere kostenpflichtige öffentliche Parkhäuser und Parkplätze in kurzer Gehweite. Fahrradabstellplätze sind entlang des Parks vorhanden."
+      },
+      {
+        "title": "Restaurants & Cafés",
+        "text": "Die Altstadt bietet eine vielfältige Auswahl an Restaurants, Cafés, Lunchrooms und Terrassen mit niederländischer, Geldrischer und internationaler Küche, in etwa 5-10 Gehminuten."
+      },
+      {
+        "title": "Geschäfte & Supermärkte",
+        "text": "Supermärkte, Bäckereien und Lebensmittelgeschäfte finden Sie im Stadtzentrum und rund um den Hauptbahnhof Nijmegen, viele davon sieben Tage die Woche geöffnet. Der Grote Markt und die Einkaufsstraßen liegen nur wenige Gehminuten vom Park entfernt."
+      },
+      {
+        "title": "Unterkünfte",
+        "text": "Hotels, Bed & Breakfasts und Hostels in verschiedenen Preisklassen befinden sich in Gehweite, mehrere größere Hotels rund um den Bahnhof und entlang der Waalkade."
+      },
+      {
+        "title": "Tankstellen & E-Ladesäulen",
+        "text": "Im historischen Zentrum gibt es keine Tankstellen. Tankstellen befinden sich an den Ringstraßen und Hauptzufahrtsrouten von Nijmegen; öffentliche Ladepunkte für Elektrofahrzeuge sind über die ganze Stadt verteilt, auch in Straßen rund um das Zentrum."
+      },
+      {
+        "title": "Öffentliche Verkehrsmittel & Radfahren",
+        "text": "Bushaltestellen rund um den Park verbinden mit dem Stadtnetz, und der Hauptbahnhof Nijmegen mit nationalen und internationalen Zugverbindungen ist etwa 10 Gehminuten entfernt. Entlang der Kronenburgersingel verlaufen Radwege."
+      }
+    ]
   }
 }

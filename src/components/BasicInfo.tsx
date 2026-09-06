@@ -1,6 +1,7 @@
 'use client';
 
 import { useTranslations } from 'next-intl';
+import { RATING_LABEL } from '@/lib/site-data';
 
 export default function BasicInfo() {
   const t = useTranslations('basicInfo');
@@ -21,7 +22,7 @@ export default function BasicInfo() {
           <InfoCard title={t('type')} value={t('typeValue')} />
           <InfoCard title={t('country')} value={t('countryValue')} />
           <InfoCard title={t('city')} value={t('cityValue')} />
-          <InfoCard title={t('googleRating')} value="4.7/5 (6,073)" />
+          <InfoCard title={t('googleRating')} value={RATING_LABEL} />
           <InfoCard title={t('phone')} value={t('phoneValue')} />
           <InfoCard title={t('pets')} value={t('petsValue')} />
           <InfoCard title={t('plusCode')} value={t('plusCodeValue')} />

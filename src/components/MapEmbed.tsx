@@ -1,4 +1,5 @@
 import { useTranslations } from 'next-intl';
+import { MAPS_EMBED_SRC, GOVT_TOURISM_URL } from '@/lib/site-data';
 
 export default function MapEmbed() {
   const t = useTranslations('mapSection');
@@ -25,19 +26,19 @@ export default function MapEmbed() {
             This is for visual cleanliness only. Google's Terms of Service apply.
           */}
           <iframe
-            src="https://maps.google.com/maps?q=Kronenburgerpark+Nijmegen+Netherlands&output=embed"
+            src={MAPS_EMBED_SRC}
             width="100%"
             height="450"
             style={{ border: 0 }}
             allowFullScreen
             loading="lazy"
-            referrerPolicy="no-referrer-when-downgrade"
-            title="Google Maps - Kronenburgerpark"
+            referrerPolicy="strict-origin-when-cross-origin"
+            title="Kronenburgerpark on Google Maps - Kronenburgersingel, 6511 AL Nijmegen, Netherlands"
           />
         </div>
 
         {/* Open in Google Maps */}
-        <div className="mt-6 flex justify-center">
+        <div className="mt-6 flex flex-wrap justify-center gap-4">
           <a
             href="https://maps.app.goo.gl/e4VLp6hr6crxq4Sr9"
             target="_blank"
@@ -57,6 +58,21 @@ export default function MapEmbed() {
             </svg>
           </a>
         </div>
+
+        {/* Authoritative outbound link (official tourism portal) */}
+        <p className="mt-6 text-center text-sm" style={{ color: 'var(--text-muted)' }}>
+          {t('officialPortalText')}{' '}
+          <a
+            href={GOVT_TOURISM_URL}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="font-medium hover:underline"
+            style={{ color: 'var(--accent)' }}
+          >
+            {t('officialPortalLink')}
+          </a>
+          .
+        </p>
       </div>
     </section>
   );

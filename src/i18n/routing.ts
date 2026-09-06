@@ -2,7 +2,8 @@ import { defineRouting } from 'next-intl/routing';
 
 export const routing = defineRouting({
   locales: ['zh', 'en', 'nl', 'de'],
-  defaultLocale: 'zh',
+  // Dutch is the primary audience (GSC: brand + NL/DE traffic), served at /
+  defaultLocale: 'nl',
   localePrefix: {
     mode: 'always',
   },

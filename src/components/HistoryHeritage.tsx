@@ -1,7 +1,8 @@
-import { useTranslations, useMessages } from 'next-intl';
+import { useTranslations, useMessages, useLocale } from 'next-intl';
 
 export default function HistoryHeritage() {
   const t = useTranslations('historyHeritage');
+  const locale = useLocale();
   const messages = useMessages() as any;
   const items = (messages?.historyHeritage?.items || []) as Array<{
     id: string;
@@ -60,6 +61,27 @@ export default function HistoryHeritage() {
             </div>
           ))}
         </div>
+
+        {t('towerPageCta') && (
+          <div
+            className="mt-10 rounded-2xl p-6 sm:p-8 text-center"
+            style={{ background: 'var(--bg-tertiary)', border: '1px solid var(--border-color)' }}
+          >
+            <h3 className="font-display text-xl sm:text-2xl font-semibold mb-3" style={{ color: 'var(--text-primary)' }}>
+              {t('towerPageTitle')}
+            </h3>
+            <p className="text-base leading-relaxed mb-6 max-w-2xl mx-auto" style={{ color: 'var(--text-secondary)' }}>
+              {t('towerPageText')}
+            </p>
+            <a
+              href={`/${locale}/kruittoren`}
+              className="inline-block rounded-lg px-6 py-3 text-sm font-semibold transition-opacity hover:opacity-90"
+              style={{ background: 'var(--accent)', color: 'white' }}
+            >
+              {t('towerPageCta')}
+            </a>
+          </div>
+        )}
       </div>
     </section>
   );

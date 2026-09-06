@@ -1,7 +1,45 @@
 {
   "meta": {
-    "title": "Kronenburgerpark Nijmegen | Middeleeuws Vestingsrestant & Stedelijk Ecopark",
-    "description": "Een onafhankelijke, niet-commerciële gids voor het Kronenburgerpark in Nijmegen: de Kruittoren uit de 15e eeuw, de overgebleven stadswal en de ecologie en geschiedenis van het park. Bezoekinfo, historie en natuur."
+    "title": "Kronenburgerpark Nijmegen | Historisch Park & Kruittoren (Gratis)",
+    "description": "Kronenburgerpark in hartje Nijmegen: de 15e-eeuwse Kruittoren, de vijver en de overgebleven middeleeuwse stadswal. Gratis en 24 uur per dag geopend. Parkeren, wandelroutes en bezoekerstips."
+  },
+  "kruittorenPage": {
+    "metaTitle": "Kruittoren Nijmegen | 15e-eeuwse kruittoren in Kronenburgerpark",
+    "metaDescription": "Alles over de Kruittoren van Nijmegen: de ronde 15e-eeuwse buskruittoren (c. 1425) in Kronenburgerpark. Geschiedenis, waarom hij rond is en hoe u hem gratis bekijkt.",
+    "pageTitle": "De Kruittoren van Nijmegen",
+    "pageLead": "De ronde middeleeuwse kruittoren die Kronenburgerpark zijn karakter geeft — rond 1425 gebouwd, beschermd als rijksmonument en gratis te bewonderen vanuit het park.",
+    "factsTitle": "De Kruittoren in één oogopslag",
+    "facts": [
+      { "label": "Bouwjaar", "value": "rond 1425" },
+      { "label": "Doel", "value": "Buskruitopslag & stadsverdediging" },
+      { "label": "Status", "value": "Rijksmonument (beschermd)" },
+      { "label": "Locatie", "value": "Kronenburgerpark, Nijmegen" },
+      { "label": "Bekijken", "value": "Gratis · park 24/7 open" }
+    ],
+    "storyTitle": "Een toren gebouwd voor buskruit",
+    "storyLead": "Drie korte hoofdstukken vertellen waarom deze toren werd gebouwd — en waarom hij er nog steeds staat.",
+    "storyItems": [
+      { "id": "oorsprong", "title": "Buskruitopslag voor de stadsverdediging (c. 1425)", "content": "De Kruittoren verrees rond 1425 als onderdeel van de middeleeuwse verdedigingsring van Nijmegen. In de dikke muren sloeg de stad buskruit op, veilig buiten de bebouwde kern. De toren is een zeldzaam bewaard voorbeeld van vroege vestingbouw uit het tijdperk van het geschut." },
+      { "id": "waarom-rond", "title": "Waarom is de toren rond?", "content": "Ronde torens kwamen op met het kanon: een rond profiel heeft geen kwetsbare hoeken en buigt kanonskogels beter af dan platte muren. De bijna cirkelvormige plattegrond van de Kruittoren is een schoolvoorbeeld van die ontwerplogica." },
+      { "id": "behouden", "title": "Gered door het park (jaren 1870–1880)", "content": "In 1874 verloor Nijmegen met de Vestingwet zijn vestingstatus en stond de stadswal op de nominatie om te worden gesloopt. Rond de overgebleven muren werd een stadspark aangelegd, waardoor de Kruittoren bewaard bleef. Architect Pierre Cuypers restaureerde de toren in 1878–1883. Vandaag staat het monument in een vrij toegankelijk park." }
+    ],
+    "visitTitle": "De Kruittoren bezoeken",
+    "visitLead": "De Kruittoren bekijkt u van buitenaf, in een openbaar park — geen hekken, geen entreeprijs.",
+    "visitItems": [
+      { "title": "Gratis & altijd open", "text": "Kronenburgerpark is het hele jaar vrij toegankelijk, dus de toren is op elk moment van dichtbij te zien." },
+      { "title": "In het oude centrum", "text": "De toren staat aan de rand van de oude binnenstad langs de Kronenburgersingel, op circa 10 minuten lopen van station Nijmegen Centraal." },
+      { "title": "Beste momenten", "text": "Kom vroeg of laat op de dag: dan is het licht op zijn mooist en is het park het rustigst." }
+    ],
+    "faqTitle": "Kruittoren: veelgestelde vragen",
+    "faqLead": "Korte antwoorden over de middeleeuwse kruittoren van Nijmegen.",
+    "faqItems": [
+      { "q": "Wat is de Kruittoren?", "a": "De Kruittoren is een ronde middeleeuwse toren uit ongeveer 1425, gebouwd om buskruit op te slaan als onderdeel van de stadsverdediging van Nijmegen. Hij is beschermd als rijksmonument en is het beroemdste monument van Kronenburgerpark." },
+      { "q": "Waarom is de Kruittoren rond gebouwd?", "a": "Een rond profiel heeft geen kwetsbare hoeken en buigt kanonskogels beter af dan platte muren. Ronde ontwerpen werden de norm zodra er geschut bestond." },
+      { "q": "Moet ik betalen om de Kruittoren te zien?", "a": "Nee. De toren staat in Kronenburgerpark, een openbaar park dat gratis en 24 uur per dag toegankelijk is." }
+    ],
+    "backTitle": "Ontdek het hele park",
+    "backText": "De complete bezoekersgids voor Kronenburgerpark — geschiedenis, wandelroutes, dieren, parkeren en meer.",
+    "backCta": "Lees de Kronenburgerpark-gids"
   },
   "header": {
     "home": "Home",
@@ -13,8 +51,8 @@
   "hero": {
     "title": "Kronenburgerpark",
     "subtitle": "Middeleeuws Vestingsrestant & Stedelijk Ecopark, Nijmegen",
-    "rating": "4.7 (6.073)",
-    "reviewCount": "6.073 beoordelingen",
+    "rating": "4.5 (5.231)",
+    "reviewCount": "5.231 beoordelingen",
     "type": "Historisch Monument · Stedelijk Park",
     "openMaps": "Bekijk Locatie"
   },
@@ -115,7 +153,10 @@
         "title": "Van verwaarloosd terrein tot cultuurmonument",
         "content": "In de late 20e eeuw raakte het park in verval en kreeg het een reputatie als onveilig deel van de stad. Een vernieuwingsprogramma maakte er weer een veilige, goed onderhouden openbare ruimte van. De culturele betekenis werd bevestigd in 1985, toen de Nijmeegse zanger Frank Boeijen 'Kronenburg Park' uitbracht, een ingetogen lied dat deel bleef uitmaken van de Nederlandse populaire canon. Het park verenigt vandaag erfgoed, ecologie en publiek gebruik."
       }
-    ]
+    ],
+    "towerPageTitle": "De Kruittoren in detail",
+    "towerPageText": "Het verhaal van de middeleeuwse kruittoren van Nijmegen — waarom hij rond is, hoe hij bleef bestaan en wat u er vandaag ziet.",
+    "towerPageCta": "Lees de Kruittoren-gids"
   },
   "architecture": {
     "title": "Architectuur & Archeologie",
@@ -265,7 +306,7 @@
     "walking": "Wandelen of Fietsen",
     "walkingDesc": "Het park is lopend of per fiets gemakkelijk bereikbaar vanuit het centrum.",
     "driving": "Met de Auto & Parkeren",
-    "drivingDesc": "Parkeergarages zijn in de buurt; openbaar vervoer of actieve verplaatsing wordt aanbevolen.",
+    "drivingDesc": "Betaald parkeren op de Kronenburgersingel en in de omliggende straten (parkeerautomaten); diverse centrumparkeergarages liggen op loopafstand. Openbaar vervoer of lopen wordt aanbevolen; actuele tarieven vindt u op de website van de gemeente Nijmegen.",
     "airports": [
       {
         "code": "AMS",
@@ -422,7 +463,9 @@
   "mapSection": {
     "title": "Locatie & Route",
     "subtitle": "Kronenburgersingel, 6511 AL Nijmegen, Nederland",
-    "openMaps": "Bekijk op Google Maps"
+    "openMaps": "Bekijk op Google Maps",
+    "officialPortalText": "Voor officiële updates en regionale toeristische informatie, bezoek de",
+    "officialPortalLink": "Nederland / Gelderland officiële toerismepoort"
   },
   "footer": {
     "rights": "© 2026 Kronenburgerpark Onafhankelijke Erfgoed Onderzoeksvereniging · Alle rechten voorbehouden.",
@@ -438,7 +481,10 @@
       "overheid": "Nederlandse Overheid",
       "nederlandWereldwijd": "Nederland Wereldwijd"
     },
-    "disclaimer": "Deze website is een onafhankelijk, niet-commercieel erfgoed- en ecologieonderzoeksproject. Wij zijn niet gelieerd aan de Gemeente Nijmegen of enige andere officiële instelling."
+    "disclaimer": "Deze website is een onafhankelijk, niet-commercieel erfgoed- en ecologieonderzoeksproject. Wij zijn niet gelieerd aan de Gemeente Nijmegen of enige andere officiële instelling.",
+    "imageCredits": "Beeldrecht: alle foto's op deze website blijven eigendom en copyright van de oorspronkelijke fotografen.",
+    "exploreTitle": "Plan je bezoek",
+    "contactTitle": "Adres & contact"
   },
   "privacy": {
     "title": "Privacybeleid",
@@ -558,6 +604,186 @@
     "transport": "Route",
     "route": "Wandelroute",
     "gallery": "Galerij",
-    "references": "Bronnen"
+    "references": "Bronnen",
+    "faq": "FAQ",
+    "weather": "Weer",
+    "amenities": "Voorzieningen",
+    "sources": "Officiële bronnen"
+  },
+  "entity": {
+    "breadcrumbLabel": "Locatie",
+    "welcome": "Welkom bij Kronenburgerpark, het historische stadspark uit de 19e eeuw in het hart van Nijmegen, Gelderland, Nederland. Bekend onder de officiële naam en erkend als het centrale Kronenburgerpark van de stad, ligt deze groene ruimte met vijver rond de middeleeuwse verdedigingstoren aan de Kronenburgersingel en vormt het een belangrijk groen vertrekpunt voor bezoekers die Nijmegen verkennen.",
+    "landmarks": "Bij een bezoek aan Kronenburgerpark kunnen bezoekers gemakkelijk omliggende historische bezienswaardigheden verkennen, waaronder de Sint Stevenskerk en de Grote Markt in de oude binnenstad van Nijmegen, de middeleeuwse Kruittoren (ca. 1425) in het park zelf, en het Museum Het Valkhof met het aangrenzende Valkhofpark.",
+    "hierarchy": "Kronenburgerpark → Nijmegen → Gelderland → Nederland"
+  },
+  "faq": {
+    "title": "Veelgestelde vragen",
+    "intro": "Snelle antwoorden op de meest gestelde vragen over een bezoek aan Kronenburgerpark in Nijmegen.",
+    "items": [
+      {
+        "q": "Waar ligt Kronenburgerpark precies?",
+        "a": "Kronenburgerpark ligt aan de Kronenburgersingel, 6511 AL, in het centrum van Nijmegen, Gelderland, Nederland. Het is ongeveer 10 minuten lopen van station Nijmegen Centraal en vlak bij de Grote Markt."
+      },
+      {
+        "q": "Is Kronenburgerpark gratis te bezoeken?",
+        "a": "Ja. Kronenburgerpark is een openbaar park en is het hele jaar door gratis toegankelijk. Het park heeft geen hekken en geen entreeprijs en is 24 uur per dag geopend."
+      },
+      {
+        "q": "Wat is de Kruittoren in Kronenburgerpark?",
+        "a": "De Kruittoren is een ronde middeleeuwse toren die rond 1425 werd gebouwd als onderdeel van de stadsverdediging van Nijmegen. Het is het beroemdste monument van het park en is beschermd als rijksmonument."
+      },
+      {
+        "q": "Wat kunnen bezoekers zien in Kronenburgerpark?",
+        "a": "Bezoekers kunnen de Kruittoren en de overgebleven stadswal zien, een vijver met zwanen en watervogels, open gazons en volwassen bomen, en vrij rondlopende pauwen, damherten en geiten die worden ingezet voor het groenbeheer."
+      },
+      {
+        "q": "Wat zijn de openingstijden van Kronenburgerpark?",
+        "a": "Kronenburgerpark is een openbare ruimte die altijd toegankelijk is. Het kan 24 uur per dag, het hele jaar door en gratis worden bezocht."
+      },
+      {
+        "q": "Zijn honden toegestaan in Kronenburgerpark?",
+        "a": "Ja, honden zijn toegestaan in Kronenburgerpark, maar moeten aan de lijn worden gehouden om de vrij rondlopende pauwen en andere dieren te beschermen."
+      }
+    ]
+  },
+  "sources": {
+    "title": "Bronnen & officiële referenties",
+    "intro": "De informatie op deze pagina wordt ondersteund door officiële overheids-, erfgoed- en toerismebronnen. Deze bronnen versterken de nauwkeurigheid en geloofwaardigheid (E-E-A-T) van deze bezoekersgids.",
+    "items": [
+      {
+        "title": "Gemeente Nijmegen — officiële gemeentelijke website",
+        "publisher": "Gemeente Nijmegen",
+        "url": "https://www.nijmegen.nl/"
+      },
+      {
+        "title": "Provincie Gelderland — officiële provinciale overheid",
+        "publisher": "Provincie Gelderland",
+        "url": "https://www.gelderland.nl/"
+      },
+      {
+        "title": "Nationaal Monumentenregister (Rijksmonumenten)",
+        "publisher": "Rijksdienst voor het Cultureel Erfgoed",
+        "url": "https://www.cultureelerfgoed.nl/"
+      },
+      {
+        "title": "Visit Nijmegen — officieel toerismepoort van de stad",
+        "publisher": "Intonijmegen",
+        "url": "https://en.intonijmegen.com/"
+      },
+      {
+        "title": "Holland.com — officieel toerismepoort van Nederland",
+        "publisher": "Netherlands Board of Tourism & Conventions",
+        "url": "https://www.holland.com/"
+      },
+      {
+        "title": "Kronenburgerpark — Wikipedia",
+        "publisher": "Wikimedia Foundation",
+        "url": "https://nl.wikipedia.org/wiki/Kronenburgerpark"
+      }
+    ]
+  },
+  "weather": {
+    "title": "Weer in het Kronenburgerpark",
+    "subtitle": "Actuele omstandigheden en de 7-daagse verwachting voor het park en het centrum van Nijmegen.",
+    "forecast": "7-daagse verwachting",
+    "current": "Huidige omstandigheden",
+    "feelsLike": "Gevoelstemperatuur",
+    "wind": "Wind",
+    "humidity": "Luchtvochtigheid",
+    "precip": "Kans op neerslag",
+    "updated": "Bijgewerkt",
+    "unavailable": "De weergegevens zijn tijdelijk niet beschikbaar. Probeer het later nog eens.",
+    "conds": {
+      "clear": "Onbewolkt",
+      "mainlyClear": "Overwegend helder",
+      "partlyCloudy": "Half bewolkt",
+      "overcast": "Bewolkt",
+      "fog": "Mist",
+      "drizzle": "Motregen",
+      "lightRain": "Lichte regen",
+      "moderateRain": "Matige regen",
+      "heavyRain": "Zware regen",
+      "snow": "Sneeuw",
+      "rainShowers": "Regenbuien",
+      "snowShowers": "Sneeuwbuien",
+      "thunderstorm": "Onweer"
+    },
+    "advice": {
+      "heading": "Tips voor vandaag",
+      "groupOutfit": "Wat draag ik?",
+      "groupActivity": "Activiteiten",
+      "groupItems": "Meenemen",
+      "riskTitle": "Veiligheidswaarschuwing",
+      "noWarning": "Geen bijzondere weerswaarschuwingen vandaag",
+      "outfit": {
+        "o_heat": "Bij hitte luchtige kleding dragen en aan zonnebescherming denken.",
+        "o_cold": "Het is koud — draag een warme jas en een sjaal.",
+        "o_spread": "Grote dag-nachtverschillen — een licht extra laagje helpt.",
+        "o_wind": "Windkrachtig: kies een winddichte jas en houd hoeden goed vast.",
+        "o_rain": "Wind én regen — een waterdichte jas of regencape is handiger dan een paraplu."
+      },
+      "activity": {
+        "a_sunny": "Heerlijk weer voor een wandeling, picknick en foto's.",
+        "a_overcast": "Zacht licht is ideaal voor een ontspannen wandeling en fotografie zonder felle zon.",
+        "a_fog": "Mist beperkt het uitzicht — pas op langs de waterkant.",
+        "a_rainLikely": "Er is kans op regen: neem een paraplu mee, kies binnenactiviteiten of wacht een bui af.",
+        "a_lightRain": "Bij lichte regen zijn gras en paden glad en is buiten zijn minder prettig.",
+        "a_heavyRain": "Geen goede dag voor buiten — verplaats uw bezoek of kies een binnenactiviteit.",
+        "a_storm": "Onweer: stel buitenactiviteiten uit en blijf binnen.",
+        "a_hot": "Vermijd de middaghitte — kom 's ochtends of 's avonds en kies schaduwrijke routes.",
+        "a_cold": "Het is koud — houd het buiten kort en kleed u warm aan.",
+        "a_breezy": "Fris windje maar prima wandelweer — houd hoeden en losse spullen goed vast.",
+        "a_windy": "Zeer winderig: verblijf kort buiten en blijf uit de buurt van grote bomen."
+      },
+      "items": {
+        "i_umbrella": "Opvouwparaplu",
+        "i_raincoat": "Regencape (bij regen en wind gaat een paraplu niet werken)",
+        "i_sunscreen": "Zonnebrand",
+        "i_sunglasses": "Zonnebril",
+        "i_hat": "Zonnehoed",
+        "i_water": "Drinkwater",
+        "i_thermal": "Warme jas & sjaal"
+      },
+      "risks": {
+        "r_thunder": "Onweer: schuil niet onder grote bomen of in open ruimtes bij het water.",
+        "r_heavyrain": "Zware regen: paden kunnen glad en drassig zijn — vermijd lage plekken en blijf uit de buurt van het water.",
+        "r_strongwind": "Harde wind: blijf uit de buurt van grote bomen en constructies; er kunnen takken vallen.",
+        "r_fog": "Mist en slecht zicht op vochtige paden — houd toezicht op kinderen en ouderen."
+      }
+    }
+  },
+  "amenities": {
+    "title": "Praktische informatie & voorzieningen in de buurt",
+    "intro": "Kronenburgerpark ligt aan de rand van het historische centrum van Nijmegen, dus dagelijkse voorzieningen zijn dichtbij. Als onafhankelijke, niet-commerciële gids raden wij geen specifieke bedrijven aan; het overzicht hieronder vermeldt alleen de soorten voorzieningen die u in de omgeving kunt verwachten.",
+    "items": [
+      {
+        "title": "Openbare toiletten (WC)",
+        "text": "In het park zelf zijn geen openbare toiletten. De dichtstbijzijnde openbare toiletten bevinden zich in het stadscentrum, in winkelstraten en openbare gebouwen, en rond station Nijmegen Centraal, op ongeveer 5-15 minuten lopen."
+      },
+      {
+        "title": "Parkeren",
+        "text": "De straten direct rond het park zijn grotendeels autoluw. Aan de rand van het centrum zijn verschillende betaalde openbare parkeergarages en parkeerplaatsen op korte loopafstand. Fietsenstallingen zijn beschikbaar langs de rand van het park."
+      },
+      {
+        "title": "Restaurants & cafés",
+        "text": "De oude binnenstad biedt een gevarieerd aanbod van restaurants, cafés, lunchrooms en terrassen met Nederlandse, Gelderse en internationale keuken, op ongeveer 5-10 minuten lopen."
+      },
+      {
+        "title": "Winkels & supermarkten",
+        "text": "Supermarkten, bakkers en gemakswinkels zijn te vinden in het centrum en rond station Nijmegen Centraal, veelal zeven dagen per week geopend. De Grote Markt en de winkelstraten liggen op korte loopafstand van het park."
+      },
+      {
+        "title": "Accommodatie",
+        "text": "Hotels, bed & breakfasts en hostels in verschillende prijsklassen bevinden zich op loopafstand, met meerdere grotere hotels rond het station en langs de Waalkade."
+      },
+      {
+        "title": "Brandstof & elektrisch laden",
+        "text": "In het historische centrum zijn geen tankstations. Tankstations liggen op de ringwegen en hoofdtoegangsroutes rond Nijmegen; openbare laadpalen voor elektrische voertuigen zijn verspreid over de hele stad, ook in straten rond het centrum."
+      },
+      {
+        "title": "Openbaar vervoer & fietsen",
+        "text": "Bushaltes rond het park verbinden met het stadsnet, en station Nijmegen Centraal met nationale en internationale treinverbindingen ligt op ongeveer 10 minuten lopen. Langs de Kronenburgersingel lopen fietsroutes."
+      }
+    ]
   }
 }

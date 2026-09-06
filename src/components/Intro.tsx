@@ -2,6 +2,7 @@ import { useTranslations, useMessages } from 'next-intl';
 
 export default function Intro() {
   const t = useTranslations('intro');
+  const tEnt = useTranslations('entity');
   const tOff = useTranslations('officialManagement');
   const messages = useMessages() as any;
   const items: string[] = messages?.intro?.visitGuide?.items || [];
@@ -10,6 +11,13 @@ export default function Intro() {
   return (
     <section id="intro" className="section-padding">
       <div className="max-w-4xl mx-auto">
+        {/* Geographic hierarchy (breadcrumb) for entity binding */}
+        <nav aria-label={tEnt('breadcrumbLabel')} className="mb-6">
+          <p className="text-xs sm:text-sm" style={{ color: 'var(--text-muted)' }}>
+            {tEnt('hierarchy')}
+          </p>
+        </nav>
+
         <h2
           className="font-display text-3xl sm:text-4xl font-semibold mb-6"
           style={{ color: 'var(--text-primary)' }}
@@ -18,12 +26,33 @@ export default function Intro() {
         </h2>
         <div className="w-12 h-0.5 mb-8" style={{ background: 'var(--accent)' }} />
 
+        {/* Entity first-paragraph declaration */}
         <p
-          className="text-lg leading-relaxed mb-12"
+          className="text-lg sm:text-xl font-medium leading-relaxed mb-6"
+          style={{ color: 'var(--text-primary)' }}
+        >
+          {tEnt('welcome')}
+        </p>
+
+        <p
+          className="text-lg leading-relaxed mb-6"
           style={{ color: 'var(--text-secondary)' }}
         >
           {t('description')}
         </p>
+
+        {/* Nearby landmarks semantic cluster */}
+        <div
+          className="mb-12 p-5 sm:p-6 rounded-xl border-l-4"
+          style={{
+            background: 'var(--bg-tertiary)',
+            borderColor: 'var(--accent)',
+          }}
+        >
+          <p className="text-base leading-relaxed" style={{ color: 'var(--text-secondary)' }}>
+            {tEnt('landmarks')}
+          </p>
+        </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
           <div

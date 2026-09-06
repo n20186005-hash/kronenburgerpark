@@ -1,7 +1,45 @@
 {
   "meta": {
-    "title": "Kronenburgerpark 克罗南堡公园｜奈梅亨中世纪防御工事遗址与城市生态公园",
-    "description": "一份独立、非营利的 Kronenburgerpark（克罗南堡公园）科普指南：15 世纪的火药塔（Kruittoren）、保存至今的城墙遗迹，以及公园的生态与历史。包含游览信息、历史背景与野生动植物资料。"
+    "title": "Kronenburgerpark 克罗南堡公园｜奈梅亨免费历史公园与火药塔",
+    "description": "奈梅亨市中心的克罗南堡公园（Kronenburgerpark）：15 世纪火药塔 Kruittoren、池塘与保存至今的中世纪城墙。免费入园、24 小时全天开放，附停车、步行路线与游览贴士。"
+  },
+  "kruittorenPage": {
+    "metaTitle": "Kruittoren 火药塔｜奈梅亨 15 世纪火药塔（克罗南堡公园内）",
+    "metaDescription": "关于奈梅亨克罗南堡公园内圆形 15 世纪火药塔（约 1425 年）的一切：历史背景、为何建成圆形，以及如何免费参观。",
+    "pageTitle": "奈梅亨火药塔（Kruittoren）",
+    "pageLead": "这座圆形中世纪火药塔赋予了克罗南堡公园独特的气质——约建于 1425 年，被列为荷兰国家古迹（rijksmonument），可从公园免费欣赏。",
+    "factsTitle": "火药塔速览",
+    "facts": [
+      { "label": "始建时间", "value": "约 1425 年" },
+      { "label": "用途", "value": "火药库与城市防御" },
+      { "label": "地位", "value": "荷兰国家古迹（受保护）" },
+      { "label": "所在位置", "value": "奈梅亨 Kronenburgerpark" },
+      { "label": "参观", "value": "免费 · 公园 24 小时开放" }
+    ],
+    "storyTitle": "为火药而建的塔",
+    "storyLead": "三个篇章说明这座塔为何而建——以及它为何能留存至今。",
+    "storyItems": [
+      { "id": "oorsprong", "title": "城市防御的火药库（约 1425 年）", "content": "火药塔约建于 1425 年，是奈梅亨中世纪环形防御体系的一部分。城市将火药储存在厚厚的墙体之内，与居民区保持安全距离。作为火炮时代早期防御工事的珍贵实例，该塔留存至今。" },
+      { "id": "waarom-rond", "title": "塔为何建成圆形？", "content": "圆形塔楼随火炮的出现而流行：圆形轮廓没有易受攻击的墙角，比平直墙面更能偏转炮火。火药塔近乎圆形的平面布局正是这种设计逻辑的典型范例。" },
+      { "id": "behouden", "title": "因公园而获救（1870–1880 年代）", "content": "1874 年《要塞法》（Vestingwet）使奈梅亨失去要塞地位，城墙面临拆除。规划者在幸存的墙体周围辟建公共公园，火药塔由此得以保留。建筑师 Pierre Cuypers 于 1878–1883 年对塔身进行修复。如今这座古迹位于一座免费开放的公园之内。" }
+    ],
+    "visitTitle": "参观火药塔",
+    "visitLead": "您可从公共公园内欣赏火药塔外观——无围栏、不收费。",
+    "visitItems": [
+      { "title": "免费 · 全天开放", "text": "克罗南堡公园全年免费开放，因此全天任何时段都可以近距离看到这座塔。" },
+      { "title": "位于老城区", "text": "火药塔位于老城区边缘、沿 Kronenburgersingel 而建，距奈梅亨中央车站步行约 10 分钟。" },
+      { "title": "最佳时段", "text": "建议清晨或傍晚前往：光线最美，公园也最为安静。" }
+    ],
+    "faqTitle": "火药塔常见问题",
+    "faqLead": "关于奈梅亨中世纪火药塔的快速解答。",
+    "faqItems": [
+      { "q": "Kruittoren（火药塔）是什么？", "a": "火药塔是一座建于约 1425 年的圆形中世纪塔楼，用于储存城市防御所需的火药，是奈梅亨城市防御体系的一部分。它已被列为荷兰国家古迹，也是克罗南堡公园内最著名的纪念建筑。" },
+      { "q": "为什么火药塔建成圆形？", "a": "圆形轮廓没有易受攻击的墙角，比平直墙面更能偏转炮弹。自火炮出现后，圆形设计便成为标准做法。" },
+      { "q": "参观火药塔需要付费吗？", "a": "不需要。塔位于克罗南堡公园——一座免费且 24 小时开放的公共公园之内。" }
+    ],
+    "backTitle": "探索整个公园",
+    "backText": "完整的克罗南堡公园游览指南——历史、步行路线、野生动物、停车等信息一应俱全。",
+    "backCta": "阅读克罗南堡公园指南"
   },
   "header": {
     "home": "首页",
@@ -13,8 +51,8 @@
   "hero": {
     "title": "Kronenburgerpark",
     "subtitle": "奈梅亨中世纪防御工事遗址与城市生态公园",
-    "rating": "4.7（6,073）",
-    "reviewCount": "6,073 条评价",
+    "rating": "4.5（5,231）",
+    "reviewCount": "5,231 条评价",
     "type": "历史地标 · 城市公园",
     "openMaps": "查看位置"
   },
@@ -115,7 +153,10 @@
         "title": "从治安死角到文化地标",
         "content": "20 世纪后期，公园一度失修，并被视为城市中不安全的角落。经过整治工程，它重新成为安全、维护良好的公共空间。1985 年，奈梅亨创作歌手 Frank Boeijen 发表《Kronenburg Park》，这首流传甚广的歌曲巩固了公园的文化共鸣，至今仍是荷兰流行音乐经典之一。今日的公园在遗产保护、生态保育与公共使用之间取得平衡。"
       }
-    ]
+    ],
+    "towerPageTitle": "火药塔（Kruittoren）深度专题",
+    "towerPageText": "奈梅亨中世纪火药塔的完整故事——为何建成圆形、如何留存至今，以及今天能看到什么。",
+    "towerPageCta": "阅读火药塔专题"
   },
   "architecture": {
     "title": "建筑与考古",
@@ -265,7 +306,7 @@
     "walking": "步行或骑行",
     "walkingDesc": "从奈梅亨市中心步行或骑自行车即可轻松到达公园。",
     "driving": "自驾与停车",
-    "drivingDesc": "附近设有停车场；建议优先选择公共交通或绿色出行。",
+    "drivingDesc": "沿 Kronenburgersingel 及周边街道设有收费停车位（路边缴费机），市中心多座停车场步行可达。建议优先乘坐公共交通或步行，最新费率见奈梅亨市政府官网。",
     "airports": [
       {
         "code": "AMS",
@@ -422,7 +463,9 @@
   "mapSection": {
     "title": "交通指南",
     "subtitle": "Kronenburgersingel, 6511 AL Nijmegen, 荷兰",
-    "openMaps": "在 Google Maps 查看"
+    "openMaps": "在 Google Maps 查看",
+    "officialPortalText": "如需官方资讯与区域性旅游信息，请访问",
+    "officialPortalLink": "荷兰 / 海尔德兰省官方旅游门户"
   },
   "footer": {
     "rights": "© 2026 Kronenburgerpark 独立遗产研究协会 · 保留所有权利。",
@@ -438,7 +481,10 @@
       "overheid": "荷兰政府",
       "nederlandWereldwijd": "荷兰环球"
     },
-    "disclaimer": "本网站是一个独立的非营利遗产与生态研究项目。我们与奈梅亨市政府或任何其他官方机构均无隶属关系。"
+    "disclaimer": "本网站是一个独立的非营利遗产与生态研究项目。我们与奈梅亨市政府或任何其他官方机构均无隶属关系。",
+    "imageCredits": "图片产权声明：本网站所展示的所有图片，其产权与版权均归原摄影者所有。",
+    "exploreTitle": "游览指引",
+    "contactTitle": "地址与联系方式"
   },
   "privacy": {
     "title": "隐私政策",
@@ -558,6 +604,186 @@
     "transport": "交通方式",
     "route": "游览路线",
     "gallery": "图库",
-    "references": "参考文献"
+    "references": "参考文献",
+    "faq": "常见问题",
+    "weather": "天气",
+    "amenities": "实用信息",
+    "sources": "资料来源"
+  },
+  "entity": {
+    "breadcrumbLabel": "地理位置",
+    "welcome": "欢迎来到 Kronenburgerpark（克罗南堡公园）——这座 19 世纪建成的历史城市公园位于荷兰海尔德兰省奈梅亨市中心。它既是官方的正式名称，也被公认为奈梅亨核心的克罗南堡公园：环抱中世纪防御塔而建的景观绿地与池塘坐落在 Kronenburgersingel 旁，是游客游览奈梅亨老城的重要绿色枢纽。",
+    "landmarks": "到访 Kronenburgerpark（克罗南堡公园）时，游客可以轻松游览周边的历史地标与景点，包括奈梅亨老城内的圣斯德望教堂（Sint Stevenskerk）与 Grote Markt 集市广场、公园内的中世纪火药塔（Kruittoren，约 1425 年），以及步行约 10–15 分钟可达的 Valkhof 博物馆（Museum Het Valkhof）与瓦尔克霍夫公园（Valkhofpark）。",
+    "hierarchy": "Kronenburgerpark（克罗南堡公园）→ 奈梅亨 → 海尔德兰省 → 荷兰"
+  },
+  "faq": {
+    "title": "常见问题（FAQ）",
+    "intro": "关于游览奈梅亨 Kronenburgerpark（克罗南堡公园）最常见问题的快速解答。",
+    "items": [
+      {
+        "q": "Kronenburgerpark 具体位于哪里？",
+        "a": "Kronenburgerpark 位于荷兰海尔德兰省奈梅亨市中心，地址为 Kronenburgersingel, 6511 AL Nijmegen，距奈梅亨中央车站步行约 10 分钟，且紧邻 Grote Markt 集市广场。"
+      },
+      {
+        "q": "Kronenburgerpark 免费参观吗？",
+        "a": "是的。Kronenburgerpark 是一座公立公园，全年免费向公众开放。公园没有大门，也无需门票，全天 24 小时均可进入。"
+      },
+      {
+        "q": "Kronenburgerpark 内的 Kruittoren（火药塔）是什么？",
+        "a": "Kruittoren（火药塔）是一座约 1425 年作为奈梅亨城防体系一部分而建的圆形中世纪塔楼，是公园最具代表性的建筑，已被列为荷兰国家纪念建筑（rijksmonument）。"
+      },
+      {
+        "q": "在 Kronenburgerpark 可以看到什么？",
+        "a": "游客可以看到 15 世纪的火药塔与幸存城墙、栖息着天鹅与水鸟的池塘、开阔草坪与高大树木，以及园内自由漫步的孔雀、黇鹿与用于植被管理的山羊。"
+      },
+      {
+        "q": "Kronenburgerpark 的开放时间是什么？",
+        "a": "Kronenburgerpark 是全天开放的公共空间，一年四季、每天 24 小时均可免费游览。"
+      },
+      {
+        "q": "Kronenburgerpark 可以带狗进入吗？",
+        "a": "可以。Kronenburgerpark 允许携带犬只，但请务必使用牵引绳，以保护园内自由活动的孔雀等野生动物。"
+      }
+    ]
+  },
+  "sources": {
+    "title": "权威资料来源",
+    "intro": "本页信息以官方政府、文化遗产与旅游机构的公开资料为依据。以下来源用于支撑本指南的准确性与可信度（E-E-A-T）。",
+    "items": [
+      {
+        "title": "奈梅亨市政府（官方网站）",
+        "publisher": "Gemeente Nijmegen",
+        "url": "https://www.nijmegen.nl/"
+      },
+      {
+        "title": "海尔德兰省政府（官方网站）",
+        "publisher": "Provincie Gelderland",
+        "url": "https://www.gelderland.nl/"
+      },
+      {
+        "title": "荷兰国家纪念建筑登记处（Rijksmonumenten）",
+        "publisher": "荷兰文化遗产局",
+        "url": "https://www.cultureelerfgoed.nl/"
+      },
+      {
+        "title": "Visit Nijmegen（奈梅亨官方城市旅游门户）",
+        "publisher": "Intonijmegen",
+        "url": "https://en.intonijmegen.com/"
+      },
+      {
+        "title": "Holland.com（荷兰国家旅游推广局官方门户）",
+        "publisher": "Netherlands Board of Tourism & Conventions",
+        "url": "https://www.holland.com/"
+      },
+      {
+        "title": "Kronenburgerpark — 维基百科",
+        "publisher": "维基媒体基金会",
+        "url": "https://nl.wikipedia.org/wiki/Kronenburgerpark"
+      }
+    ]
+  },
+  "weather": {
+    "title": "Kronenburgerpark 实时天气",
+    "subtitle": "公园及奈梅亨市中心的当前天气与 7 日天气预报。",
+    "forecast": "7 日预报",
+    "current": "当前天气",
+    "feelsLike": "体感温度",
+    "wind": "风速",
+    "humidity": "湿度",
+    "precip": "降雨概率",
+    "updated": "更新于",
+    "unavailable": "天气数据暂时不可用，请稍后再试。",
+    "conds": {
+      "clear": "晴",
+      "mainlyClear": "晴间多云",
+      "partlyCloudy": "多云间晴",
+      "overcast": "阴天",
+      "fog": "雾",
+      "drizzle": "毛毛雨",
+      "lightRain": "小雨",
+      "moderateRain": "中雨",
+      "heavyRain": "大雨",
+      "snow": "降雪",
+      "rainShowers": "阵雨",
+      "snowShowers": "阵雪",
+      "thunderstorm": "雷暴"
+    },
+    "advice": {
+      "heading": "今日出行建议",
+      "groupOutfit": "出行穿搭",
+      "groupActivity": "游玩安排",
+      "groupItems": "随身物品",
+      "riskTitle": "风险提醒",
+      "noWarning": "今日暂无特殊风险提示，可放心出行",
+      "outfit": {
+        "o_heat": "天气炎热，建议轻便透气的衣物并做好防晒。",
+        "o_cold": "气温偏低，建议穿厚外套并戴好围巾。",
+        "o_spread": "早晚温差较大，建议备一件方便穿脱的外套。",
+        "o_wind": "风力较强，外套尽量选防风款，帽子等易被吹落。",
+        "o_rain": "有风又有雨，防水外套或雨衣比雨伞更实用。"
+      },
+      "activity": {
+        "a_sunny": "天气晴好，适合散步、野餐与拍照。",
+        "a_overcast": "光线柔和，适合漫步与摄影，长时间户外也不晒。",
+        "a_fog": "雾天能见度一般，观景效果打折扣，走湖边步道请注意安全。",
+        "a_rainLikely": "降雨概率较高，请随身带伞，优先安排室内项目或等降雨间歇再逛。",
+        "a_lightRain": "小雨天气，草坪与路面湿滑，露天体验一般。",
+        "a_heavyRain": "不建议户外游玩，建议改期，或优先博物馆、美术馆等室内场馆。",
+        "a_storm": "有雷雨，请推迟或取消户外活动，留在室内更安全。",
+        "a_hot": "正午炎热，建议清晨或傍晚到访，并多选择树荫路线。",
+        "a_cold": "天气较冷，户外时间不宜过长，注意保暖。",
+        "a_breezy": "风力偏大但适合散步，注意帽子等易被吹落的随身物品。",
+        "a_windy": "风很大，请减少户外逗留时间，远离高大树木。"
+      },
+      "items": {
+        "i_umbrella": "折叠雨伞",
+        "i_raincoat": "雨衣（风雨较大，普通伞不顶用）",
+        "i_sunscreen": "防晒霜",
+        "i_sunglasses": "太阳镜",
+        "i_hat": "遮阳帽",
+        "i_water": "饮用水",
+        "i_thermal": "厚外套与围巾"
+      },
+      "risks": {
+        "r_thunder": "雷雨天气，请勿在大树下、开阔处或水边避雨。",
+        "r_heavyrain": "降雨较强，部分路面湿滑积水，请绕行低洼处并远离水边。",
+        "r_strongwind": "大风天气，请远离高大树木与临时搭建物，注意高空坠物。",
+        "r_fog": "雾天能见度低，步道湿滑，请看护好老人与儿童。"
+      }
+    }
+  },
+  "amenities": {
+    "title": "实用信息与周边设施",
+    "intro": "Kronenburgerpark 位于奈梅亨历史市中心边缘，日常所需服务近在咫尺。作为独立的非营利科普网站，我们不推荐任何具体商户，以下仅按类别介绍周边可用的设施类型。",
+    "items": [
+      {
+        "title": "公共厕所（WC）",
+        "text": "公园内没有公共卫生间。最近的公共厕所位于市中心步行商业街、公共建筑内以及奈梅亨中央车站附近，步行约 5–15 分钟。"
+      },
+      {
+        "title": "停车",
+        "text": "公园紧邻的街区大多为交通宁静区域。市中心边缘设有多个付费公共停车场（室内车库与路边收费泊位），距公园步行即可到达；公园周边也设有自行车停放点。"
+      },
+      {
+        "title": "餐饮与咖啡馆",
+        "text": "老城区提供多样的餐馆、咖啡馆、简餐店与露天座位，涵盖荷兰本地菜、海尔德兰地区菜与各国风味，步行约 5–10 分钟。"
+      },
+      {
+        "title": "商超与购物",
+        "text": "市中心及奈梅亨中央车站周边设有超市、面包房与便利店，多数全年每日营业。Grote Markt 集市广场与步行街距公园仅数步之遥。"
+      },
+      {
+        "title": "住宿",
+        "text": "步行范围内有不同价位的酒店、民宿与青年旅舍，其中较大型的酒店多位于车站周边及瓦尔河畔（Waalkade）。"
+      },
+      {
+        "title": "加油站与电动车充电",
+        "text": "历史中心区内没有加油站。加油站位于奈梅亨环路及主要进城道路沿线；公共电动车充电桩则遍布全市，市中心周边街道路边亦设有充电点。"
+      },
+      {
+        "title": "公共交通与骑行",
+        "text": "公园四周及邻近街道设有公交站，可接驳城市公交网络；奈梅亨中央车站提供国内与国际铁路服务，步行约 10 分钟。Kronenburgersingel 沿线设有自行车道。"
+      }
+    ]
   }
 }
