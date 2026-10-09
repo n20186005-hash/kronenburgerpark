@@ -41,3 +41,19 @@ export function buildAlternates(locale: string, suffix?: string) {
   languages['x-default'] = pageUrl(routing.defaultLocale, suffix);
   return { canonical: pageUrl(locale, suffix), languages };
 }
+
+/**
+ * Canonical + hreflang for a single-language topic page (e.g. the German
+ * Altstadt guide). Only the page's own locale is declared, and x-default
+ * points at the same URL to avoid advertising non-existent locale variants.
+ */
+export function buildSingleLocaleAlternates(locale: string, suffix: string) {
+  const url = pageUrl(locale, suffix);
+  return {
+    canonical: url,
+    languages: {
+      [HREFLANG[locale] ?? locale]: url,
+      'x-default': url,
+    },
+  };
+}

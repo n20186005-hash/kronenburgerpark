@@ -166,6 +166,60 @@ export function buildFaqPage(items?: FaqItem[] | null) {
   };
 }
 
+/**
+ * Graph for a single-language topic landing page (e.g. the German Altstadt
+ * guide or the Dutch parking guide). Produces an Article with breadcrumbs
+ * back to the park, plus an optional FAQPage when the topic has Q&A items.
+ */
+export function buildTopicGraph(
+  locale: string,
+  suffix: string,
+  title: string,
+  description: string,
+  faqItems?: FaqItem[] | null
+) {
+  const url = `${BASE_URL}/${locale}/${suffix}`;
+  const graph: any[] = [
+    {
+      '@type': 'Article',
+      '@id': `${url}#article`,
+      headline: title,
+      description,
+      inLanguage: HREFLANG[locale] || locale,
+      url,
+      publisher: {
+        '@type': 'Organization',
+        name: 'Kronenburgerpark Independent Heritage Research Association',
+      },
+    },
+    {
+      '@type': 'BreadcrumbList',
+      itemListElement: [
+        {
+          '@type': 'ListItem',
+          position: 1,
+          name: ATTRACTION_FULL_NAME,
+          item: `${BASE_URL}/${locale}`,
+        },
+        {
+          '@type': 'ListItem',
+          position: 2,
+          name: title,
+          item: url,
+        },
+      ],
+    },
+  ];
+
+  const faq = buildFaqPage(faqItems);
+  if (faq) graph.push(faq);
+
+  return {
+    '@context': 'https://schema.org',
+    '@graph': graph,
+  };
+}
+
 /** Graph for the dedicated Kruittoren landing page. */
 export function buildKruittorenGraph(
   locale: string,

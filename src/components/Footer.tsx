@@ -1,4 +1,4 @@
-import { useTranslations, useLocale } from 'next-intl';
+import { useTranslations, useLocale, useMessages } from 'next-intl';
 import {
   STREET_ADDRESS,
   POSTAL_CODE,
@@ -14,6 +14,8 @@ export default function Footer() {
   const t = useTranslations('footer');
   const toc = useTranslations('toc');
   const locale = useLocale();
+  const fm = useMessages() as any;
+  const guides = (fm?.footer?.guides || []) as Array<{ label: string; href: string }>;
 
   return (
     <footer
@@ -21,7 +23,7 @@ export default function Footer() {
       style={{ background: 'var(--bg-tertiary)', borderTop: '1px solid var(--border-color)' }}
     >
       <div className="max-w-5xl mx-auto">
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-8">
+        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-8 mb-8">
           {/* Official resources */}
           <div>
             <h3 className="font-display text-lg font-semibold mb-1" style={{ color: 'var(--text-primary)' }}>
@@ -70,6 +72,27 @@ export default function Footer() {
               ))}
             </nav>
           </div>
+
+          {/* Themed guides (locale-specific topic pages) */}
+          {guides.length > 0 && (
+            <div>
+              <h3 className="font-display text-lg font-semibold mb-4" style={{ color: 'var(--text-primary)' }}>
+                {t('guidesTitle')}
+              </h3>
+              <nav aria-label={t('guidesTitle')} className="flex flex-col gap-2">
+                {guides.map((g) => (
+                  <a
+                    key={g.href}
+                    href={g.href}
+                    className="hover:underline text-sm"
+                    style={{ color: 'var(--text-secondary)' }}
+                  >
+                    {g.label}
+                  </a>
+                ))}
+              </nav>
+            </div>
+          )}
 
           {/* NAP — must match the Google Business Profile exactly */}
           <div>

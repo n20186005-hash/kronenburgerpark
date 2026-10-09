@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Kronenburgerpark Nijmegen | Historisch Park & Kruittoren (Gratis)",
-    "description": "Kronenburgerpark in hartje Nijmegen: de 15e-eeuwse Kruittoren, de vijver en de overgebleven middeleeuwse stadswal. Gratis en 24 uur per dag geopend. Parkeren, wandelroutes en bezoekerstips."
+    "title": "Kronenburgerpark Nijmegen | Kruittoren, Dierenweide & Parkeren",
+    "description": "Ontdek het Kronenburgerpark in Nijmegen. Bekijk de historische Kruittoren, de dierenweide met damherten en pauwen, de wandelpaden en praktische tips voor parkeren en bereikbaarheid."
   },
   "kruittorenPage": {
     "metaTitle": "Kruittoren Nijmegen | 15e-eeuwse kruittoren in Kronenburgerpark",
@@ -41,6 +41,85 @@
     "backText": "De complete bezoekersgids voor Kronenburgerpark — geschiedenis, wandelroutes, dieren, parkeren en meer.",
     "backCta": "Lees de Kronenburgerpark-gids"
   },
+  "parkerenKronenburgerpark": {
+    "metaTitle": "Parkeren Kronenburgerpark Nijmegen | Garages & Tarieven",
+    "metaDescription": "Parkeren bij het Kronenburgerpark in Nijmegen: de dichtstbijzijnde parkeergarages, tarieven, loopafstand en tips om met ov of fiets te komen.",
+    "pageTitle": "Parkeren bij het Kronenburgerpark",
+    "pageLead": "Het Kronenburgerpark ligt aan de rand van de Nijmeegse binnenstad, waar parkeren betaald is. Op deze pagina vindt u de dichtstbijzijnde parkeergarages, loopafstanden en tips om de auto te laten staan.",
+    "factsTitle": "Op een rij",
+    "facts": [
+      { "label": "Adres", "value": "Kronenburgersingel 6511 AL" },
+      { "label": "Parkeren", "value": "Betaald in omgeving" },
+      { "label": "Dichtstbij", "value": "Garage centrum" },
+      { "label": "Alternatief", "value": "Trein of fiets" }
+    ],
+    "storyTitle": "Waar parkeren rond het Kronenburgerpark?",
+    "storyLead": "De straten direct rond het park zijn grotendeels autoluw; de dichtstbijzijnde parkeergarages liggen aan de rand van het centrum.",
+    "storyItems": [
+      { "id": "garages", "title": "Parkeergarages in het centrum", "content": "De dichtstbijzijnde parkeergarages, zoals Parkeergarage Mariënburg en Parkeergarage Centrum (Koningsplein), liggen op loopafstand van het centrum. Van daaruit is het naar het Kronenburgerpark circa 10–15 minuten lopen. Controleer vooraf de actuele openingstijden en tarieven op de website van de gemeente Nijmegen." },
+      { "id": "straat", "title": "Parkeren op straat", "content": "In de straten rond het centrum geldt betaald parkeren via parkeerautomaten en parkeerapps. De zone direct rond het park is grotendeels autoluw en biedt weinig plaats, maar iets verder van het centrum zijn er wel straatparkeerplekken." },
+      { "id": "ov-fiets", "title": "Met openbaar vervoer of fiets", "content": "Station Nijmegen Centraal ligt op ongeveer 10 minuten lopen van het park. Fietsroutes lopen langs de Kronenburgersingel, en buslijnen stoppen in de buurt. Vooral in het weekend is de fiets of het ov vaak de makkelijkste keuze." }
+    ],
+    "visitTitle": "Tips voor bereikbaarheid",
+    "visitLead": "Zo bereidt u de trip naar het park voor.",
+    "visitItems": [
+      { "title": "Loopafstand", "text": "Vanaf parkeergarage Mariënburg of het station is het park in 10–15 minuten lopen via de Kronenburgersingel." },
+      { "title": "Tarieven", "text": "Parkeertarieven in het centrum variëren per garage en tijdstip; controleer de actuele prijs via de parkeerautomaten of de website van de gemeente Nijmegen." },
+      { "title": "Toegankelijkheid", "text": "Het trottoir van station naar park is breed en vlak, geschikt voor rolstoel en kinderwagen." }
+    ],
+    "faqTitle": "Parkeren Kronenburgerpark: veelgestelde vragen",
+    "faqLead": "Korte antwoorden over parkeren en bereikbaarheid.",
+    "faqItems": [
+      { "q": "Kan ik gratis parkeren bij het Kronenburgerpark?", "a": "Direct rond het park is vrijwel geen parkeerplaats en de omliggende straten zijn betaald. De dichtstbijzijnde parkeergarages liggen aan de rand van het centrum, op 10–15 minuten lopen." },
+      { "q": "Waar is de dichtstbijzijnde parkeergarage?", "a": "Parkeergarage Mariënburg en Parkeergarage Centrum (Koningsplein) liggen op loopafstand van het centrum; van daaruit is het naar het Kronenburgerpark circa 10–15 minuten lopen." },
+      { "q": "Hoe kom ik het makkelijkst naar het park?", "a": "Met de trein naar Nijmegen Centraal (10 min lopen), met de fiets, of met buslijnen die rond het park stoppen. Parkeren in het centrum is betaald." },
+      { "q": "Is het park toegankelijk met rolstoel of kinderwagen?", "a": "Ja, de hoofdpaden en de open grasvelden zijn drempelvrij; vanaf het station is het trottoir breed en vlak." }
+    ],
+    "relatedTitle": "Meer gidsen",
+    "backTitle": "Terug naar het Kronenburgerpark",
+    "backText": "Alle informatie over het park, de Kruittoren en bezoektips staat in de hoofdgids.",
+    "backCta": "Lees de Kronenburgerpark-gids"
+  },
+  "dierenweideKronenburgerpark": {
+    "metaTitle": "Dierenweide Kronenburgerpark | Damherten, Pauwen & Geiten",
+    "metaDescription": "De dierenweide van het Kronenburgerpark in Nijmegen: damherten, pauwen en geiten die het groen beheren. Alles over de dieren, openingstijden en bezoektips.",
+    "pageTitle": "De dierenweide van het Kronenburgerpark",
+    "pageLead": "In het Kronenburgerpark leven damherten, vrijlopende pauwen en geiten die de grasvelden natuurlijk kort houden. Een geliefde plek voor gezinnen — hier leest u wat u kunt verwachten.",
+    "factsTitle": "Op een rij",
+    "facts": [
+      { "label": "Dieren", "value": "Damherten, pauwen, geiten" },
+      { "label": "Toegang", "value": "Gratis, openbaar park" },
+      { "label": "Beheer", "value": "Natuurlijk (geiten)" },
+      { "label": "Locatie", "value": "In het park, Nijmegen" }
+    ],
+    "storyTitle": "Welke dieren leven in het park?",
+    "storyLead": "Een kleine, maar opvallende levende collectie maakt deel uit van het parkbeheer.",
+    "storyItems": [
+      { "id": "damherten", "title": "Damherten", "content": "Een kleine kudde damherten wordt in het park gehouden als onderdeel van de levende collectie. Ze zijn gewend aan bezoekers, maar worden niet gevoerd en niet van dichtbij benaderd." },
+      { "id": "pauwen", "title": "Pauwen", "content": "Vrijlopende pauwen horen tot de meest herkenbare bewoners van het park. Ze lopen over de paden en gazons; houd honden aan de lijn om de vogels te ontzien." },
+      { "id": "geiten", "title": "Geiten", "content": "Geiten worden ingezet voor natuurlijk beheer: zij houden grasland en taluds open zonder machines, een vorm van beheer met minimale impact." },
+      { "id": "watervogels", "title": "Zwanen & watervogels", "content": "De vijver biedt onderdak aan knobbelzwanen, eenden en andere watervogels. Oplettende bezoekers zien mogelijk ook amfibieën langs de oever." }
+    ],
+    "visitTitle": "Bezoektips voor de dierenweide",
+    "visitLead": "Zo maakt u er een prettig bezoek van.",
+    "visitItems": [
+      { "title": "Met kinderen", "text": "De dierenweide is populair bij gezinnen; houd afstand en voer de dieren niet." },
+      { "title": "Rustigste moment", "text": "Vroege ochtend en late middag zijn het rustigst en het licht is mooi voor foto's." },
+      { "title": "Regels", "text": "Honden aan de lijn; dieren niet voeren. Respecteer de natuurlijke begrazing en het monument." }
+    ],
+    "faqTitle": "Dierenweide Kronenburgerpark: veelgestelde vragen",
+    "faqLead": "Korte antwoorden over de dieren in het park.",
+    "faqItems": [
+      { "q": "Welke dieren zijn er in het Kronenburgerpark?", "a": "Het park herbergt een kleine kudde damherten, vrijlopende pauwen en geiten die de grasvelden begrazen. Ook de vijver biedt onderdak aan zwanen en watervogels." },
+      { "q": "Moet ik betalen om de dierenweide te bezoeken?", "a": "Nee, het Kronenburgerpark is een openbaar park en gratis toegankelijk. De dieren zijn in het park te zien zonder entreeprijs." },
+      { "q": "Mag ik de dieren voeren?", "a": "Nee, het voeren van de dieren wordt afgeraden om hun gezondheid en het natuurlijke evenwicht te beschermen. Honden moeten aan de lijn." },
+      { "q": "Zijn de dieren er het hele jaar?", "a": "Ja, de dieren maken deel uit van het vaste parkbeheer en zijn doorgaans het hele jaar aanwezig in het park." }
+    ],
+    "relatedTitle": "Meer gidsen",
+    "backTitle": "Terug naar het Kronenburgerpark",
+    "backText": "Alle informatie over het park, de Kruittoren en bezoektips staat in de hoofdgids.",
+    "backCta": "Lees de Kronenburgerpark-gids"
+  },
   "header": {
     "home": "Home",
     "gallery": "Galerij",
@@ -51,8 +130,8 @@
   "hero": {
     "title": "Kronenburgerpark",
     "subtitle": "Middeleeuws Vestingsrestant & Stedelijk Ecopark, Nijmegen",
-    "rating": "4.5 (5.231)",
-    "reviewCount": "5.231 beoordelingen",
+    "rating": "4.5 (5.251)",
+    "reviewCount": "5.251 beoordelingen",
     "type": "Historisch Monument · Stedelijk Park",
     "openMaps": "Bekijk Locatie"
   },
@@ -484,6 +563,11 @@
     "disclaimer": "Deze website is een onafhankelijk, niet-commercieel erfgoed- en ecologieonderzoeksproject. Wij zijn niet gelieerd aan de Gemeente Nijmegen of enige andere officiële instelling.",
     "imageCredits": "Beeldrecht: alle foto's op deze website blijven eigendom en copyright van de oorspronkelijke fotografen.",
     "exploreTitle": "Plan je bezoek",
+    "guidesTitle": "Thema-gidsen",
+    "guides": [
+      { "label": "Parkeren Kronenburgerpark", "href": "/nl/parkeren-kronenburgerpark" },
+      { "label": "Dierenweide Kronenburgerpark", "href": "/nl/dierenweide-kronenburgerpark" }
+    ],
     "contactTitle": "Adres & contact"
   },
   "privacy": {
