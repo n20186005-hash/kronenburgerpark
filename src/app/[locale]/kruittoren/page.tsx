@@ -1,3 +1,4 @@
+import TopicVisitDetails from '@/components/TopicVisitDetails';
 import { getMessages, setRequestLocale } from 'next-intl/server';
 import type { Metadata } from 'next';
 import Header from '@/components/Header';
@@ -59,6 +60,7 @@ export default async function KruittorenPage({
       )}
       <Header />
       <KruittorenContent />
+      <TopicVisitDetails topic="kruittoren" locale={locale} />
       <Footer />
     </>
   );

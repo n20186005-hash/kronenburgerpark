@@ -42,6 +42,10 @@
     "backCta": "阅读克罗南堡公园指南"
   },
   "header": {
+    "nearby": "周边景点",
+    "navigation": "主导航",
+    "language": "切换语言",
+    "theme": "切换显示主题",
     "home": "首页",
     "gallery": "图库",
     "reviews": "评价",
@@ -49,10 +53,11 @@
     "backToHome": "返回首页"
   },
   "hero": {
+    "imageAlt": "奈梅亨克罗嫩堡公园的池塘与历史城墙",
     "title": "Kronenburgerpark",
     "subtitle": "奈梅亨中世纪防御工事遗址与城市生态公园",
-    "rating": "4.5（5,251）",
-    "reviewCount": "5,251 条评价",
+    "rating": "4.5(5,268)",
+    "reviewCount": "5,268 条评价",
     "type": "历史地标 · 城市公园",
     "openMaps": "查看位置"
   },
@@ -159,6 +164,8 @@
     "towerPageCta": "阅读火药塔专题"
   },
   "architecture": {
+    "powderVault": "火药储藏室",
+    "roundPlan": "圆形平面 · 约 1425 年",
     "title": "建筑与考古",
     "intro": "关于公园中世纪防御工事的参考档案，重点聚焦火药塔（Kruittoren）及其保护史。",
     "schematicAlt": "火药塔示意图：展示炮弹偏转与内部火药库的位置",
@@ -404,6 +411,9 @@
     ]
   },
   "gallery": {
+    "previousPhoto": "上一张照片",
+    "nextPhoto": "下一张照片",
+    "closePhoto": "关闭照片查看器",
     "title": "照片图库",
     "subtitle": "Kronenburgerpark — 中世纪防御工事遗址与城市生态公园",
     "captions": [
@@ -461,6 +471,7 @@
     ]
   },
   "mapSection": {
+    "frameTitle": "Google 地图中的克罗嫩堡公园",
     "title": "交通指南",
     "subtitle": "Kronenburgersingel, 6511 AL Nijmegen, 荷兰",
     "openMaps": "在 Google Maps 查看",

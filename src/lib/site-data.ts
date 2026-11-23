@@ -39,5 +39,5 @@ export const SECOND_IMAGE_URL = `${BASE_URL}${SECOND_IMAGE_PATH}`;
 
 // Ratings shown on the page & in structured data (from the live Google listing)
 export const RATING_VALUE = '4.5';
-export const RATING_COUNT = '5251';
-export const RATING_LABEL = '4.5/5 (5,251)';
+export const RATING_COUNT = '5268';
+export const RATING_LABEL = '4.5/5 (5,268)';

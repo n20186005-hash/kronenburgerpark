@@ -1,10 +1,13 @@
 import type { MetadataRoute } from 'next';
 import { routing } from '@/i18n/routing';
 import { BASE_URL } from '@/lib/site-data';
+import { nearbyPlaces } from '@/lib/nearby';
 import { HREFLANG } from '@/lib/i18n-seo';
 
 const PAGES = [
   { suffix: '', changeFrequency: 'daily' as const, priority: 1 },
+  { suffix: 'nearby', changeFrequency: 'monthly' as const, priority: 0.8 },
+  ...nearbyPlaces.map(({ slug }) => ({ suffix: `nearby/${slug}`, changeFrequency: 'monthly' as const, priority: 0.7 })),
   { suffix: 'kruittoren', changeFrequency: 'monthly' as const, priority: 0.8 },
   { suffix: 'privacy-policy', changeFrequency: 'monthly' as const, priority: 0.4 },
   { suffix: 'terms-of-service', changeFrequency: 'monthly' as const, priority: 0.4 },

@@ -33,7 +33,7 @@ export default function MapEmbed() {
             allowFullScreen
             loading="lazy"
             referrerPolicy="strict-origin-when-cross-origin"
-            title="Kronenburgerpark on Google Maps - Kronenburgersingel, 6511 AL Nijmegen, Netherlands"
+            title={t('frameTitle')}
           />
         </div>
 

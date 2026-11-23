@@ -121,6 +121,10 @@
     "backCta": "Lees de Kronenburgerpark-gids"
   },
   "header": {
+    "nearby": "In de buurt",
+    "navigation": "Hoofdnavigatie",
+    "language": "Taal wijzigen",
+    "theme": "Thema wijzigen",
     "home": "Home",
     "gallery": "Galerij",
     "reviews": "Beoordelingen",
@@ -128,10 +132,11 @@
     "backToHome": "Terug naar Home"
   },
   "hero": {
+    "imageAlt": "Vijver en stadsmuur in het historische Kronenburgerpark in Nijmegen",
     "title": "Kronenburgerpark",
     "subtitle": "Middeleeuws Vestingsrestant & Stedelijk Ecopark, Nijmegen",
-    "rating": "4.5 (5.251)",
-    "reviewCount": "5.251 beoordelingen",
+    "rating": "4.5 (5.268)",
+    "reviewCount": "5.268 beoordelingen",
     "type": "Historisch Monument · Stedelijk Park",
     "openMaps": "Bekijk Locatie"
   },
@@ -238,6 +243,8 @@
     "towerPageCta": "Lees de Kruittoren-gids"
   },
   "architecture": {
+    "powderVault": "Kruitkelder",
+    "roundPlan": "Ronde plattegrond · ca. 1425",
     "title": "Architectuur & Archeologie",
     "intro": "Een referentiearchief over de middeleeuwse verdedigingsstructuur van het park, met nadruk op de Kruittoren en diens restauratiegeschiedenis.",
     "schematicAlt": "Schets van de ronde Kruittoren met kanonskogelafbuiging en het binnenste kruithol",
@@ -483,6 +490,9 @@
     ]
   },
   "gallery": {
+    "previousPhoto": "Vorige foto",
+    "nextPhoto": "Volgende foto",
+    "closePhoto": "Fotoweergave sluiten",
     "title": "Foto Galerij",
     "subtitle": "Kronenburgerpark — Middeleeuws Vestingsrestant & Stedelijk Ecopark",
     "captions": [
@@ -540,6 +550,7 @@
     ]
   },
   "mapSection": {
+    "frameTitle": "Kronenburgerpark op Google Maps",
     "title": "Locatie & Route",
     "subtitle": "Kronenburgersingel, 6511 AL Nijmegen, Nederland",
     "openMaps": "Bekijk op Google Maps",

@@ -1,6 +1,6 @@
 'use client';
 
-import { useLocale } from 'next-intl';
+import { useLocale, useTranslations } from 'next-intl';
 import { useRouter, usePathname } from 'next/navigation';
 import { routing, type Locale } from '@/i18n/routing';
 import { useState, useRef, useEffect } from 'react';
@@ -13,6 +13,7 @@ const labels: Record<string, string> = {
 };
 
 export default function LanguageToggle() {
+  const t = useTranslations('header');
   const locale = useLocale();
   const router = useRouter();
   const pathname = usePathname();
@@ -35,8 +36,9 @@ export default function LanguageToggle() {
     // If already on target locale, do nothing
     if (next === locale) return;
 
-    // Always add locale prefix for mode: 'always'
-    router.push(`/${next}`);
+    const suffix = pathname?.replace(/^\/[^/]+/, '') ?? '';
+    const sharedPage = /^\/(nearby(?:\/[^/]+)?|kruittoren|privacy-policy|terms-of-service|cookie-settings)\/?$/.test(suffix);
+    router.push(`/${next}${sharedPage ? suffix : ''}`);
   }
 
   return (
@@ -48,7 +50,8 @@ export default function LanguageToggle() {
           background: 'var(--tag-bg)',
           color: 'var(--tag-text)',
         }}
-        aria-label="Switch language"
+        aria-label={t('language')}
+        aria-expanded={open}
       >
         <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
           <circle cx="12" cy="12" r="10"/>

@@ -1,3 +1,4 @@
+import TopicVisitDetails from '@/components/TopicVisitDetails';
 import { getMessages, setRequestLocale } from 'next-intl/server';
 import { notFound } from 'next/navigation';
 import Header from '@/components/Header';
@@ -53,6 +54,7 @@ export default async function AltstadtNijmegenPage({
       />
       <Header />
       <TopicContent namespace={NAMESPACE} related={related} />
+      <TopicVisitDetails topic={NAMESPACE} locale={locale} />
       <Footer />
     </>
   );

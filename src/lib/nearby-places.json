@@ -1,0 +1,2009 @@
+[
+  {
+    "slug": "stevenskerk",
+    "name": "Stevenskerk",
+    "address": "Sint Stevenskerkhof 62, Nijmegen",
+    "kind": "church",
+    "operator": "Stevenskerk",
+    "description": {
+      "en": "See the Gothic nave and the König organ. Enter via the churchyard above the market.",
+      "nl": "Bekijk het gotische schip en het Königorgel. Ga via het kerkhof boven de markt.",
+      "de": "Sehenswert sind das gotische Schiff und die König-Orgel. Der Zugang liegt am Kirchhof oberhalb des Markts.",
+      "zh": "从市场上方的教堂庭院进入，重点看哥特式中殿与柯尼希管风琴。"
+    },
+    "source": "https://www.stevenskerk.nl/contact",
+    "photo": {
+      "path": "/nearby/stevenskerk.webp",
+      "credit": "https://commons.wikimedia.org/wiki/File:Grote_of_Sint-Stevenskerk.jpg",
+      "author": "Roger Veringmeier",
+      "licence": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "history": {
+      "en": "The medieval church was rebuilt after the 1944 bombing. Compare the tall Gothic arches with the much later organ case.",
+      "nl": "Na het bombardement van 1944 werd de middeleeuwse kerk herbouwd. Vergelijk de hoge gotische bogen met de latere orgelkast.",
+      "de": "Die mittelalterliche Kirche wurde nach der Bombardierung von 1944 wiederaufgebaut. Vergleiche die hohen gotischen Bögen mit dem jüngeren Orgelgehäuse.",
+      "zh": "中世纪教堂在 1944 年轰炸受损后重建。对照高耸的哥特式拱券和年代更晚的管风琴外壳。"
+    },
+    "viewpoint": {
+      "en": "Frame the tower through the Kerkboog from the market side.",
+      "nl": "Kader de toren door de Kerkboog vanaf de marktzijde.",
+      "de": "Rahme den Turm von der Marktseite durch den Kerkboog ein.",
+      "zh": "在市场一侧利用 Kerkboog 拱门框住塔楼。"
+    },
+    "approach": "Kerkboog, Grote Markt, Nijmegen",
+    "faq": {
+      "en": {
+        "question": "Is the church visit the same as a tower climb?",
+        "answer": "Check tower climbs separately from the church’s opening hours."
+      },
+      "nl": {
+        "question": "Is kerkbezoek hetzelfde als torenbeklimming?",
+        "answer": "Controleer de torenbeklimming apart van de kerkopening."
+      },
+      "de": {
+        "question": "Gilt der Kirchenbesuch auch für die Turmbesteigung?",
+        "answer": "Prüfe die Termine für den Turm gesondert."
+      },
+      "zh": {
+        "question": "进教堂和登塔是同一项吗？",
+        "answer": "请分别核对教堂开放与塔楼登临安排。"
+      }
+    },
+    "minutes": 45,
+    "area": "center",
+    "tagline": {
+      "en": "Gothic arches above the market",
+      "nl": "Gotische bogen boven de markt",
+      "de": "Gotische Bögen über dem Marktplatz",
+      "zh": "老市场上方的哥特式教堂"
+    }
+  },
+  {
+    "slug": "grote-markt",
+    "name": "Grote Markt",
+    "address": "Grote Markt, Nijmegen",
+    "kind": "square",
+    "operator": "Gemeente Nijmegen",
+    "description": {
+      "en": "The stepped gable of the Waag anchors the old market. Walk through the Kerkboog to the churchyard.",
+      "nl": "De trapgevel van de Waag markeert de oude markt. Loop door de Kerkboog naar het kerkhof.",
+      "de": "Der Treppengiebel der Waag prägt den Marktplatz. Durch den Kerkboog geht es zum Kirchhof.",
+      "zh": "广场以称重所的阶梯山墙为地标，穿过 Kerkboog 拱门可到教堂庭院。"
+    },
+    "source": "https://nl.wikipedia.org/wiki/Grote_Markt_%28Nijmegen%29",
+    "photo": {
+      "path": "/nearby/grote-markt.webp",
+      "credit": "https://commons.wikimedia.org/wiki/File:Grote_Markt_%28Nijmegen%29_P1060343.JPG",
+      "author": "G.Lanting",
+      "licence": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    "history": {
+      "en": "The market sits where the upper town meets streets descending to the Waal. The Waag and the church gateway show how trade and church life shared the same space.",
+      "nl": "De markt ligt waar de bovenstad overgaat in straten naar de Waal. De Waag en de Kerkboog tonen hoe handel en kerk hier samenkwamen.",
+      "de": "Am Markt treffen die Oberstadt und die zur Waal abfallenden Straßen aufeinander. Waag und Kirchenbogen zeigen die Nähe von Handel und Kirche.",
+      "zh": "市场位于上城区与通向瓦尔河的坡道之间。称重所和教堂拱门说明商业与宗教生活曾如何共用这一空间。"
+    },
+    "viewpoint": {
+      "en": "Stand near the mouth of Burchtstraat for a wide view of the square.",
+      "nl": "Ga bij het begin van de Burchtstraat staan voor een ruim zicht op het plein.",
+      "de": "Am Beginn der Burchtstraat lässt sich der Platz weitwinklig aufnehmen.",
+      "zh": "在 Burchtstraat 接入广场的位置拍广角。"
+    },
+    "approach": "Burchtstraat, Nijmegen",
+    "faq": {
+      "en": {
+        "question": "What is there to see when no market is on?",
+        "answer": "The Waag and Kerkboog are visible from the square."
+      },
+      "nl": {
+        "question": "Wat zie je als er geen markt is?",
+        "answer": "De Waag en Kerkboog zijn vanaf het plein te zien."
+      },
+      "de": {
+        "question": "Was sieht man ohne Markt?",
+        "answer": "Waag und Kerkboog sind vom Platz sichtbar."
+      },
+      "zh": {
+        "question": "没有市集时还能看什么？",
+        "answer": "可从广场看称重所和 Kerkboog 拱门。"
+      }
+    },
+    "minutes": 20,
+    "area": "center",
+    "tagline": {
+      "en": "Market façades in the heart of the old town",
+      "nl": "Marktgevels in het hart van de oude stad",
+      "de": "Marktfassaden im Herzen der Altstadt",
+      "zh": "奈梅亨老城的市场广场与历史立面"
+    }
+  },
+  {
+    "slug": "de-waag",
+    "name": "De Waag",
+    "address": "Grote Markt 26, Nijmegen",
+    "kind": "exterior",
+    "operator": "De Waagh",
+    "description": {
+      "en": "The former weigh house shows how trade was regulated. Frame the stepped gable from across the square.",
+      "nl": "Het voormalige waaggebouw herinnert aan de controle op de handel. Fotografeer de trapgevel vanaf de overkant.",
+      "de": "Das frühere Waaghaus erinnert an die Aufsicht über den Handel. Den Treppengiebel sieht man gut von gegenüber.",
+      "zh": "旧称重所见证了市场交易的计量管理，从广场对面可拍全阶梯山墙。"
+    },
+    "source": "https://nl.wikipedia.org/wiki/Waag_%28Nijmegen%29",
+    "photo": {
+      "path": "/nearby/de-waag.webp",
+      "credit": "https://commons.wikimedia.org/wiki/File:Waaggebouw_Boterwaag_Nijmegen_Renaissance_Grote_Markt_Waag.jpg",
+      "author": "Roger Veringmeier",
+      "licence": "https://creativecommons.org/licenses/by/3.0"
+    },
+    "history": {
+      "en": "The Renaissance weigh house recalls the market’s system of official weights. Look for the contrast between brick and pale stone trim around the openings.",
+      "nl": "Het renaissancewaaggebouw herinnert aan de officiële marktgewichten. Let op het contrast tussen baksteen en lichte natuursteen rond de openingen.",
+      "de": "Das Renaissance-Waaghaus steht für die einst verbindlichen Marktgewichte. Achte auf den Kontrast von Ziegeln und hellen Steineinfassungen.",
+      "zh": "文艺复兴时期的称重所见证了市场的官方计量制度。留意门窗周围浅色石饰与红砖的反差。"
+    },
+    "viewpoint": {
+      "en": "Step to the far side of Grote Markt to include the roof and both ends of the façade.",
+      "nl": "Loop naar de overkant van de Grote Markt voor het dak en beide uiteinden van de gevel.",
+      "de": "Von der gegenüberliegenden Marktseite passen Dach und beide Fassadenenden ins Bild.",
+      "zh": "从大市场对面把屋顶及立面两端一同纳入画面。"
+    },
+    "approach": "Grote Markt, Nijmegen",
+    "faq": {
+      "en": {
+        "question": "Can I see the weigh house without going inside?",
+        "answer": "Yes. The public market square gives a full view of the main façade."
+      },
+      "nl": {
+        "question": "Kan ik het waaggebouw van buiten zien?",
+        "answer": "Ja, vanaf het openbare marktplein zie je de hele voorgevel."
+      },
+      "de": {
+        "question": "Kann ich das Waaghaus von außen sehen?",
+        "answer": "Ja, vom öffentlichen Markt ist die gesamte Hauptfassade sichtbar."
+      },
+      "zh": {
+        "question": "不入内可以看称重所吗？",
+        "answer": "可以，从公共广场可看完整主立面。"
+      }
+    },
+    "minutes": 15,
+    "area": "center",
+    "tagline": {
+      "en": "A Renaissance weigh house on Grote Markt",
+      "nl": "Een renaissancewaag op de Grote Markt",
+      "de": "Ein Renaissance-Waaghaus am Grote Markt",
+      "zh": "大市场上的文艺复兴称重所"
+    }
+  },
+  {
+    "slug": "lange-hezelstraat",
+    "name": "Lange Hezelstraat",
+    "address": "Lange Hezelstraat, Nijmegen",
+    "kind": "square",
+    "operator": "Gemeente Nijmegen",
+    "description": {
+      "en": "Follow the sloping shopping street from the railway viaduct towards the market and look above the shopfronts for older façades.",
+      "nl": "Volg de hellende winkelstraat vanaf het spoorviaduct naar de markt en kijk boven de etalages naar de oude gevels.",
+      "de": "Folge der ansteigenden Einkaufsstraße vom Bahnviadukt zum Markt und achte auf die älteren Fassaden über den Schaufenstern.",
+      "zh": "从铁路高架向市场走，沿坡抬头看店面上方保留的老建筑立面。"
+    },
+    "source": "https://nl.wikipedia.org/wiki/Lange_Hezelstraat",
+    "photo": {
+      "path": "/nearby/lange-hezelstraat.webp",
+      "credit": "https://commons.wikimedia.org/wiki/File:Nijmegen_Centrum_Benedenstad_Lange_Hezelstraat.jpg",
+      "author": "Roger Veringmeier",
+      "licence": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "history": {
+      "en": "This old approach to the market follows the slope from the lower town. Narrow plots are still readable in the changing rooflines above the shops.",
+      "nl": "Deze oude aanloop naar de markt volgt de helling vanuit de benedenstad. Smalle percelen zijn nog te herkennen aan de wisselende daklijnen.",
+      "de": "Der alte Marktweg folgt dem Hang von der Unterstadt. Über den Läden zeigen wechselnde Dachlinien noch die schmalen Parzellen.",
+      "zh": "这条老街沿坡把下城区与市场相连。不同高度的店铺屋顶仍能看出过去狭窄的街屋地块。"
+    },
+    "viewpoint": {
+      "en": "Look uphill near the railway crossing and use the street’s curve as a leading line.",
+      "nl": "Kijk bij het spoorviaduct omhoog en gebruik de bocht als zichtlijn.",
+      "de": "Blicke am Bahnviadukt bergauf und nutze die Straßenkurve als Führungslinie.",
+      "zh": "在铁路高架附近向坡上取景，用街道弧线引导视线。"
+    },
+    "approach": "Hezelpoort, Nijmegen",
+    "faq": {
+      "en": {
+        "question": "Which way is uphill?",
+        "answer": "The walk from Hezelpoort towards Grote Markt takes you up into the old town."
+      },
+      "nl": {
+        "question": "Welke kant gaat omhoog?",
+        "answer": "Van Hezelpoort naar de Grote Markt loop je omhoog de oude stad in."
+      },
+      "de": {
+        "question": "In welche Richtung geht es bergauf?",
+        "answer": "Vom Hezelpoort zum Grote Markt geht es hinauf in die Altstadt."
+      },
+      "zh": {
+        "question": "哪一侧是上坡？",
+        "answer": "从 Hezelpoort 朝大市场走，就是上坡进入老城。"
+      }
+    },
+    "minutes": 30,
+    "area": "center",
+    "tagline": {
+      "en": "A sloping old-town street from Hezelpoort to the market",
+      "nl": "Van Hezelpoort omhoog naar de Grote Markt",
+      "de": "Vom Hezelpoort hinauf zum Marktplatz",
+      "zh": "从铁路高架下沿坡走进老城"
+    }
+  },
+  {
+    "slug": "marienburgkapel",
+    "name": "Mariënburgkapel",
+    "address": "Mariënburg 26, Nijmegen",
+    "kind": "museum",
+    "operator": "Huis van de Nijmeegse Geschiedenis",
+    "description": {
+      "en": "The late-medieval convent chapel now hosts city history exhibits. Compare the chapel with the modern buildings around Mariënburg.",
+      "nl": "In de laatmiddeleeuwse kloosterkapel zijn stadshistorische exposities. Vergelijk de kapel met de moderne gebouwen rond Mariënburg.",
+      "de": "Die spätmittelalterliche Klosterkapelle zeigt heute Stadtgeschichte. Vergleiche sie mit den modernen Bauten am Mariënburg.",
+      "zh": "这座中世纪晚期修道院礼拜堂现展示城市历史，可对照周边现代建筑观察。"
+    },
+    "source": "https://www.huisvandenijmeegsegeschiedenis.nl/bezoek/",
+    "photo": {
+      "path": "/nearby/marienburgkapel.webp",
+      "credit": "https://commons.wikimedia.org/wiki/File:Nijmegen_Rijksmonument_31158_Marienburgkapel.JPG",
+      "author": "Havang(nl)",
+      "licence": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+    },
+    "history": {
+      "en": "The late medieval chapel belonged to a convent and later served secular uses. Its tall windows and brick buttresses still reveal its original role.",
+      "nl": "De laatmiddeleeuwse kapel hoorde bij een klooster en kreeg later wereldlijke functies. Hoge vensters en steunberen tonen haar oorsprong.",
+      "de": "Die spätmittelalterliche Kapelle gehörte zu einem Kloster und hatte später weltliche Funktionen. Hohe Fenster und Strebepfeiler verraten ihre Herkunft.",
+      "zh": "礼拜堂原属中世纪晚期修道院，后来亦作世俗用途。高窗和砖砌扶壁保留了原有宗教建筑的特征。"
+    },
+    "viewpoint": {
+      "en": "Use the open part of Mariënburg square to capture the full side elevation.",
+      "nl": "Neem vanaf het open deel van het Mariënburgplein de hele zijgevel in beeld.",
+      "de": "Vom offenen Platz am Mariënburg lässt sich die gesamte Seitenfassade aufnehmen.",
+      "zh": "退到 Mariënburg 广场开阔处，拍全侧立面和扶壁。"
+    },
+    "approach": "Marikenstraat, Nijmegen",
+    "faq": {
+      "en": {
+        "question": "What is inside the chapel today?",
+        "answer": "The House of Nijmegen History offers exhibits and activities. Check its current programme."
+      },
+      "nl": {
+        "question": "Wat is er nu in de kapel?",
+        "answer": "Het Huis van de Nijmeegse Geschiedenis biedt exposities en activiteiten. Bekijk het actuele programma."
+      },
+      "de": {
+        "question": "Was befindet sich heute in der Kapelle?",
+        "answer": "Das Haus der Nijmegener Geschichte bietet Ausstellungen und Veranstaltungen."
+      },
+      "zh": {
+        "question": "礼拜堂现在有什么？",
+        "answer": "奈梅亨历史之家在此安排展览和活动，出发前可查最新日程。"
+      }
+    },
+    "minutes": 40,
+    "area": "center",
+    "tagline": {
+      "en": "City history inside a former convent chapel",
+      "nl": "Stadsgeschiedenis in een voormalige kloosterkapel",
+      "de": "Stadtgeschichte in einer ehemaligen Klosterkapelle",
+      "zh": "在旧修道院礼拜堂读城市史"
+    }
+  },
+  {
+    "slug": "valkhofpark",
+    "name": "Valkhofpark",
+    "address": "Kelfkensbos, Nijmegen",
+    "kind": "park",
+    "operator": "Gemeente Nijmegen",
+    "description": {
+      "en": "The hilltop park occupies the former castle site. Walk between the surviving chapel and ruins, then look out over the Waal.",
+      "nl": "Het park op de heuvel ligt op de plek van de vroegere burcht. Loop langs de kapel en ruïne naar het uitzicht over de Waal.",
+      "de": "Der Park auf dem Hügel liegt an der Stelle der ehemaligen Burg. Gehe an Kapelle und Ruine vorbei zum Blick auf die Waal.",
+      "zh": "公园在旧城堡山丘上，走过现存礼拜堂与遗迹，再俯看瓦尔河。"
+    },
+    "source": "https://www.nijmegen.nl/diensten/evenementen/evenementenlocaties/valkhof/",
+    "photo": {
+      "path": "/nearby/valkhofpark.webp",
+      "credit": "https://commons.wikimedia.org/wiki/File:Valkhof_ingang%2C_brug%2C_Nijmegen.jpg",
+      "author": "Roger Veringmeier",
+      "licence": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "history": {
+      "en": "The landscaped hill preserves two visible fragments of the former Valkhof castle complex. Their positions explain why this elevated site mattered above the river.",
+      "nl": "De aangelegde heuvel bewaart twee zichtbare resten van de Valkhofburcht. Hun ligging laat zien waarom deze hoogte boven de rivier belangrijk was.",
+      "de": "Auf dem gestalteten Hügel stehen zwei sichtbare Reste der Valkhofburg. Ihre Lage verdeutlicht die Bedeutung der Höhe über dem Fluss.",
+      "zh": "园内保留旧瓦尔克霍夫城堡群的两处遗迹。从两者在山丘上的位置可理解这处临河制高点的重要性。"
+    },
+    "viewpoint": {
+      "en": "Photograph the Waalbrug from the ridge with the park trees at the edge of the frame.",
+      "nl": "Fotografeer de Waalbrug vanaf de rand met parkbomen langs het beeld.",
+      "de": "Fotografiere die Waalbrug von der Anhöhe mit Parkbäumen am Bildrand.",
+      "zh": "从山脊拍瓦尔桥，让公园树木留在画框边缘。"
+    },
+    "approach": "Kelfkensbos, Nijmegen",
+    "faq": {
+      "en": {
+        "question": "Can I see the park and museum in one outing?",
+        "answer": "Yes. Begin near Kelfkensbos and check museum admission separately."
+      },
+      "nl": {
+        "question": "Kan ik park en museum combineren?",
+        "answer": "Ja. Begin bij het Kelfkensbos en regel de museumentree apart."
+      },
+      "de": {
+        "question": "Lassen sich Park und Museum verbinden?",
+        "answer": "Ja. Beginne am Kelfkensbos und prüfe den Museumseintritt gesondert."
+      },
+      "zh": {
+        "question": "公园和博物馆能一起游览吗？",
+        "answer": "可以，从 Kelfkensbos 一带开始，博物馆另查开放和购票。"
+      }
+    },
+    "minutes": 45,
+    "area": "center",
+    "tagline": {
+      "en": "Castle remains on a hill above the Waal",
+      "nl": "Burchtresten op een heuvel boven de Waal",
+      "de": "Burgreste auf einer Anhöhe über der Waal",
+      "zh": "瓦尔河上方的城堡遗迹公园"
+    }
+  },
+  {
+    "slug": "sint-nicolaaskapel",
+    "name": "Sint-Nicolaaskapel",
+    "address": "Valkhofpark, Kelfkensbos, Nijmegen",
+    "kind": "exterior",
+    "operator": "Gemeente Nijmegen",
+    "description": {
+      "en": "Walk around the polygonal chapel to see the changing rhythm of its masonry and windows. Check separately for interior access.",
+      "nl": "Loop om de veelhoekige kapel heen en bekijk het metselwerk en de vensters. Controleer apart of de kapel open is.",
+      "de": "Umrunde die mehreckige Kapelle und betrachte Mauerwerk und Fenster. Prüfe die Öffnung des Innenraums gesondert.",
+      "zh": "绕多边形礼拜堂一圈观察砌体与窗洞，入内请另查当日开放信息。"
+    },
+    "source": "https://nl.wikipedia.org/wiki/Sint-Nicolaaskapel_%28Nijmegen%29",
+    "photo": {
+      "path": "/nearby/sint-nicolaaskapel.webp",
+      "credit": "https://commons.wikimedia.org/wiki/File:Sint-Nicolaaskapel%2C_Valkhof_park_Nijmegen.jpg",
+      "author": "Roger Veringmeier",
+      "licence": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "history": {
+      "en": "The chapel’s tower-like central plan recalls early medieval palace chapels. Walk around to read the different wall faces and the upper openings.",
+      "nl": "De centrale aanleg herinnert aan vroegmiddeleeuwse paltskapellen. Loop rond om de verschillende muurvlakken en bovenvensters te zien.",
+      "de": "Der Zentralbau erinnert an frühmittelalterliche Pfalzkapellen. Beim Umrunden fallen die Wandflächen und oberen Öffnungen auf.",
+      "zh": "集中式平面让人联想到中世纪早期的宫廷礼拜堂。绕行可看清各面墙体与上层开口。"
+    },
+    "viewpoint": {
+      "en": "Take an oblique view from the park path so two sides of the polygon are visible.",
+      "nl": "Kies een schuine hoek vanaf het parkpad om twee zijden tegelijk te zien.",
+      "de": "Wähle vom Parkweg einen schrägen Winkel, um zwei Seiten zugleich zu zeigen.",
+      "zh": "在园路上斜拍，让多边形外墙至少两面同时入镜。"
+    },
+    "approach": "Valkhofpark, Kelfkensbos, Nijmegen",
+    "faq": {
+      "en": {
+        "question": "Which chapel stands intact on the hill?",
+        "answer": "The polygonal St Nicholas Chapel is the enclosed building. The separate curved ruin belonged to St Martin’s Chapel."
+      },
+      "nl": {
+        "question": "Welke kapel staat nog overeind?",
+        "answer": "De veelhoekige Sint-Nicolaaskapel is het gesloten gebouw. De gebogen ruïne hoorde bij de Sint-Maartenskapel."
+      },
+      "de": {
+        "question": "Welche Kapelle steht noch als Gebäude?",
+        "answer": "Die mehreckige Nikolauskapelle ist der geschlossene Bau. Die Rundruine gehörte zur Martinskapelle."
+      },
+      "zh": {
+        "question": "山上哪座是现存完整的礼拜堂？",
+        "answer": "多边形的圣尼古拉礼拜堂仍有完整围护，另一处弧形残墙来自圣马丁礼拜堂。"
+      }
+    },
+    "minutes": 15,
+    "area": "center",
+    "tagline": {
+      "en": "A polygonal chapel on the Valkhof hill",
+      "nl": "Een veelhoekige kapel op de Valkhofheuvel",
+      "de": "Eine mehreckige Kapelle auf dem Valkhofhügel",
+      "zh": "瓦尔克霍夫山丘上的多边形礼拜堂"
+    }
+  },
+  {
+    "slug": "barbarossa-ruine",
+    "name": "Barbarossa-ruïne",
+    "address": "Valkhofpark, Kelfkensbos, Nijmegen",
+    "kind": "exterior",
+    "operator": "Gemeente Nijmegen",
+    "description": {
+      "en": "The surviving curved wall belonged to St Martin’s Chapel. View the arches from the park path and stay outside any barriers.",
+      "nl": "De overgebleven gebogen muur hoorde bij de Sint-Maartenskapel. Bekijk de bogen vanaf het pad en blijf buiten afzettingen.",
+      "de": "Die erhaltene Rundmauer gehörte zur Martinskapelle. Betrachte die Bögen vom Parkweg und beachte Absperrungen.",
+      "zh": "弧形残墙原属圣马丁礼拜堂，沿园路即可观察拱形结构。"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Barbarossa-ru%C3%AFne,_Valkhof_park,_Nijmegen.jpg",
+    "photo": {
+      "path": "/nearby/barbarossa-ruine.webp",
+      "credit": "https://commons.wikimedia.org/wiki/File:Barbarossa-ru%C3%AFne%2C_Valkhof_park%2C_Nijmegen.jpg",
+      "author": "Roger Veringmeier",
+      "licence": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "history": {
+      "en": "The curved surviving apse belonged to the castle’s St Martin’s Chapel. The openings preserve the rhythm of an interior now open to the sky.",
+      "nl": "De gebogen apsis behoorde tot de Sint-Maartenskapel van de burcht. De openingen bewaren het ritme van de verdwenen binnenruimte.",
+      "de": "Die erhaltene Rundapsis gehörte zur Martinskapelle der Burg. Ihre Öffnungen lassen den Rhythmus des einstigen Innenraums erkennen.",
+      "zh": "现存弧形后殿属于城堡的圣马丁礼拜堂。墙上的开口仍能看出原室内空间的节奏。"
+    },
+    "viewpoint": {
+      "en": "Use the path opposite the open side for a clear view of the curved masonry.",
+      "nl": "Gebruik het pad tegenover de open zijde voor zicht op het gebogen metselwerk.",
+      "de": "Vom Weg gegenüber der offenen Seite ist das gebogene Mauerwerk gut sichtbar.",
+      "zh": "从残墙开口对面的园路拍摄，能清楚表现弧形砌体。"
+    },
+    "approach": "Valkhofpark, Kelfkensbos, Nijmegen",
+    "faq": {
+      "en": {
+        "question": "Is there an interior to visit?",
+        "answer": "The visible remains are an open-air ruin in Valkhofpark."
+      },
+      "nl": {
+        "question": "Kan ik binnen kijken?",
+        "answer": "De zichtbare resten zijn een open ruïne in het Valkhofpark."
+      },
+      "de": {
+        "question": "Gibt es einen Innenraum zu besichtigen?",
+        "answer": "Die sichtbaren Reste sind eine offene Ruine im Valkhofpark."
+      },
+      "zh": {
+        "question": "遗址有室内可参观吗？",
+        "answer": "这里现存的是瓦尔克霍夫公园内的露天遗迹。"
+      }
+    },
+    "minutes": 15,
+    "area": "center",
+    "tagline": {
+      "en": "The surviving apse of a castle chapel",
+      "nl": "De bewaarde apsis van een burchtkapel",
+      "de": "Die erhaltene Apsis einer Burgkapelle",
+      "zh": "旧城堡礼拜堂留下的一段弧形后殿"
+    }
+  },
+  {
+    "slug": "valkhof-museum",
+    "name": "Valkhof Museum",
+    "address": "Kelfkensbos 59, Nijmegen",
+    "kind": "museum",
+    "operator": "Valkhof Museum",
+    "description": {
+      "en": "Use the Roman collections to put Nijmegen’s archaeological sites in context. Check the museum’s current visitor address before setting off.",
+      "nl": "De Romeinse collectie helpt de archeologische plekken in Nijmegen te begrijpen. Controleer vooraf het actuele bezoekadres.",
+      "de": "Die römische Sammlung erklärt Nijmegens archäologische Fundorte. Prüfe vor dem Besuch die aktuelle Adresse des Museums.",
+      "zh": "先看罗马时期的馆藏，再去辨认城内考古遗迹。出发前请核对展馆当前使用的入口。"
+    },
+    "source": "https://valkhofmuseum.nl/en",
+    "photo": {
+      "path": "/nearby/valkhof-museum.webp",
+      "credit": "https://commons.wikimedia.org/wiki/File:Valkhof_Museum_Nijmegen_116.jpg",
+      "author": "FrDr",
+      "licence": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "history": {
+      "en": "The modern museum at Kelfkensbos gathers finds from a region shaped by the Roman frontier. Put the objects in context by visiting the adjacent hill afterwards.",
+      "nl": "Het moderne museum aan het Kelfkensbos verzamelt vondsten uit de regio van de Romeinse grens. Bezoek daarna de naastgelegen heuvel voor de ruimtelijke context.",
+      "de": "Das moderne Museum am Kelfkensbos zeigt Funde aus der Region der römischen Grenze. Auf dem benachbarten Hügel lässt sich die Lage einordnen.",
+      "zh": "Kelfkensbos 的现代馆舍收藏来自罗马边疆地区的考古发现。看展后可到毗邻山丘，结合地形理解展品。"
+    },
+    "viewpoint": {
+      "en": "Photograph the long façade from the square. Check the gallery rules before taking interior photos.",
+      "nl": "Fotografeer de lange gevel vanaf het plein. Controleer binnen eerst de fotoregels.",
+      "de": "Fotografiere die lange Fassade vom Platz. Prüfe vor Innenaufnahmen die Museumsregeln.",
+      "zh": "从广场拍横向展开的馆舍立面，室内拍摄先看展厅规则。"
+    },
+    "approach": "Kelfkensbos, Nijmegen",
+    "faq": {
+      "en": {
+        "question": "Which address should I use?",
+        "answer": "Use the museum’s visitor address at Kelfkensbos 59 and confirm it on the museum website."
+      },
+      "nl": {
+        "question": "Welk adres gebruik ik?",
+        "answer": "Gebruik Kelfkensbos 59 en controleer het bezoekadres op de museumsite."
+      },
+      "de": {
+        "question": "Welche Adresse soll ich eingeben?",
+        "answer": "Nutze Kelfkensbos 59 und prüfe die Besucheradresse auf der Museumsseite."
+      },
+      "zh": {
+        "question": "导航应使用哪个地址？",
+        "answer": "使用 Kelfkensbos 59，并在馆方页面核对当前访客入口。"
+      }
+    },
+    "minutes": 120,
+    "area": "center",
+    "tagline": {
+      "en": "Roman finds and art at Kelfkensbos",
+      "nl": "Romeinse vondsten en kunst aan het Kelfkensbos",
+      "de": "Römische Funde und Kunst am Kelfkensbos",
+      "zh": "在 Kelfkensbos 看罗马考古与艺术收藏"
+    }
+  },
+  {
+    "slug": "de-bastei",
+    "name": "De Bastei",
+    "address": "Waalkade 83, Nijmegen",
+    "kind": "museum",
+    "operator": "De Bastei",
+    "description": {
+      "en": "Explore the remains of the riverside fortification and the museum’s exhibits on the Waal. Compare the old stonework with the riverbank outside. The visitor entrance is on Lange Baan by the Veerpoort stairs.",
+      "nl": "Bekijk de resten van de verdediging en de tentoonstellingen over de Waal. Vergelijk het oude metselwerk met de huidige rivieroever. De bezoekersingang ligt aan de Lange Baan naast de Veerpoorttrappen.",
+      "de": "Sieh dir die Befestigungsreste und die Ausstellungen zur Waal an. Draußen lässt sich das alte Mauerwerk mit dem heutigen Ufer vergleichen. Der Besuchereingang liegt an der Lange Baan neben der Veerpoorttreppe.",
+      "zh": "馆内可看河防遗构与瓦尔河生态展，离馆后沿岸对照旧防御工事与今日河岸。访客入口在 Lange Baan，紧邻 Veerpoort 台阶。"
+    },
+    "source": "https://www.debastei.nl/en/plan-your-visit/getting-here",
+    "photo": {
+      "path": "/nearby/de-bastei.webp",
+      "credit": "https://commons.wikimedia.org/wiki/File:De_entree_van_De_Bastei_aan_de_voet_van_de_Valkhofheuvel.jpg",
+      "author": "Stichting De Bastei",
+      "licence": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "history": {
+      "en": "The museum incorporates the Stratemakerstoren fortification. Its thick masonry helps explain how Nijmegen once defended the narrow strip between hill and river.",
+      "nl": "Het museum omvat de versterking Stratemakerstoren. Het dikke metselwerk toont hoe Nijmegen de strook tussen heuvel en rivier verdedigde.",
+      "de": "Das Museum umfasst die Befestigung Stratemakerstoren. Ihr dickes Mauerwerk zeigt, wie die schmale Zone zwischen Hügel und Fluss gesichert wurde.",
+      "zh": "博物馆保留 Stratemakerstoren 河防遗构。厚实的墙体说明城市曾如何防守山丘与河流之间的狭长地带。"
+    },
+    "viewpoint": {
+      "en": "Use the foot of the Veerpoort stairs to frame the modern entrance against the slope.",
+      "nl": "Neem onderaan de Veerpoorttrappen de moderne ingang en de helling samen in beeld.",
+      "de": "Am Fuß der Veerpoorttreppe lassen sich moderner Eingang und Hang gemeinsam aufnehmen.",
+      "zh": "在 Veerpoort 台阶下方同时拍摄现代入口与山坡背景。"
+    },
+    "approach": "Veerpoorttrappen, Nijmegen",
+    "mapAddress": "Lange Baan, Nijmegen",
+    "faq": {
+      "en": {
+        "question": "Is the entrance directly on Waalkade?",
+        "answer": "Use Lange Baan, beside the Veerpoort stairs. The museum publishes access alternatives."
+      },
+      "nl": {
+        "question": "Ligt de ingang direct aan de Waalkade?",
+        "answer": "Gebruik de Lange Baan naast de Veerpoorttrappen. Het museum vermeldt alternatieve routes."
+      },
+      "de": {
+        "question": "Liegt der Eingang direkt am Kai?",
+        "answer": "Nutze die Lange Baan neben der Veerpoorttreppe. Das Museum nennt alternative Zugänge."
+      },
+      "zh": {
+        "question": "入口就在码头道路上吗？",
+        "answer": "入口在平行于码头的 Lange Baan，紧邻 Veerpoort 台阶。馆方公布了其他到达方式。"
+      }
+    },
+    "minutes": 90,
+    "area": "center",
+    "tagline": {
+      "en": "A river museum inside Nijmegen’s former defences",
+      "nl": "Een riviermuseum in de oude Nijmeegse verdediging",
+      "de": "Ein Flussmuseum in Nijmegens alter Befestigung",
+      "zh": "把瓦尔河自然史带进旧河防工事的博物馆"
+    }
+  },
+  {
+    "slug": "waalkade",
+    "name": "Waalkade",
+    "address": "Waalkade, Nijmegen",
+    "kind": "square",
+    "operator": "Gemeente Nijmegen",
+    "description": {
+      "en": "Walk the quay for contrasting views of the steel Waalbrug and the island across the river. Leave room at the landing stages.",
+      "nl": "Wandel over de kade voor zicht op de stalen Waalbrug en het eiland aan de overkant. Houd de aanlegplaatsen vrij.",
+      "de": "Vom Kai siehst du die stählerne Waalbrug und die Insel gegenüber. Halte die Schiffsanleger frei.",
+      "zh": "沿码头步道可看钢拱桥和对岸河岛，经过船只停靠处请给上下船的人留出空间。"
+    },
+    "source": "https://nl.wikipedia.org/wiki/Waalkade_%28Nijmegen%29",
+    "photo": {
+      "path": "/nearby/waalkade.webp",
+      "credit": "https://commons.wikimedia.org/wiki/File:Waalkade_Benedenstad%2C_Nijmegen_Waal.jpg",
+      "author": "Roger Veringmeier",
+      "licence": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "history": {
+      "en": "The quay grew along the trading city’s river edge. Look from the open waterfront back toward the steep lanes rising into the lower town.",
+      "nl": "De kade ontstond langs de handelsstad aan de rivier. Kijk vanaf de open oever terug naar de steile straten van de benedenstad.",
+      "de": "Der Kai entstand am Flussrand der Handelsstadt. Vom offenen Ufer sieht man die steilen Gassen der Unterstadt ansteigen.",
+      "zh": "码头沿旧商贸城市的河岸发展起来。站在开阔河边回望，可以看见下城区街巷沿坡上升。"
+    },
+    "viewpoint": {
+      "en": "Use the upstream end for the bridge arch and a stretch of quay in the same frame.",
+      "nl": "Kies het bovenstroomse deel voor de brugboog en de kade in één beeld.",
+      "de": "Am flussaufwärtigen Ende passen Brückenbogen und Kai ins gleiche Bild.",
+      "zh": "沿码头走到上游一侧，把桥拱和一段岸线一同入镜。"
+    },
+    "approach": "Lage Markt, Nijmegen",
+    "faq": {
+      "en": {
+        "question": "Can I cross to the island directly from the quay?",
+        "answer": "Use the public paths on one of the bridges and check the island approach on the map."
+      },
+      "nl": {
+        "question": "Kan ik direct vanaf de kade naar het eiland?",
+        "answer": "Gebruik het openbare pad op een van de bruggen en bekijk de toegang op de kaart."
+      },
+      "de": {
+        "question": "Komme ich direkt vom Kai zur Insel?",
+        "answer": "Nutze einen öffentlichen Brückenweg und prüfe den Inselzugang auf der Karte."
+      },
+      "zh": {
+        "question": "可以直接从码头走到河岛吗？",
+        "answer": "请走桥梁的公共步道，并在地图上查询通往岛上的入口。"
+      }
+    },
+    "minutes": 45,
+    "area": "river",
+    "tagline": {
+      "en": "A riverside walk beneath the old town",
+      "nl": "Wandelen langs de Waal onder de oude stad",
+      "de": "Uferpromenade unterhalb der Altstadt",
+      "zh": "老城坡脚下的瓦尔河码头步道"
+    }
+  },
+  {
+    "slug": "besiendershuis",
+    "name": "Besiendershuis",
+    "address": "Steenstraat 26, Nijmegen",
+    "kind": "exterior",
+    "operator": "Stichting NOX",
+    "description": {
+      "en": "Look for the projecting brick details of this historic riverside house from Steenstraat. Pair it with the quayside walk.",
+      "nl": "Bekijk de uitstekende baksteendetails van dit historische huis vanaf de Steenstraat. Combineer het met een wandeling langs de kade.",
+      "de": "Von der Steenstraat siehst du die vorspringenden Ziegeldetails des historischen Hauses. Verbinde den Halt mit einem Gang am Kai.",
+      "zh": "从 Steenstraat 看这座老河岸宅邸的凸出砖饰，可与码头步行段一起安排。"
+    },
+    "source": "https://stichtingnox.com/over",
+    "photo": {
+      "path": "/nearby/besiendershuis.webp",
+      "credit": "https://commons.wikimedia.org/wiki/File:Besiendershuis.jpg",
+      "author": "Bas de Koning at Dutch Wikipedia",
+      "licence": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "history": {
+      "en": "This brick house reflects the riverfront’s commercial past. Its gable and stone dressings reward a closer look from Steenstraat.",
+      "nl": "Dit bakstenen huis herinnert aan de handelsgeschiedenis van de kade. De geveltop en natuursteendetails zijn goed te zien vanaf de Steenstraat.",
+      "de": "Das Ziegelhaus erinnert an die Handelsgeschichte des Flussufers. Giebel und Natursteindetails sieht man gut von der Steenstraat.",
+      "zh": "这座砖宅留下了河岸贸易时代的建筑线索。从 Steenstraat 可观察山墙和石质装饰。"
+    },
+    "viewpoint": {
+      "en": "Stand back on the public side of Steenstraat for the gable, then look for a close-up of the brick detailing.",
+      "nl": "Neem vanaf de openbare Steenstraat eerst de geveltop en daarna een detail van het metselwerk.",
+      "de": "Nimm von der öffentlichen Steenstraat erst den Giebel und dann ein Ziegeldetail auf.",
+      "zh": "从 Steenstraat 的公共通行处先拍完整山墙，再拍砖饰细节。"
+    },
+    "approach": "Waalkade, Nijmegen",
+    "faq": {
+      "en": {
+        "question": "Can I walk in at any time?",
+        "answer": "Plan on seeing the exterior and consult Stichting NOX for public events."
+      },
+      "nl": {
+        "question": "Kan ik altijd binnenlopen?",
+        "answer": "Bekijk de buitenkant en raadpleeg de agenda van Stichting NOX voor openbare activiteiten."
+      },
+      "de": {
+        "question": "Kann ich jederzeit hineingehen?",
+        "answer": "Plane die Außenansicht ein und prüfe öffentliche Termine bei Stichting NOX."
+      },
+      "zh": {
+        "question": "可以随时入内吗？",
+        "answer": "平时可从街道看外观，公众活动请查 Stichting NOX 的日程。"
+      }
+    },
+    "minutes": 15,
+    "area": "river",
+    "tagline": {
+      "en": "A historic brick house near the quay",
+      "nl": "Een historisch bakstenen huis bij de kade",
+      "de": "Historisches Ziegelhaus am Kai",
+      "zh": "瓦尔河码头旁的历史砖宅"
+    }
+  },
+  {
+    "slug": "commanderie",
+    "name": "Commanderie van Sint Jan",
+    "address": "Franseplaats 1, Nijmegen",
+    "kind": "exterior",
+    "operator": "De Hemel",
+    "description": {
+      "en": "The former pilgrims’ house later belonged to the Order of St John. Look at the massing of the building from Franseplaats.",
+      "nl": "Het vroegere pelgrimshuis kwam later in handen van de johannieters. Bekijk de bouwvolumes vanaf de Franseplaats.",
+      "de": "Das frühere Pilgerhaus gehörte später dem Johanniterorden. Von der Franseplaats lässt sich der Baukörper gut erkennen.",
+      "zh": "这座旧朝圣者旅舍后来归圣约翰骑士团使用，从 Franseplaats 广场可看清建筑体量。"
+    },
+    "source": "https://restaurantdehemel.nl/locatie/commanderie-van-sint-jan/",
+    "photo": {
+      "path": "/nearby/commanderie.webp",
+      "credit": "https://commons.wikimedia.org/wiki/File:Commanderie_St._Jan_Nijmegen.JPG",
+      "author": "Tubantia",
+      "licence": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    "history": {
+      "en": "This complex began as a pilgrims’ house and later served the Order of St John. Its restored street front gives Franseplaats much of its historic character.",
+      "nl": "Het complex begon als pelgrimshuis en diende later de johannieters. De gerestaureerde gevel bepaalt het historische karakter van de Franseplaats.",
+      "de": "Die Anlage begann als Pilgerhaus und diente später dem Johanniterorden. Ihre restaurierte Straßenfront prägt die Franseplaats.",
+      "zh": "这处建筑群最初接待朝圣者，后来由圣约翰骑士团使用。修复后的临街立面是 Franseplaats 的主要历史景观。"
+    },
+    "viewpoint": {
+      "en": "Use the far side of Franseplaats for the façade and the relationship between the wings.",
+      "nl": "Bekijk vanaf de overkant van de Franseplaats de gevel en de samenhang tussen de vleugels.",
+      "de": "Von der gegenüberliegenden Franseplaats sind die Fassade und die Gebäudeflügel gut zu sehen.",
+      "zh": "在 Franseplaats 对侧拍立面以及不同翼楼之间的关系。"
+    },
+    "approach": "Lage Markt, Nijmegen",
+    "faq": {
+      "en": {
+        "question": "Does visiting the restaurant include the whole complex?",
+        "answer": "The restaurant receives visitors in its own premises. Plan to view the rest from Franseplaats."
+      },
+      "nl": {
+        "question": "Hoort het hele complex bij een restaurantbezoek?",
+        "answer": "Het restaurant ontvangt gasten in eigen ruimtes. Bekijk de rest vanaf de Franseplaats."
+      },
+      "de": {
+        "question": "Umfasst der Restaurantbesuch die ganze Anlage?",
+        "answer": "Das Restaurant empfängt Gäste in eigenen Räumen. Die übrige Anlage ist von der Franseplaats aus zu sehen."
+      },
+      "zh": {
+        "question": "到餐厅能参观整座建筑群吗？",
+        "answer": "餐厅接待限于自身营业区域，其余建筑可从 Franseplaats 看外观。"
+      }
+    },
+    "minutes": 15,
+    "area": "center",
+    "tagline": {
+      "en": "A former pilgrims’ house on Franseplaats",
+      "nl": "Een voormalig pelgrimshuis aan de Franseplaats",
+      "de": "Ehemaliges Pilgerhaus an der Franseplaats",
+      "zh": "Franseplaats 的旧朝圣者旅舍"
+    }
+  },
+  {
+    "slug": "waalbrug",
+    "name": "Waalbrug",
+    "address": "Waalbrug, Nijmegen",
+    "kind": "bridge",
+    "operator": "Rijkswaterstaat · Gemeente Nijmegen",
+    "description": {
+      "en": "The steel arch spans the navigation channel. Photograph its full silhouette from Waalkade and use the designated walkway if crossing.",
+      "nl": "De stalen boog overspant de vaargeul. Fotografeer de hele brug vanaf de Waalkade en gebruik bij oversteken het voetpad.",
+      "de": "Der Stahlbogen überspannt die Fahrrinne. Fotografiere die ganze Brücke vom Kai und nutze zum Überqueren den Fußweg.",
+      "zh": "钢拱横跨主航道，从 Waalkade 可拍全桥，过桥请走划定的人行通道。"
+    },
+    "source": "https://nijmegen.bestuurlijkeinformatie.nl/Document/View/c1e7b009-31a4-465e-9bc8-1aae44a3a874",
+    "photo": {
+      "path": "/nearby/waalbrug.webp",
+      "credit": "https://commons.wikimedia.org/wiki/File:Nijmegen3.jpg",
+      "author": "de:Benutzer:DoubleH",
+      "licence": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "history": {
+      "en": "Opened in 1936, the large steel arch changed the way traffic reached the city across the Waal. Compare its single high arch with the lower railway crossing downstream.",
+      "nl": "De grote stalen boogbrug uit 1936 veranderde de toegang tot de stad vanaf de overkant. Vergelijk de hoge boog met de lagere spoorbrug stroomafwaarts.",
+      "de": "Die große Stahlbogenbrücke von 1936 veränderte den Zugang zur Stadt über die Waal. Vergleiche den hohen Bogen mit der niedrigeren Eisenbahnbrücke flussabwärts.",
+      "zh": "1936 年通车的钢拱桥改变了跨瓦尔河进城的方式。可拿它的高拱和下游较低的铁路桥作对比。"
+    },
+    "viewpoint": {
+      "en": "Use Waalkade for a side profile, or Valkhofpark for an elevated angle over the approach.",
+      "nl": "Kies de Waalkade voor het zijaanzicht of het Valkhofpark voor een hoger standpunt.",
+      "de": "Vom Kai gelingt das Seitenprofil, vom Valkhofpark der erhöhte Blick auf die Zufahrt.",
+      "zh": "在 Waalkade 拍整座桥的侧影，或到 Valkhofpark 俯拍引桥。"
+    },
+    "approach": "Hunnerpark, Nijmegen",
+    "faq": {
+      "en": {
+        "question": "Do I have to cross the bridge to see its arch?",
+        "answer": "No. Waalkade offers a side view of the full span."
+      },
+      "nl": {
+        "question": "Moet ik oversteken om de boog te zien?",
+        "answer": "Nee, vanaf de Waalkade zie je de volledige overspanning van opzij."
+      },
+      "de": {
+        "question": "Muss ich für den Brückenbogen hinübergehen?",
+        "answer": "Nein. Vom Kai sieht man die ganze Spannweite von der Seite."
+      },
+      "zh": {
+        "question": "一定要过桥才能看清钢拱吗？",
+        "answer": "不用，从 Waalkade 可侧看完整桥跨。"
+      }
+    },
+    "minutes": 40,
+    "area": "river",
+    "tagline": {
+      "en": "The steel arch that marks Nijmegen’s waterfront",
+      "nl": "De stalen boog boven de Nijmeegse Waalkade",
+      "de": "Der Stahlbogen über Nijmegens Flussufer",
+      "zh": "奈梅亨瓦尔河天际线上的钢拱桥"
+    }
+  },
+  {
+    "slug": "de-oversteek",
+    "name": "De Oversteek",
+    "address": "De Oversteek, Nijmegen",
+    "kind": "bridge",
+    "operator": "Gemeente Nijmegen",
+    "description": {
+      "en": "The bridge commemorates the 1944 Waal crossing. Look for the paired lights and read the memorial information on the approach.",
+      "nl": "De brug herdenkt de Waaloversteek van 1944. Let op de lichtparen en lees de herdenkingstekst bij de aanloop.",
+      "de": "Die Brücke erinnert an die Waalüberquerung von 1944. Achte auf die Leuchtenpaare und die Gedenkinformation am Zugang.",
+      "zh": "桥梁纪念 1944 年渡河行动，留意成对设置的灯具，并在引桥附近阅读纪念说明。"
+    },
+    "source": "https://nl.wikipedia.org/wiki/De_Oversteek_%28brug%29",
+    "photo": {
+      "path": "/nearby/de-oversteek.webp",
+      "credit": "https://commons.wikimedia.org/wiki/File:De_Oversteek%2C_September_2013.JPG",
+      "author": "Der-Niederrheiner",
+      "licence": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    "history": {
+      "en": "The western road bridge commemorates the 1944 crossing of the Waal. Its paired lights are part of the memorial and give the modern structure a second purpose.",
+      "nl": "De westelijke verkeersbrug herdenkt de oversteek van 1944. De lichtparen maken deel uit van het monument.",
+      "de": "Die westliche Straßenbrücke erinnert an die Waalüberquerung von 1944. Die Leuchtenpaare gehören zum Denkmal.",
+      "zh": "西侧公路桥纪念 1944 年的瓦尔河渡河行动。成对灯具是纪念设计的一部分，可沿公共通道观察。"
+    },
+    "viewpoint": {
+      "en": "Photograph the arch from a public riverbank viewpoint before walking onto the bridge.",
+      "nl": "Fotografeer de boog vanaf een openbaar punt aan de oever voordat je de brug op gaat.",
+      "de": "Fotografiere den Bogen zuerst von einem öffentlichen Uferweg.",
+      "zh": "先在公共河岸拍完整桥拱，再上桥观察灯具。"
+    },
+    "approach": "Weurtseweg, Nijmegen",
+    "faq": {
+      "en": {
+        "question": "What should I look for in the memorial?",
+        "answer": "The paired lights recall the soldiers killed during the 1944 crossing."
+      },
+      "nl": {
+        "question": "Waar let ik op bij het monument?",
+        "answer": "De lichtparen herinneren aan de militairen die bij de oversteek in 1944 omkwamen."
+      },
+      "de": {
+        "question": "Worauf achte ich beim Denkmal?",
+        "answer": "Die Leuchtenpaare erinnern an die Soldaten, die 1944 bei der Überquerung ums Leben kamen."
+      },
+      "zh": {
+        "question": "纪念设计最值得留意什么？",
+        "answer": "成对布置的灯具纪念 1944 年渡河行动中阵亡的士兵。"
+      }
+    },
+    "minutes": 45,
+    "area": "river",
+    "tagline": {
+      "en": "A working river crossing and a wartime memorial",
+      "nl": "Een verkeersbrug en oorlogsmonument",
+      "de": "Verkehrsbrücke und Kriegsdenkmal",
+      "zh": "兼作渡河纪念地的公路桥"
+    }
+  },
+  {
+    "slug": "snelbinder",
+    "name": "Snelbinder",
+    "address": "Snelbinder, Nijmegen",
+    "kind": "bridge",
+    "operator": "Gemeente Nijmegen",
+    "description": {
+      "en": "The cycle and foot crossing follows the railway bridge. Use the pedestrian side to look back over the lower town.",
+      "nl": "De fiets- en voetverbinding volgt de spoorbrug. Gebruik de voetgangerskant voor uitzicht op de Benedenstad.",
+      "de": "Die Rad- und Fußverbindung folgt der Eisenbahnbrücke. Vom Fußweg blickst du auf die Unterstadt zurück.",
+      "zh": "这条自行车及步行通道与铁路桥并行，站在人行侧向南回望下城区。"
+    },
+    "source": "https://en.wikipedia.org/wiki/Snelbinder",
+    "photo": {
+      "path": "/nearby/snelbinder.webp",
+      "credit": "https://commons.wikimedia.org/wiki/File:Nijmegen_railway_bridge._River_Waal._in_the_back_the_Oversteek_bridge_Seen_from_the_Stevenskerk.jpg",
+      "author": "Roger Veringmeier",
+      "licence": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "history": {
+      "en": "The path was added alongside the railway crossing to provide a direct walking and cycling link. The adjacent spans make the two modes of crossing easy to compare.",
+      "nl": "De route langs de spoorbrug biedt een directe verbinding voor fietsers en voetgangers. Naast elkaar zijn de twee soorten overspanningen goed te vergelijken.",
+      "de": "Der Weg neben der Eisenbahnbrücke schafft eine direkte Rad- und Fußverbindung. Die benachbarten Überbauten lassen sich gut vergleichen.",
+      "zh": "这条通道附设于铁路过河线路旁，为步行和骑行提供直接连接。并行的桥跨能直观看出两种过河设施的差异。"
+    },
+    "viewpoint": {
+      "en": "Use the bank for an overall view and keep the cycle lane clear for any photo on the crossing.",
+      "nl": "Kies de oever voor het totaalbeeld en houd het fietspad vrij als je op de brug fotografeert.",
+      "de": "Vom Ufer gelingt der Überblick. Halte bei Fotos auf der Brücke den Radweg frei.",
+      "zh": "整体照片在河岸拍，桥上拍摄时给自行车道留出通行空间。"
+    },
+    "approach": "Waalkade, Nijmegen",
+    "faq": {
+      "en": {
+        "question": "Does the route use the railway tracks?",
+        "answer": "The Snelbinder is the separate path alongside the rail bridge."
+      },
+      "nl": {
+        "question": "Gaat de route over het spoor?",
+        "answer": "De Snelbinder is het aparte pad naast de spoorbrug."
+      },
+      "de": {
+        "question": "Verläuft der Weg auf den Gleisen?",
+        "answer": "Der Snelbinder ist der separate Weg neben der Eisenbahnbrücke."
+      },
+      "zh": {
+        "question": "这条路线要走铁路吗？",
+        "answer": "不用，Snelbinder 是铁路桥旁独立的通行通道。"
+      }
+    },
+    "minutes": 35,
+    "area": "river",
+    "tagline": {
+      "en": "A river crossing beside the railway bridge",
+      "nl": "De Waal oversteken naast de spoorbrug",
+      "de": "Über die Waal neben der Eisenbahnbrücke",
+      "zh": "沿铁路桥旁的独立通道跨过瓦尔河"
+    }
+  },
+  {
+    "slug": "spiegelwaal",
+    "name": "Spiegelwaal",
+    "address": "Spiegelwaal, Nijmegen Lent",
+    "kind": "park",
+    "operator": "Rijkswaterstaat",
+    "description": {
+      "en": "Follow the side channel to see where space for floodwater and public recreation overlap. Stick to the upper path when lower ground is flooded.",
+      "nl": "Volg de nevengeul en zie hoe hoogwaterveiligheid en recreatie samengaan. Neem bij hoogwater het hogere pad.",
+      "de": "Am Seitenarm kommen Hochwasserschutz und Freizeit zusammen. Bei überfluteten Uferwegen bleibe auf dem oberen Weg.",
+      "zh": "沿分洪水道看防洪设施如何与休闲空间结合，低处积水时改走上层步道。"
+    },
+    "source": "https://en.intonijmegen.com/discover/highlights",
+    "photo": {
+      "path": "/nearby/spiegelwaal.webp",
+      "credit": "https://commons.wikimedia.org/wiki/File:Spiegelwaal.jpg",
+      "author": "DaMatriX",
+      "licence": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "history": {
+      "en": "The secondary channel was created as part of the Room for the River project. Its banks show how flood capacity and public space were designed together.",
+      "nl": "De nevengeul ontstond binnen Ruimte voor de Rivier. De oevers laten zien hoe waterveiligheid en openbare ruimte samen zijn ingericht.",
+      "de": "Der Seitenarm entstand im Projekt Raum für den Fluss. Seine Ufer zeigen, wie Hochwasserschutz und Freiraum zusammen geplant wurden.",
+      "zh": "分洪水道是「还河流以空间」工程的一部分。沿岸可观察行洪空间与公共游憩区域如何结合。"
+    },
+    "viewpoint": {
+      "en": "From the Lentloper, frame the channel lengthwise with the banks converging in the distance.",
+      "nl": "Kijk vanaf de Lentloper in de lengterichting van de geul en neem beide oevers mee.",
+      "de": "Fotografiere vom Lentloper längs des Seitenarms mit beiden Ufern im Bild.",
+      "zh": "在 Lentloper 桥上沿水道纵向取景，把两岸收进画面。"
+    },
+    "approach": "De Lentloper, Nijmegen",
+    "faq": {
+      "en": {
+        "question": "Can I always walk the lower bank?",
+        "answer": "Check water levels and local signs. Use the upper route when lower paths are closed."
+      },
+      "nl": {
+        "question": "Kan ik altijd over de lage oever lopen?",
+        "answer": "Controleer waterstand en borden. Kies bij afsluitingen de hogere route."
+      },
+      "de": {
+        "question": "Ist das niedrige Ufer immer begehbar?",
+        "answer": "Achte auf Wasserstand und Schilder. Nutze bei Sperrungen den höheren Weg."
+      },
+      "zh": {
+        "question": "低处河岸任何时候都能走吗？",
+        "answer": "请看水位和现场标识。低处封闭时走上层路线。"
+      }
+    },
+    "minutes": 60,
+    "area": "river",
+    "tagline": {
+      "en": "Flood engineering and open riverside paths",
+      "nl": "Waterveiligheid en openbare oeverpaden",
+      "de": "Hochwasserschutz und offene Uferwege",
+      "zh": "沿分洪水道读懂瓦尔河防洪工程"
+    }
+  },
+  {
+    "slug": "veur-lent",
+    "name": "Veur-Lent",
+    "address": "Oosterhoutsedijk, Nijmegen Lent",
+    "kind": "park",
+    "operator": "Gemeente Nijmegen · FREE Nature",
+    "description": {
+      "en": "Cross to the island between the Waal and Spiegelwaal. Compare the city skyline on one side with the quieter channel on the other.",
+      "nl": "Steek over naar het eiland tussen Waal en Spiegelwaal. Vergelijk het stadssilhouet met de rustigere nevengeul.",
+      "de": "Wechsle auf die Insel zwischen Waal und Spiegelwaal. Auf der einen Seite liegt die Stadtsilhouette, auf der anderen der ruhigere Seitenarm.",
+      "zh": "到瓦尔河与分洪水道之间的河岛，一侧看城市天际线，另一侧看较平静的支流。"
+    },
+    "source": "https://www.nijmegen.nl/diensten/evenementen/evenementenlocaties/veurlent-snelbinder/",
+    "photo": {
+      "path": "/nearby/veur-lent.webp",
+      "credit": "https://commons.wikimedia.org/wiki/File:De_Lentloper_2.jpg",
+      "author": "JakobHosp",
+      "licence": "https://creativecommons.org/licenses/by/4.0"
+    },
+    "history": {
+      "en": "The island took shape when the new side channel separated it from Lent. The river-facing edge looks to the historic city, while the channel side shows the engineered flood landscape.",
+      "nl": "Het eiland kreeg vorm toen de nevengeul het van Lent scheidde. Aan de rivierkant zie je de oude stad, aan de geulzijde het nieuwe waterlandschap.",
+      "de": "Die Insel entstand, als der neue Seitenarm sie von Lent trennte. Zur Waal sieht man die Altstadt, am Seitenarm die gestaltete Flusslandschaft.",
+      "zh": "新分洪河道把这一片土地与 Lent 分开，形成河岛。主河一侧看老城，分洪道一侧看工程塑造的新水岸。"
+    },
+    "viewpoint": {
+      "en": "On an open section of the city-facing path, frame the Stevenskerk tower above the waterline.",
+      "nl": "Kader vanaf het open pad aan de stadszijde de Stevenstoren boven de rivier.",
+      "de": "Rahme vom offenen Weg auf der Stadtseite den Stevenstoren über der Wasserlinie ein.",
+      "zh": "从面向城区的开阔步道拍摄，让圣史蒂芬教堂塔楼高出水岸线。"
+    },
+    "approach": "De Lentloper, Nijmegen",
+    "faq": {
+      "en": {
+        "question": "What if grazing animals are on the path?",
+        "answer": "Follow posted instructions and keep your distance from the animals."
+      },
+      "nl": {
+        "question": "Wat als er grazers op het pad staan?",
+        "answer": "Volg de aanwijzingen op de borden en houd afstand."
+      },
+      "de": {
+        "question": "Was tun bei Weidetieren auf dem Weg?",
+        "answer": "Beachte die Schilder und halte Abstand zu den Tieren."
+      },
+      "zh": {
+        "question": "遇到放牧动物怎么办？",
+        "answer": "按现场指示绕行，并与动物保持距离。"
+      }
+    },
+    "minutes": 60,
+    "area": "river",
+    "tagline": {
+      "en": "An island between the Waal and its side channel",
+      "nl": "Een eiland tussen de Waal en de nevengeul",
+      "de": "Eine Insel zwischen Waal und Seitenarm",
+      "zh": "夹在瓦尔河与分洪道之间的河岛"
+    }
+  },
+  {
+    "slug": "ooijpolder",
+    "name": "Ooijpolder",
+    "address": "Ooijse Bandijk, Ooij",
+    "kind": "park",
+    "operator": "Staatsbosbeheer",
+    "description": {
+      "en": "The dike gives a higher view over pastures, water and floodplain. Start in Ooij for a shorter outing and follow signed paths.",
+      "nl": "Vanaf de dijk kijk je over weilanden, water en uiterwaarden. Begin in Ooij voor een kortere tocht en volg de aangegeven paden.",
+      "de": "Vom Deich blickst du über Weiden, Wasserflächen und Auen. Für eine kurze Runde starte in Ooij und folge den markierten Wegen.",
+      "zh": "堤顶适合观察牧场、水面及洪泛平原。想走短线可从 Ooij 村出发，沿有标识的小径走。"
+    },
+    "source": "https://www.geldersepoort.net/publicaties/2008ooijmill.pdf",
+    "photo": {
+      "path": "/nearby/ooijpolder.webp",
+      "credit": "https://commons.wikimedia.org/wiki/File:20200331Ooijpolder_05_07.jpg",
+      "author": "WeeJeeVee",
+      "licence": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "history": {
+      "en": "Dikes, meadows and old river features give this floodplain its character. Compare the raised embankment with the low ground that can hold water.",
+      "nl": "Dijken, weiden en oude rivierstructuren tekenen deze uiterwaard. Vergelijk de hoge dijk met het lage land waar water kan blijven staan.",
+      "de": "Deiche, Wiesen und alte Flussstrukturen prägen diese Aue. Vergleiche den hohen Deich mit den tieferen Flächen, in denen sich Wasser sammeln kann.",
+      "zh": "堤坝、草地与旧河道地貌构成洪泛平原的景观。站在堤上可对照高处交通线和能够蓄水的低地。"
+    },
+    "viewpoint": {
+      "en": "Shoot across the low meadows from a safe spot on the dike without blocking cyclists.",
+      "nl": "Fotografeer de lage weiden vanaf een veilige plek op de dijk en houd ruimte voor fietsers.",
+      "de": "Fotografiere die tiefen Wiesen von einer sicheren Stelle am Deich und halte Platz für Radfahrer frei.",
+      "zh": "在堤上找不妨碍骑行的安全位置，横拍低处草甸。"
+    },
+    "approach": "Ooij, Berg en Dal",
+    "faq": {
+      "en": {
+        "question": "Can I leave the dike and enter the meadows?",
+        "answer": "Only use marked public paths and respect gates and signs."
+      },
+      "nl": {
+        "question": "Mag ik van de dijk de weilanden in?",
+        "answer": "Gebruik alleen aangegeven openbare paden en respecteer hekken en borden."
+      },
+      "de": {
+        "question": "Darf ich vom Deich auf die Wiesen?",
+        "answer": "Nutze nur ausgewiesene öffentliche Wege und beachte Tore und Schilder."
+      },
+      "zh": {
+        "question": "能从堤顶直接走进草甸吗？",
+        "answer": "请走标出的公共路线，遵守围栏及通行标识。"
+      }
+    },
+    "minutes": 100,
+    "area": "east",
+    "tagline": {
+      "en": "Dike walks across the Waal floodplain",
+      "nl": "Dijkwandelingen door de uiterwaarden van de Waal",
+      "de": "Deichwanderungen in der Waalaue",
+      "zh": "沿堤坝走进瓦尔河洪泛平原"
+    }
+  },
+  {
+    "slug": "hunnerpark",
+    "name": "Hunnerpark",
+    "address": "Hunnerpark, Nijmegen",
+    "kind": "park",
+    "operator": "Gemeente Nijmegen",
+    "description": {
+      "en": "The slope gives the old fortifications their setting. Follow the path below the walls to see the height difference before heading to the Belvédère.",
+      "nl": "De helling laat zien hoe de oude vestingwerken lagen. Volg het pad onder de muur voordat je naar de Belvédère gaat.",
+      "de": "Am Hang werden die Höhenunterschiede der alten Befestigung sichtbar. Gehe unterhalb der Mauer weiter zum Belvédère.",
+      "zh": "先从城墙下方的坡路看清防御工事的高差，再往观景塔走。"
+    },
+    "source": "https://nl.wikipedia.org/wiki/Hunnerpark",
+    "photo": {
+      "path": "/nearby/hunnerpark.webp",
+      "credit": "https://commons.wikimedia.org/wiki/File:Bloemenwapen_Noviomagus_Hunnerpoort_Hunnerpark_Nijmegen.jpg",
+      "author": "Roger Veringmeier",
+      "licence": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "history": {
+      "en": "The park follows terrain shaped by the city’s former defenses. The surviving wall makes the steep change in level particularly easy to read.",
+      "nl": "Het park volgt het terrein van de vroegere verdedigingswerken. Aan de bewaarde muur is het hoogteverschil goed af te lezen.",
+      "de": "Der Park folgt dem Gelände der alten Befestigung. An der erhaltenen Mauer erkennt man den steilen Höhenwechsel.",
+      "zh": "公园利用旧城防塑造过的地形。现存城墙是观察园内陡峭高差的参照。"
+    },
+    "viewpoint": {
+      "en": "Use the lower path to photograph the wall rising behind the garden beds.",
+      "nl": "Neem vanaf het lage pad de muur achter de plantvakken mee.",
+      "de": "Vom unteren Weg lässt sich die Mauer hinter den Beeten aufnehmen.",
+      "zh": "从低处园路拍绿化花坛背后抬升的城墙。"
+    },
+    "approach": "Kelfkensbos, Nijmegen",
+    "faq": {
+      "en": {
+        "question": "Is the park route level?",
+        "answer": "The park follows a slope. Choose the upper or lower approach to suit your visit."
+      },
+      "nl": {
+        "question": "Is de route vlak?",
+        "answer": "Het park ligt op een helling. Kies de hoge of lage toegang die bij je bezoek past."
+      },
+      "de": {
+        "question": "Ist der Parkweg eben?",
+        "answer": "Der Park liegt am Hang. Wähle den Zugang oben oder unten passend zu deinem Besuch."
+      },
+      "zh": {
+        "question": "公园路线平坦吗？",
+        "answer": "公园依坡而建，可根据体力选择上侧或下侧入口。"
+      }
+    },
+    "minutes": 35,
+    "area": "center",
+    "tagline": {
+      "en": "Garden paths and old defences on a steep slope",
+      "nl": "Tuinpaden en oude verdedigingsmuren op een helling",
+      "de": "Gartenwege und alte Befestigung am Hang",
+      "zh": "顺着旧城防地形起伏的山坡公园"
+    }
+  },
+  {
+    "slug": "belvedere",
+    "name": "Belvédère",
+    "address": "Voerweg 1, Nijmegen",
+    "kind": "exterior",
+    "operator": "Gemeente Nijmegen",
+    "description": {
+      "en": "The tower marks the edge of Hunnerpark above the river approaches. Look back at the compact tower from the park’s paths.",
+      "nl": "De toren markeert de rand van het Hunnerpark boven de rivierroute. Bekijk de compacte toren vanaf de parkpaden.",
+      "de": "Der Turm steht am Rand des Hunnerparks über dem Flusszugang. Vom Parkweg lässt sich seine kompakte Form gut sehen.",
+      "zh": "塔在 Hunnerpark 临河一侧，从园路回望更容易看清整座塔的轮廓。"
+    },
+    "source": "https://lokaleregelgeving.overheid.nl/CVDR751118/1",
+    "photo": {
+      "path": "/nearby/belvedere.webp",
+      "credit": "https://commons.wikimedia.org/wiki/File:Belv%C3%A9d%C3%A8re_Hunnerpark_Nijmegen.jpg",
+      "author": "Roger Veringmeier",
+      "licence": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "history": {
+      "en": "The tower’s elevated position reveals its relationship to Nijmegen’s old defenses. Observe the compact brick profile from the park before looking down toward the river.",
+      "nl": "De hoge ligging verbindt de toren met de oude verdediging. Bekijk het compacte bakstenen silhouet vanuit het park en kijk daarna naar de rivier.",
+      "de": "Die erhöhte Lage verdeutlicht den Bezug zur alten Befestigung. Betrachte den kompakten Ziegelbau vom Park aus und blicke dann zum Fluss.",
+      "zh": "塔的高位说明它与旧防御体系的关系。先从公园看砖塔紧凑的轮廓，再沿坡向河边远眺。"
+    },
+    "viewpoint": {
+      "en": "Photograph the tower from Hunnerpark’s lower path to show how it sits above the slope.",
+      "nl": "Fotografeer de toren vanaf het lagere pad in het Hunnerpark om de helling mee te nemen.",
+      "de": "Vom unteren Weg im Hunnerpark kommt die Lage oberhalb des Hangs ins Bild.",
+      "zh": "从 Hunnerpark 较低的园路仰拍，把坡度和塔身同时拍进去。"
+    },
+    "approach": "Hunnerpark, Nijmegen",
+    "faq": {
+      "en": {
+        "question": "Can I see the tower without entering it?",
+        "answer": "Yes. The nearby public paths in Hunnerpark offer exterior views."
+      },
+      "nl": {
+        "question": "Kan ik de toren zien zonder naar binnen te gaan?",
+        "answer": "Ja, vanaf de openbare paden in het Hunnerpark is de buitenkant zichtbaar."
+      },
+      "de": {
+        "question": "Kann ich den Turm ohne Innenbesuch sehen?",
+        "answer": "Ja, die öffentlichen Wege im Hunnerpark bieten Außenansichten."
+      },
+      "zh": {
+        "question": "不进塔能看清外观吗？",
+        "answer": "可以，Hunnerpark 的公共园路就能看到塔楼。"
+      }
+    },
+    "minutes": 15,
+    "area": "center",
+    "tagline": {
+      "en": "A brick tower above Hunnerpark",
+      "nl": "Een bakstenen toren boven het Hunnerpark",
+      "de": "Ein Ziegelturm oberhalb des Hunnerparks",
+      "zh": "Hunnerpark 坡顶的砖砌观景塔"
+    }
+  },
+  {
+    "slug": "kelfkensbos",
+    "name": "Kelfkensbos",
+    "address": "Kelfkensbos, Nijmegen",
+    "kind": "square",
+    "operator": "Gemeente Nijmegen",
+    "description": {
+      "en": "This square links the museum entrance and the Valkhof hill. Use it to compare the modern museum architecture with the older park setting.",
+      "nl": "Dit plein verbindt het museum met de Valkhofheuvel. Vergelijk de moderne museumarchitectuur met het historische park.",
+      "de": "Der Platz verbindet das Museum mit dem Valkhofhügel. Vergleiche die moderne Museumsarchitektur mit der historischen Parkanlage.",
+      "zh": "广场连接博物馆与瓦尔克霍夫山丘，适合对照现代馆舍外观与古迹公园。"
+    },
+    "source": "https://nl.wikipedia.org/wiki/Kelfkensbos",
+    "photo": {
+      "path": "/nearby/kelfkensbos.webp",
+      "credit": "https://commons.wikimedia.org/wiki/File:20071118_Monument_Noviomagus_Nijmegen2.JPG",
+      "author": "Ellywa",
+      "licence": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "history": {
+      "en": "The square stands near Roman-era remains and now links the museum to Valkhofpark. The contemporary Noviomagus monument makes the Roman connection visible in public space.",
+      "nl": "Het plein ligt bij resten uit de Romeinse tijd en verbindt het museum met het Valkhofpark. Het moderne Noviomagusmonument maakt die Romeinse laag zichtbaar.",
+      "de": "Der Platz liegt bei römischen Fundstellen und verbindet das Museum mit dem Valkhofpark. Das moderne Noviomagus-Denkmal macht den römischen Bezug sichtbar.",
+      "zh": "广场邻近罗马时期遗存，今天连接博物馆和历史公园。现代 Noviomagus 纪念物把这段罗马历史呈现在公共空间里。"
+    },
+    "viewpoint": {
+      "en": "Frame the Noviomagus monument with the museum edge behind it.",
+      "nl": "Neem het Noviomagusmonument met de rand van het museum op de achtergrond.",
+      "de": "Rahme das Noviomagus-Denkmal mit dem Museumsrand im Hintergrund ein.",
+      "zh": "用博物馆边缘作背景，为 Noviomagus 纪念物取景。"
+    },
+    "approach": "Burchtstraat, Nijmegen",
+    "faq": {
+      "en": {
+        "question": "Do I need a museum ticket for the square?",
+        "answer": "The square and its outdoor monument can be visited separately from the museum."
+      },
+      "nl": {
+        "question": "Heb ik een museumkaartje nodig voor het plein?",
+        "answer": "Het plein en het monument buiten zijn los van het museum te bezoeken."
+      },
+      "de": {
+        "question": "Brauche ich eine Museumskarte für den Platz?",
+        "answer": "Der Platz und das Denkmal im Freien sind unabhängig vom Museum zugänglich."
+      },
+      "zh": {
+        "question": "逛广场需要买博物馆票吗？",
+        "answer": "广场和户外纪念物可独立游览。"
+      }
+    },
+    "minutes": 20,
+    "area": "center",
+    "tagline": {
+      "en": "A city square between the museum and Valkhof hill",
+      "nl": "Een stadsplein tussen museum en Valkhofheuvel",
+      "de": "Stadtplatz zwischen Museum und Valkhofhügel",
+      "zh": "串联博物馆与瓦尔克霍夫山丘的广场"
+    }
+  },
+  {
+    "slug": "keizer-karelplein",
+    "name": "Keizer Karelplein",
+    "address": "Keizer Karelplein, Nijmegen",
+    "kind": "square",
+    "operator": "Gemeente Nijmegen",
+    "description": {
+      "en": "The broad traffic circle shows a different scale from the old lanes. See it from the concert hall side and use the marked crossings.",
+      "nl": "Het verkeersplein heeft een andere schaal dan de oude straten. Bekijk het vanaf het concertgebouw en gebruik de oversteekplaatsen.",
+      "de": "Der große Verkehrsknoten wirkt ganz anders als die Altstadtgassen. Sieh ihn von der Konzerthalle aus und nutze die Übergänge.",
+      "zh": "可从音乐厅一侧看城区大环岛与老城窄巷的尺度差异，过街请走标示通道。"
+    },
+    "source": "https://commons.wikimedia.org/wiki/Category:Keizer_Karelplein,_Nijmegen",
+    "photo": {
+      "path": "/nearby/keizer-karelplein.webp",
+      "credit": "https://commons.wikimedia.org/wiki/File:KeizerKarelpleinNijmegen.jpg",
+      "author": "Klaas1978",
+      "licence": "Public domain"
+    },
+    "history": {
+      "en": "The open circle belongs to the city’s later expansion beyond the old defenses. Its radial streets are best understood from the perimeter near the concert hall.",
+      "nl": "Het open verkeersplein hoort bij de latere stadsuitbreiding buiten de vesting. De radiale straten lees je goed vanaf de rand bij het concertgebouw.",
+      "de": "Der offene Kreisplatz gehört zur späteren Stadterweiterung jenseits der Befestigung. Die sternförmigen Straßen sind vom Rand am Konzerthaus gut zu erkennen.",
+      "zh": "大环岛体现城市越过旧城防后的扩张。从音乐厅附近的外缘看，可以辨认多条道路放射状汇入。"
+    },
+    "viewpoint": {
+      "en": "Use the concert hall forecourt to frame the roundabout without stepping into traffic.",
+      "nl": "Gebruik het voorplein van het concertgebouw om het verkeersplein veilig in beeld te brengen.",
+      "de": "Vom Vorplatz des Konzerthauses lässt sich der Kreisverkehr sicher fotografieren.",
+      "zh": "站在音乐厅前的公共步行区域拍环岛，避免进入车流。"
+    },
+    "approach": "Van Schaeck Mathonsingel, Nijmegen",
+    "faq": {
+      "en": {
+        "question": "Where should I stop to look at the layout?",
+        "answer": "Use a pedestrian area on the outer edge near either cultural venue."
+      },
+      "nl": {
+        "question": "Waar kan ik veilig stilstaan?",
+        "answer": "Kies een voetgangersplek aan de buitenrand bij een van de culturele gebouwen."
+      },
+      "de": {
+        "question": "Wo kann ich die Anlage in Ruhe ansehen?",
+        "answer": "Nutze einen Fußgängerbereich am Außenrand nahe einem der Kulturbauten."
+      },
+      "zh": {
+        "question": "在哪里可以停下来观察环岛布局？",
+        "answer": "可在外缘靠近音乐厅或剧院的步行区停留。"
+      }
+    },
+    "minutes": 20,
+    "area": "station",
+    "tagline": {
+      "en": "A radial square at the edge of the old town",
+      "nl": "Een stervormig verkeersplein bij de oude stad",
+      "de": "Ein sternförmiger Platz am Altstadtrand",
+      "zh": "老城边缘汇集多条道路的放射状环岛"
+    }
+  },
+  {
+    "slug": "de-vereeniging",
+    "name": "De Vereeniging",
+    "address": "Keizer Karelplein 2D, Nijmegen",
+    "kind": "venue",
+    "operator": "Stadsschouwburg en Concertgebouw De Vereeniging",
+    "description": {
+      "en": "Oscar Leeuw’s concert hall dates from 1914–15. Look up at the entrance composition before attending a concert.",
+      "nl": "Het concertgebouw van Oscar Leeuw dateert uit 1914–1915. Bekijk de opbouw van de entree voor je naar een concert gaat.",
+      "de": "Das Konzerthaus von Oscar Leeuw entstand 1914–1915. Achte vor dem Konzert auf die Gestaltung des Eingangs.",
+      "zh": "音乐厅由奥斯卡·莱乌设计，建于 1914 至 1915 年。看演出前可留意入口立面的构图。"
+    },
+    "source": "https://www.stadsschouwburgendevereeniging.nl/locaties-route-en-parkeren-f16q",
+    "photo": {
+      "path": "/nearby/de-vereeniging.webp",
+      "credit": "https://commons.wikimedia.org/wiki/File:Concertgebouw_De_Vereeniging_Nijmegen_Ingang.jpg",
+      "author": "Roger Veringmeier",
+      "licence": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "history": {
+      "en": "Oscar Leeuw’s early twentieth-century concert hall combines a formal entrance with richly worked details. Look at the balance between the arched openings and the broad brick façade.",
+      "nl": "Het vroegtwintigste-eeuwse concertgebouw van Oscar Leeuw heeft een statige ingang en rijke details. Let op de bogen in de brede bakstenen gevel.",
+      "de": "Oscar Leeuws Konzerthaus aus dem frühen 20. Jahrhundert verbindet einen repräsentativen Eingang mit reichem Dekor. Achte auf die Bögen der breiten Ziegelfassade.",
+      "zh": "奥斯卡·莱乌设计的二十世纪初音乐厅有庄重的入口和细密装饰。可观察拱形开口如何分配宽阔砖立面的节奏。"
+    },
+    "viewpoint": {
+      "en": "Shoot straight on from the forecourt for symmetry, then move closer for the arches.",
+      "nl": "Fotografeer recht vanaf het voorplein voor symmetrie en loop daarna dichterbij voor de bogen.",
+      "de": "Fotografiere frontal vom Vorplatz und gehe für die Bögen näher heran.",
+      "zh": "从前场正面取景表现对称，再靠近拍入口拱券。"
+    },
+    "approach": "Keizer Karelplein, Nijmegen",
+    "faq": {
+      "en": {
+        "question": "Can I visit the hall without a concert ticket?",
+        "answer": "Check the venue’s programme for tours or public events."
+      },
+      "nl": {
+        "question": "Kan ik zonder concertkaartje naar binnen?",
+        "answer": "Bekijk het programma voor rondleidingen of openbare activiteiten."
+      },
+      "de": {
+        "question": "Kann ich den Saal ohne Konzertkarte besichtigen?",
+        "answer": "Prüfe das Programm auf Führungen oder öffentliche Veranstaltungen."
+      },
+      "zh": {
+        "question": "没有演出票可以进音乐厅吗？",
+        "answer": "请查场馆是否有导览或公众活动。"
+      }
+    },
+    "minutes": 20,
+    "area": "station",
+    "tagline": {
+      "en": "Oscar Leeuw’s early twentieth-century concert hall",
+      "nl": "Het vroegtwintigste-eeuwse concertgebouw van Oscar Leeuw",
+      "de": "Oscar Leeuws Konzerthaus aus dem frühen 20. Jahrhundert",
+      "zh": "奥斯卡·莱乌设计的二十世纪初音乐厅"
+    }
+  },
+  {
+    "slug": "stadsschouwburg",
+    "name": "Stadsschouwburg Nijmegen",
+    "address": "Keizer Karelplein 32H, Nijmegen",
+    "kind": "venue",
+    "operator": "Stadsschouwburg en Concertgebouw De Vereeniging",
+    "description": {
+      "en": "See Nijmegen’s theatre and its contrasting architecture on the other side of the square. Check the performance language before booking.",
+      "nl": "Bekijk de schouwburg en de afwijkende architectuur aan de andere kant van het plein. Controleer de taal van de voorstelling voor je boekt.",
+      "de": "Das Theater auf der anderen Seite des Platzes setzt einen architektonischen Kontrast. Prüfe vor der Buchung die Sprache der Aufführung.",
+      "zh": "到环岛另一侧看市剧院，与音乐厅对照建筑风格。订票时先确认演出语言。"
+    },
+    "source": "https://www.stadsschouwburgendevereeniging.nl/locaties-route-en-parkeren-f16q",
+    "photo": {
+      "path": "/nearby/stadsschouwburg.webp",
+      "credit": "https://commons.wikimedia.org/wiki/File:532210_stadsschouwburg_nijmegen.jpg",
+      "author": "Johan Bakker",
+      "licence": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "history": {
+      "en": "The postwar theatre uses a bold projecting volume and a contrasting glazed front. Its design shows a different period of civic building from the concert hall across the circle.",
+      "nl": "De naoorlogse schouwburg heeft een sterk uitspringend volume en een glazen front. Ze toont een andere bouwperiode dan het concertgebouw.",
+      "de": "Das Nachkriegstheater setzt auf einen auskragenden Baukörper und eine Glasfront. Es zeigt eine andere Bauphase als das Konzerthaus gegenüber.",
+      "zh": "战后市剧院以突出体量和玻璃正面形成对比。它与环岛另一边的音乐厅代表了不同年代的城市公共建筑。"
+    },
+    "viewpoint": {
+      "en": "Take an oblique view from the forecourt to capture the depth of the projecting volume.",
+      "nl": "Kies een schuine hoek vanaf het voorplein om de diepte van het bouwvolume te tonen.",
+      "de": "Fotografiere schräg vom Vorplatz, damit die Auskragung sichtbar wird.",
+      "zh": "从前场斜拍，更能看出突出体量的深度。"
+    },
+    "approach": "Keizer Karelplein, Nijmegen",
+    "faq": {
+      "en": {
+        "question": "How do I check the performance language?",
+        "answer": "Read the specific event listing before booking, especially for theatre or cabaret."
+      },
+      "nl": {
+        "question": "Hoe controleer ik de taal van een voorstelling?",
+        "answer": "Bekijk de informatie bij de voorstelling vóór je boekt, vooral bij toneel of cabaret."
+      },
+      "de": {
+        "question": "Wie prüfe ich die Sprache der Aufführung?",
+        "answer": "Lies vor der Buchung die Veranstaltungsbeschreibung, besonders bei Theater und Kabarett."
+      },
+      "zh": {
+        "question": "怎么确认演出语言？",
+        "answer": "订票前查看具体场次说明，话剧和卡巴莱尤其要先确认。"
+      }
+    },
+    "minutes": 20,
+    "area": "station",
+    "tagline": {
+      "en": "Postwar theatre architecture at Keizer Karelplein",
+      "nl": "Naoorlogse schouwburgarchitectuur aan het Keizer Karelplein",
+      "de": "Nachkriegstheater am Keizer Karelplein",
+      "zh": "Keizer Karelplein 旁的战后市剧院"
+    }
+  },
+  {
+    "slug": "goffertpark",
+    "name": "Goffertpark",
+    "address": "Steinweglaan, Nijmegen",
+    "kind": "park",
+    "operator": "Gemeente Nijmegen",
+    "description": {
+      "en": "Use the park paths to loop around the open event lawn. On event days check which entrances are still open to walkers.",
+      "nl": "Volg de parkpaden rond het evenemententerrein. Kijk op evenementendagen welke ingangen voor wandelaars openblijven.",
+      "de": "Die Parkwege führen um die große Veranstaltungswiese. Prüfe bei Veranstaltungen die offenen Eingänge.",
+      "zh": "沿园路绕过开阔的活动草坪，遇大型活动时先查哪些入口仍对步行游客开放。"
+    },
+    "source": "https://www.nijmegen.nl/diensten/evenementen/evenementenlocaties/goffertpark/",
+    "photo": {
+      "path": "/nearby/goffertpark.webp",
+      "credit": "https://commons.wikimedia.org/wiki/File:Goffertpark_Nijmegen.jpg",
+      "author": "Roger Veringmeier",
+      "licence": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "history": {
+      "en": "Paths around the large lawn reveal how the park accommodates ordinary walks and major gatherings. The trees on the perimeter provide a clear contrast to the open centre.",
+      "nl": "De paden rond het grote grasveld laten zien hoe het park wandelen en grote bijeenkomsten combineert. De boomrand contrasteert met het open midden.",
+      "de": "Die Wege um die große Wiese zeigen, wie der Park Spaziergänge und Großveranstaltungen aufnimmt. Der Baumrand kontrastiert mit der offenen Mitte.",
+      "zh": "围绕大草坪的园路让日常散步和大型活动共享同一处公园。边缘树林与中间开阔地形成鲜明对比。"
+    },
+    "viewpoint": {
+      "en": "Use the tree line to frame a wide view across the lawn from a park path.",
+      "nl": "Gebruik de bomenrand om vanaf een parkpad een ruim beeld van het grasveld te maken.",
+      "de": "Rahme die offene Wiese von einem Parkweg mit dem Baumsaum ein.",
+      "zh": "从园路借树列做边框，横拍开阔草坪。"
+    },
+    "approach": "Steinweglaan, Nijmegen",
+    "faq": {
+      "en": {
+        "question": "Can I use my usual route on event days?",
+        "answer": "Check the municipal event information and follow any signed diversions."
+      },
+      "nl": {
+        "question": "Kan ik bij evenementen mijn gewone route volgen?",
+        "answer": "Controleer gemeentelijke informatie en volg de aangegeven omleidingen."
+      },
+      "de": {
+        "question": "Kann ich bei Veranstaltungen die gewohnte Route nehmen?",
+        "answer": "Prüfe die städtischen Informationen und folge ausgeschilderten Umleitungen."
+      },
+      "zh": {
+        "question": "活动日还能按平时路线走吗？",
+        "answer": "先查市政府的活动公告，再按现场指示绕行。"
+      }
+    },
+    "minutes": 60,
+    "area": "station",
+    "tagline": {
+      "en": "An open event lawn ringed by park paths",
+      "nl": "Een open evenementenveld met paden rondom",
+      "de": "Offene Veranstaltungswiese mit umliegenden Parkwegen",
+      "zh": "林荫园路环绕的大型活动草坪"
+    }
+  },
+  {
+    "slug": "museumpark-orientalis",
+    "name": "Museumpark Orientalis",
+    "address": "Profetenlaan 2, Heilig Landstichting",
+    "kind": "museum",
+    "operator": "Museumpark Orientalis",
+    "description": {
+      "en": "The open-air museum uses buildings and landscapes to interpret religious traditions. Allow time for the outdoor route between sites.",
+      "nl": "Het openluchtmuseum gebruikt gebouwen en landschappen om religieuze tradities te tonen. Trek tijd uit voor de buitenroute tussen de onderdelen.",
+      "de": "Das Freilichtmuseum vermittelt religiöse Traditionen anhand von Gebäuden und Landschaften. Plane Zeit für die Wege im Freien ein.",
+      "zh": "这座露天博物馆通过建筑与景观呈现宗教传统，游览时要给不同展区间的户外步行留出时间。"
+    },
+    "source": "https://nl.wikipedia.org/wiki/Museumpark_Orientalis",
+    "photo": {
+      "path": "/nearby/museumpark-orientalis.webp",
+      "credit": "https://commons.wikimedia.org/wiki/File:MuseumPark_Orientalis_-_Beth_Juda.JPG",
+      "author": "Erik1980",
+      "licence": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    "history": {
+      "en": "The open-air museum grew from the Heilig Landstichting project. At individual stops, compare the building forms with the staged landscapes around them.",
+      "nl": "Het openluchtmuseum groeide uit de Heilig Landstichting. Vergelijk bij de verschillende haltes de bouwvormen met de aangelegde landschappen.",
+      "de": "Das Freilichtmuseum entstand aus dem Projekt Heilig Landstichting. Vergleiche an den Stationen die Bauformen mit den inszenierten Landschaften.",
+      "zh": "露天博物馆由 Heilig Landstichting 项目发展而来。走到各展区，可对比不同建筑形式和围绕它们布置的景观。"
+    },
+    "viewpoint": {
+      "en": "In the Beth Juda area, frame the low walls and the outdoor setting together from the visitor path.",
+      "nl": "Neem bij Beth Juda vanaf het bezoekerspad de lage muren en de buitenruimte samen in beeld.",
+      "de": "Nimm bei Beth Juda vom Besucherweg die niedrigen Mauern zusammen mit dem Außenraum auf.",
+      "zh": "在 Beth Juda 展区从游客步道把低墙和户外展陈环境一并拍下。"
+    },
+    "approach": "Profetenlaan 2, Heilig Landstichting",
+    "faq": {
+      "en": {
+        "question": "Is most of this visit indoors?",
+        "answer": "The exhibits are spread across an open-air site. Prepare for walking between buildings."
+      },
+      "nl": {
+        "question": "Is dit vooral een bezoek binnen?",
+        "answer": "De onderdelen liggen verspreid in een openluchtmuseum. Reken op wandelen tussen gebouwen."
+      },
+      "de": {
+        "question": "Findet der Besuch überwiegend drinnen statt?",
+        "answer": "Die Stationen liegen in einem Freilichtmuseum. Plane Fußwege zwischen den Gebäuden ein."
+      },
+      "zh": {
+        "question": "主要是室内展览吗？",
+        "answer": "各展区分布在露天园区内，需在建筑之间步行。"
+      }
+    },
+    "minutes": 150,
+    "area": "east",
+    "tagline": {
+      "en": "Outdoor museum exhibits set among buildings and gardens",
+      "nl": "Openluchttentoonstellingen tussen gebouwen en tuinen",
+      "de": "Freilichtausstellungen zwischen Gebäuden und Gärten",
+      "zh": "在建筑与庭园之间步行看展的露天博物馆"
+    }
+  },
+  {
+    "slug": "vrijheidsmuseum",
+    "name": "Vrijheidsmuseum",
+    "address": "Wylerbaan 4, Groesbeek",
+    "kind": "museum",
+    "operator": "Vrijheidsmuseum",
+    "description": {
+      "en": "The museum places wartime events in a cross-border context. Follow the exhibits chronologically and look for regional accounts.",
+      "nl": "Het museum plaatst de oorlog in een grensoverschrijdende context. Volg de tijdlijn en zoek naar verhalen uit de regio.",
+      "de": "Das Museum stellt den Krieg in einen grenzüberschreitenden Zusammenhang. Folge der Chronologie und achte auf regionale Berichte.",
+      "zh": "博物馆从跨境角度讲述战争史，可按时间线看展，重点找奈梅亨及周边地区的亲历记录。"
+    },
+    "source": "https://nl.wikipedia.org/wiki/Vrijheidsmuseum",
+    "photo": {
+      "path": "/nearby/vrijheidsmuseum.webp",
+      "credit": "https://commons.wikimedia.org/wiki/File:Vrijheidsmuseum_Groesbeek_P1500508.jpg",
+      "author": "G.Lanting",
+      "licence": "https://creativecommons.org/licenses/by/4.0"
+    },
+    "history": {
+      "en": "Groesbeek’s location near the German border gives the museum’s wartime stories a local setting. The broad domed exterior provides a landmark before you work through the exhibitions.",
+      "nl": "Groesbeek ligt bij de Duitse grens, waardoor de oorlogsverhalen een herkenbare omgeving krijgen. De brede koepel markeert het museum.",
+      "de": "Groesbeeks Nähe zur deutschen Grenze gibt den Kriegsgeschichten einen örtlichen Rahmen. Der breite Kuppelbau markiert das Museum.",
+      "zh": "格罗斯贝克靠近德国边境，为馆内的战时故事提供了地理背景。宽展的穹顶外形则是辨认馆舍的地标。"
+    },
+    "viewpoint": {
+      "en": "From the approach path, step back far enough to include the entire dome.",
+      "nl": "Kies op het toegangspad voldoende afstand om de hele koepel in beeld te krijgen.",
+      "de": "Wähle auf dem Zugangsweg genug Abstand für die ganze Kuppel.",
+      "zh": "在入口步道退开一段距离，拍全穹顶轮廓。"
+    },
+    "approach": "Wylerbaan 4, Groesbeek",
+    "faq": {
+      "en": {
+        "question": "Is there anything to see before entering?",
+        "answer": "The domed exterior is visible from the approach. The exhibitions begin inside the museum."
+      },
+      "nl": {
+        "question": "Is er buiten al iets te zien?",
+        "answer": "De koepel is vanaf de toegangsroute zichtbaar. De tentoonstellingen beginnen binnen."
+      },
+      "de": {
+        "question": "Sieht man schon etwas vor dem Eintritt?",
+        "answer": "Der Kuppelbau ist vom Zugangsweg sichtbar. Die Ausstellungen liegen im Museum."
+      },
+      "zh": {
+        "question": "入馆前有什么看点？",
+        "answer": "沿入口步道可以先看穹顶外形，主题展览在馆内。"
+      }
+    },
+    "minutes": 120,
+    "area": "east",
+    "tagline": {
+      "en": "Wartime stories from both sides of the border",
+      "nl": "Oorlogsverhalen van beide kanten van de grens",
+      "de": "Kriegsgeschichten von beiden Seiten der Grenze",
+      "zh": "从跨境视角回看战争史的自由博物馆"
+    }
+  },
+  {
+    "slug": "doornenburg",
+    "name": "Kasteel Doornenburg",
+    "address": "Kerkstraat 27, Doornenburg",
+    "kind": "museum",
+    "operator": "Stichting tot Behoud van den Doornenburg",
+    "description": {
+      "en": "Look for the separation between the outer bailey and main castle. Verify guided access if you want to see the interiors.",
+      "nl": "Let op de scheiding tussen voorburcht en hoofdburcht. Controleer de rondleidingen als je naar binnen wilt.",
+      "de": "Achte auf die Trennung zwischen Vorburg und Hauptburg. Prüfe für die Innenräume das Führungsangebot.",
+      "zh": "先看前堡与主堡如何分隔，想进内参观须提前核对导览安排。"
+    },
+    "source": "https://nl.wikipedia.org/wiki/Kasteel_Doornenburg",
+    "photo": {
+      "path": "/nearby/doornenburg.webp",
+      "credit": "https://commons.wikimedia.org/wiki/File:Kasteel_Doornenburg-1.jpg",
+      "author": "Hikerbiker",
+      "licence": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "history": {
+      "en": "The brick castle uses separate outer and inner compounds, with water reinforcing the division. Look for the change from service buildings to the more fortified inner block.",
+      "nl": "De bakstenen burcht heeft een voorburcht en hoofdburcht, extra gescheiden door water. Let op de overgang van dienstgebouwen naar het versterkte hoofdgebouw.",
+      "de": "Die Backsteinburg besteht aus Vor- und Hauptburg, zusätzlich durch Wasser getrennt. Achte auf den Übergang von Wirtschaftsgebäuden zum stärker befestigten Kern.",
+      "zh": "砖砌城堡分为前堡与主堡，水面强化了分隔。可观察附属建筑如何过渡到防御更强的核心堡体。"
+    },
+    "viewpoint": {
+      "en": "Photograph the gate from the approach, then find a permitted viewpoint across the moat.",
+      "nl": "Fotografeer de poort vanaf de toegang en zoek daarna een toegestane plek aan de overkant van de gracht.",
+      "de": "Fotografiere das Tor vom Zugang und suche danach einen erlaubten Blickpunkt über den Graben.",
+      "zh": "先从进入方向拍城门，再找允许停留的位置隔护城河拍城堡。"
+    },
+    "approach": "Kerkstraat 27, Doornenburg",
+    "faq": {
+      "en": {
+        "question": "Do I need to arrange a tour for the main castle?",
+        "answer": "Check the castle’s current schedule for access to the interior."
+      },
+      "nl": {
+        "question": "Moet ik een rondleiding regelen voor de hoofdburcht?",
+        "answer": "Controleer het actuele bezoekprogramma voor toegang tot het interieur."
+      },
+      "de": {
+        "question": "Brauche ich eine Führung für die Hauptburg?",
+        "answer": "Prüfe das aktuelle Programm für den Zugang zu den Innenräumen."
+      },
+      "zh": {
+        "question": "进主堡是否需要参加导览？",
+        "answer": "请查城堡当日的内部开放和导览安排。"
+      }
+    },
+    "minutes": 90,
+    "area": "river",
+    "tagline": {
+      "en": "A brick castle with two distinct compounds",
+      "nl": "Een bakstenen kasteel met voorburcht en hoofdburcht",
+      "de": "Backsteinburg mit Vor- und Hauptburg",
+      "zh": "前堡与主堡层次分明的砖砌城堡"
+    }
+  },
+  {
+    "slug": "duivelsberg",
+    "name": "Duivelsberg",
+    "address": "Duivelsberg 1, Berg en Dal",
+    "kind": "park",
+    "operator": "Staatsbosbeheer",
+    "description": {
+      "en": "The woodland trails cross steep ground near the German border. Choose a signed loop that suits your footing and the weather.",
+      "nl": "De bospaden lopen over steil terrein bij de Duitse grens. Kies een gemarkeerde ronde die past bij het weer en je conditie.",
+      "de": "Die Waldwege verlaufen nahe der deutschen Grenze über steiles Gelände. Wähle eine markierte Runde passend zu Wetter und Trittsicherheit.",
+      "zh": "德荷边界附近的林地步道坡度明显，按天气与脚力选择标记清楚的环线。"
+    },
+    "source": "https://en.wikipedia.org/wiki/Duivelsberg",
+    "photo": {
+      "path": "/nearby/duivelsberg.webp",
+      "credit": "https://commons.wikimedia.org/wiki/File:Duivelsberg.jpg",
+      "author": "Gouwenaar",
+      "licence": "Public domain"
+    },
+    "history": {
+      "en": "The wooded slopes belong to the ice-age ridge east of Nijmegen. The steep paths and sudden changes in height explain why this walk feels different from the flat riverbank.",
+      "nl": "De beboste hellingen liggen op de stuwwal ten oosten van Nijmegen. De steile paden en hoogteverschillen contrasteren met de vlakke rivieroever.",
+      "de": "Die bewaldeten Hänge liegen auf dem eiszeitlichen Höhenzug östlich von Nijmegen. Steile Wege und Höhenwechsel unterscheiden die Runde vom flachen Flussufer.",
+      "zh": "林坡位于奈梅亨以东的冰期丘陵上。陡坡与明显高差使这里的步行体验不同于平坦的河岸。"
+    },
+    "viewpoint": {
+      "en": "From a signed trail, frame exposed roots and the direction of the slope.",
+      "nl": "Kader vanaf een gemarkeerd pad de boomwortels en de richting van de helling.",
+      "de": "Rahme vom markierten Weg die freiliegenden Wurzeln und den Hang ein.",
+      "zh": "在标记步道上拍裸露树根与坡面走向。"
+    },
+    "approach": "Duivelsberg 1, Berg en Dal",
+    "faq": {
+      "en": {
+        "question": "Is the woodland route suitable after rain?",
+        "answer": "Expect steep, potentially muddy slopes. Use a shorter signed route if conditions are poor."
+      },
+      "nl": {
+        "question": "Is de bosroute geschikt na regen?",
+        "answer": "Reken op steile, mogelijk modderige hellingen. Kies bij slechte omstandigheden een korte gemarkeerde route."
+      },
+      "de": {
+        "question": "Eignet sich der Waldweg nach Regen?",
+        "answer": "Rechne mit steilen, möglicherweise schlammigen Hängen. Wähle bei schlechten Bedingungen eine kurze markierte Route."
+      },
+      "zh": {
+        "question": "雨后适合走林地路线吗？",
+        "answer": "陡坡可能泥泞，路况差时选择较短且有标识的路线。"
+      }
+    },
+    "minutes": 90,
+    "area": "east",
+    "tagline": {
+      "en": "Wooded slopes along the German border",
+      "nl": "Beboste hellingen bij de Duitse grens",
+      "de": "Bewaldete Hänge an der deutschen Grenze",
+      "zh": "靠近德国边界的林地丘坡"
+    }
+  },
+  {
+    "slug": "mookerheide",
+    "name": "Mookerheide",
+    "address": "Mookerheide, Mook",
+    "kind": "park",
+    "operator": "Natuurmonumenten",
+    "description": {
+      "en": "Walk from woodland into the open heath for a change in terrain and views. Stay on marked paths among the heather.",
+      "nl": "Loop van het bos naar de open heide en let op het verschil in landschap en uitzicht. Blijf op de gemarkeerde paden.",
+      "de": "Vom Wald gelangst du in die offene Heide mit weiteren Ausblicken. Bleibe auf den markierten Wegen.",
+      "zh": "由树林步入开阔石南荒原后视野明显变宽，穿越石南地时沿标记小径行走。"
+    },
+    "source": "https://nl.wikipedia.org/wiki/Mookerheide",
+    "photo": {
+      "path": "/nearby/mookerheide.webp",
+      "credit": "https://commons.wikimedia.org/wiki/File:Mookerheide%2C_view_towards_Cuijk%2C_Mook%2C_the_Netherlands.jpg",
+      "author": "Bj.schoenmakers",
+      "licence": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+    },
+    "history": {
+      "en": "Open heather and woodland share a ridge above the Maas valley. The contrast between the two environments is clearest where the marked paths leave the tree cover.",
+      "nl": "Open heide en bos delen de hoogte boven het Maasdal. Het verschil is het duidelijkst waar het gemarkeerde pad de bomen verlaat.",
+      "de": "Offene Heide und Wald liegen auf der Höhe über dem Maastal. Der Übergang wird dort deutlich, wo der markierte Weg aus dem Wald tritt.",
+      "zh": "开阔石南地与树林共处于默兹河谷上方的高地。走到标记小径离开林荫的位置，最容易看出两种环境的过渡。"
+    },
+    "viewpoint": {
+      "en": "Use a marked viewpoint toward the Maas valley and keep the foreground heather in the frame.",
+      "nl": "Gebruik een gemarkeerd uitzichtpunt richting Maasdal en neem de heide op de voorgrond mee.",
+      "de": "Wähle einen markierten Aussichtspunkt zum Maastal mit Heide im Vordergrund.",
+      "zh": "找面向默兹河谷的标记观景点，以近处石南作前景。"
+    },
+    "approach": "Mookerheide, Mook",
+    "faq": {
+      "en": {
+        "question": "Do I need to walk onto the heather for the view?",
+        "answer": "The marked paths already give open views across the heath and toward the valley."
+      },
+      "nl": {
+        "question": "Moet ik de heide in voor uitzicht?",
+        "answer": "Vanaf de gemarkeerde paden kijk je al over de heide en naar het dal."
+      },
+      "de": {
+        "question": "Muss ich für die Aussicht in die Heide hinein?",
+        "answer": "Die markierten Wege bieten Ausblicke über die Heide und ins Tal."
+      },
+      "zh": {
+        "question": "想看开阔景观需要进入石南地吗？",
+        "answer": "沿标记小径就能看到石南地和河谷方向的景观。"
+      }
+    },
+    "minutes": 100,
+    "area": "east",
+    "tagline": {
+      "en": "Open heath above the Maas valley",
+      "nl": "Open heide boven het Maasdal",
+      "de": "Offene Heide über dem Maastal",
+      "zh": "可远望默兹河谷的开阔石南地"
+    }
+  },
+  {
+    "slug": "kasteel-hernen",
+    "name": "Kasteel Hernen",
+    "address": "Dorpsstraat 40, Hernen",
+    "kind": "museum",
+    "operator": "Geldersch Landschap & Kasteelen",
+    "description": {
+      "en": "Look for the covered wall walks, a distinctive feature of this brick castle. Check the visiting programme before travelling to Hernen.",
+      "nl": "Let op de overdekte weergangen van dit bakstenen kasteel. Bekijk het bezoekprogramma voordat je naar Hernen gaat.",
+      "de": "Die überdachten Wehrgänge sind eine Besonderheit der Backsteinburg. Prüfe vor der Anfahrt das Besuchsprogramm.",
+      "zh": "这座砖砌城堡的特色是有顶盖的城墙巡道，前往村庄前请查当天参观安排。"
+    },
+    "source": "https://nl.wikipedia.org/wiki/Kasteel_Hernen",
+    "photo": {
+      "path": "/nearby/kasteel-hernen.webp",
+      "credit": "https://commons.wikimedia.org/wiki/File:Kasteel_Hernen.jpg",
+      "author": "Mausema at Dutch Wikipedia",
+      "licence": "Public domain"
+    },
+    "history": {
+      "en": "The brick castle retains covered wall walks, an unusual feature that makes the old defensive circuit easy to imagine. Look for where the roofed passages meet the larger blocks.",
+      "nl": "Het bakstenen kasteel bewaart overdekte weergangen. Kijk waar de overdekte gangen aansluiten op de grotere bouwdelen.",
+      "de": "Die Backsteinburg bewahrt überdachte Wehrgänge. Achte darauf, wo sie an die größeren Baukörper anschließen.",
+      "zh": "这座砖堡保存有顶盖的巡道，有助于想象旧时的城防巡行。留意廊道与较大堡体的衔接。"
+    },
+    "viewpoint": {
+      "en": "Use a permitted spot across the moat for the brick elevations and low rooflines.",
+      "nl": "Kies een toegestane plek aan de overkant van de gracht voor de bakstenen gevels en lage daken.",
+      "de": "Von einem erlaubten Punkt jenseits des Grabens sind Ziegelfassaden und niedrige Dächer sichtbar.",
+      "zh": "从护城河对面允许停留的位置拍砖墙与低屋顶。"
+    },
+    "approach": "Dorpsstraat 40, Hernen",
+    "faq": {
+      "en": {
+        "question": "Can I see the covered wall walks from outside?",
+        "answer": "Their rooflines are visible from outside. Check castle admission to visit the interior circuit."
+      },
+      "nl": {
+        "question": "Kan ik de overdekte weergangen van buiten zien?",
+        "answer": "De daken zijn buiten zichtbaar. Controleer de entree voor bezoek aan de gangen."
+      },
+      "de": {
+        "question": "Sind die überdachten Wehrgänge von außen sichtbar?",
+        "answer": "Die Dachlinien sieht man von außen. Prüfe den Eintritt für den inneren Rundgang."
+      },
+      "zh": {
+        "question": "从外面能看到带顶巡道吗？",
+        "answer": "外部能看见部分巡道屋顶，想走内部巡道请查参观安排。"
+      }
+    },
+    "minutes": 90,
+    "area": "west",
+    "tagline": {
+      "en": "A moated castle with covered wall walks",
+      "nl": "Een omgracht kasteel met overdekte weergangen",
+      "de": "Wasserburg mit überdachten Wehrgängen",
+      "zh": "保存有顶城墙巡道的赫尔嫩城堡"
+    }
+  },
+  {
+    "slug": "kasteel-wijchen",
+    "name": "Kasteel Wijchen",
+    "address": "Kasteellaan 9, Wijchen",
+    "kind": "museum",
+    "operator": "Museum Kasteel Wijchen",
+    "description": {
+      "en": "See the moated castle from the approach and use the museum exhibits to connect the building with local history.",
+      "nl": "Bekijk het kasteel met slotgracht vanaf de toegangsroute en leer in het museum over de plaatselijke geschiedenis.",
+      "de": "Sieh dir das Wasserschloss schon vom Zugangsweg an und erfahre im Museum mehr über die Ortsgeschichte.",
+      "zh": "沿入口方向看城堡与护城河，再到馆内通过展品了解建筑与怀亨地方史的关系。"
+    },
+    "source": "https://www.museumwijchen.nl/en/adres-en-route/",
+    "photo": {
+      "path": "/nearby/kasteel-wijchen.webp",
+      "credit": "https://commons.wikimedia.org/wiki/File:KasteelWijchen-1-.jpg",
+      "author": "StefFFF",
+      "licence": "Public domain"
+    },
+    "history": {
+      "en": "The moated castle now houses a museum of local history. From the approach, the prominent roofline and gables show its role within the townscape.",
+      "nl": "Het omgrachte kasteel huisvest nu een museum over de plaatselijke geschiedenis. Vanaf de toegang valt de markante daklijn in het stadsbeeld op.",
+      "de": "Das Wasserschloss beherbergt heute ein Museum zur Ortsgeschichte. Vom Zugang fällt die prägnante Dachlinie im Ortsbild auf.",
+      "zh": "带护城河的城堡如今设地方史博物馆。从入口方向看过去，屋顶线与山墙在城镇景观中尤为醒目。"
+    },
+    "viewpoint": {
+      "en": "Frame the approach and the façade across the moat from a public path.",
+      "nl": "Neem vanaf een openbaar pad de toegang en de gevel aan de overkant van de gracht in beeld.",
+      "de": "Rahme vom öffentlichen Weg den Zugang und die Fassade jenseits des Grabens ein.",
+      "zh": "在公共小径上隔护城河取景，兼顾入口轴线与立面。"
+    },
+    "approach": "Kasteellaan 9, Wijchen",
+    "faq": {
+      "en": {
+        "question": "Can I combine a castle exterior stop with the museum?",
+        "answer": "Yes. Begin on the approach and check the museum schedule before entering."
+      },
+      "nl": {
+        "question": "Kan ik buiten kijken en daarna naar het museum?",
+        "answer": "Ja. Begin bij de toegangsroute en controleer de museumopening."
+      },
+      "de": {
+        "question": "Kann ich Außenansicht und Museum verbinden?",
+        "answer": "Ja. Beginne am Zugangsweg und prüfe die Öffnungszeiten des Museums."
+      },
+      "zh": {
+        "question": "可以先看城堡外观，再进博物馆吗？",
+        "answer": "可以，沿入口方向先看外观，入内前查博物馆开放时间。"
+      }
+    },
+    "minutes": 90,
+    "area": "west",
+    "tagline": {
+      "en": "A waterside castle and local history museum",
+      "nl": "Een kasteel aan het water met streekmuseum",
+      "de": "Wasserschloss mit Museum zur Ortsgeschichte",
+      "zh": "护城河环绕的怀亨城堡与地方史博物馆"
+    }
+  },
+  {
+    "slug": "goffertstadion",
+    "name": "Goffertstadion",
+    "address": "Stadionplein 1, Nijmegen",
+    "kind": "venue",
+    "operator": "N.E.C. Nijmegen",
+    "description": {
+      "en": "The stadium lies in Goffertpark. For a match, plan your entrance around the gate shown on your ticket and allow time for the park approaches.",
+      "nl": "Het stadion ligt in het Goffertpark. Gebruik op wedstrijddagen de poort op je ticket en neem tijd voor de route door het park.",
+      "de": "Das Stadion liegt im Goffertpark. Plane an Spieltagen den auf der Karte genannten Eingang und Zeit für den Weg durch den Park ein.",
+      "zh": "球场在 Goffertpark 内。看球时按票上标明的入口走，为穿过公园的步行段留足时间。"
+    },
+    "source": "https://en.wikipedia.org/wiki/Goffertstadion",
+    "photo": {
+      "path": "/nearby/goffertstadion.webp",
+      "credit": "https://commons.wikimedia.org/wiki/File:Goffertstadion_N.E.C._Nijmegen.jpg",
+      "author": "Roger Veringmeier",
+      "licence": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "history": {
+      "en": "The stadium anchors the city’s football culture within Goffertpark. The broad public approach helps show how match-day crowds move between park and stands.",
+      "nl": "Het stadion verbindt de voetbalcultuur met het Goffertpark. De ruime aanloop toont hoe bezoekers op wedstrijddagen van park naar tribune lopen.",
+      "de": "Das Stadion verankert die Fußballkultur im Goffertpark. Der breite Zugang zeigt, wie das Publikum an Spieltagen vom Park zu den Tribünen gelangt.",
+      "zh": "球场把奈梅亨的足球文化带进 Goffertpark。宽阔的公共入口能看出比赛日观众如何从公园进入看台。"
+    },
+    "viewpoint": {
+      "en": "Photograph the stadium entrance from Stadionplein on a quiet day. Keep gate approaches clear during events.",
+      "nl": "Fotografeer de ingang vanaf het Stadionplein op een rustige dag. Houd bij evenementen de toegangen vrij.",
+      "de": "Fotografiere den Eingang an einem ruhigen Tag vom Stadionplein. Halte bei Veranstaltungen die Zugänge frei.",
+      "zh": "选人少时从 Stadionplein 拍球场入口，活动期间留出检票通道。"
+    },
+    "approach": "Goffertpark, Nijmegen",
+    "faq": {
+      "en": {
+        "question": "Which gate should I use on a match day?",
+        "answer": "Use the gate on your ticket and allow time for the walk through the park."
+      },
+      "nl": {
+        "question": "Welke poort gebruik ik op een wedstrijddag?",
+        "answer": "Volg de poort op je ticket en neem tijd voor de wandeling door het park."
+      },
+      "de": {
+        "question": "Welchen Eingang nutze ich am Spieltag?",
+        "answer": "Nutze den Eingang auf der Karte und plane den Fußweg durch den Park ein."
+      },
+      "zh": {
+        "question": "比赛日应该走哪个入口？",
+        "answer": "以球票标明的入口为准，并为穿过公园的步行留出时间。"
+      }
+    },
+    "minutes": 20,
+    "area": "station",
+    "tagline": {
+      "en": "Nijmegen’s football stadium within Goffertpark",
+      "nl": "Het Nijmeegse voetbalstadion in het Goffertpark",
+      "de": "Nijmegens Fußballstadion im Goffertpark",
+      "zh": "Goffertpark 公园里的奈梅亨足球场"
+    }
+  }
+]

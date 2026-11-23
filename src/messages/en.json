@@ -54,6 +54,10 @@
     "backCta": "Read the Kronenburgerpark guide"
   },
   "header": {
+    "nearby": "Nearby",
+    "navigation": "Main navigation",
+    "language": "Switch language",
+    "theme": "Toggle theme",
     "home": "Home",
     "gallery": "Gallery",
     "reviews": "Reviews",
@@ -61,10 +65,11 @@
     "backToHome": "Back to Home"
   },
   "hero": {
+    "imageAlt": "Historic Kronenburgerpark pond and city wall in Nijmegen",
     "title": "Kronenburgerpark",
     "subtitle": "Medieval Defensive Relic & Urban Ecology Park, Nijmegen",
-    "rating": "4.5 (5,251)",
-    "reviewCount": "5,251 reviews",
+    "rating": "4.5 (5,268)",
+    "reviewCount": "5,268 reviews",
     "type": "Historical Landmark · Urban Park",
     "openMaps": "View Location"
   },
@@ -226,6 +231,8 @@
     ]
   },
   "architecture": {
+    "powderVault": "Powder vault",
+    "roundPlan": "Round plan · c. 1425",
     "title": "Architecture & Archaeology",
     "intro": "A reference archive on the medieval defensive fabric of the park, with an emphasis on the Kruittoren and its conservation history.",
     "schematicAlt": "Schematic of the round Kruittoren showing cannonball deflection and the inner powder vault",
@@ -435,6 +442,9 @@
     ]
   },
   "gallery": {
+    "previousPhoto": "Previous photo",
+    "nextPhoto": "Next photo",
+    "closePhoto": "Close photo viewer",
     "title": "Photo Gallery",
     "subtitle": "Kronenburgerpark — Medieval Rampart Relic & Urban Ecology Park",
     "captions": [
@@ -492,6 +502,7 @@
     ]
   },
   "mapSection": {
+    "frameTitle": "Kronenburgerpark on Google Maps",
     "title": "Location & Directions",
     "subtitle": "Kronenburgersingel, 6511 AL Nijmegen, Netherlands",
     "openMaps": "View on Google Maps",

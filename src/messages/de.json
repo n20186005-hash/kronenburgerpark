@@ -122,6 +122,10 @@
     "backCta": "Kronenburgerpark-Führer lesen"
   },
   "header": {
+    "nearby": "In der Nähe",
+    "navigation": "Hauptnavigation",
+    "language": "Sprache wechseln",
+    "theme": "Farbschema wechseln",
     "home": "Start",
     "gallery": "Galerie",
     "reviews": "Bewertungen",
@@ -129,10 +133,11 @@
     "backToHome": "Zurück zur Startseite"
   },
   "hero": {
+    "imageAlt": "Teich und Stadtmauer im historischen Kronenburgerpark in Nijmegen",
     "title": "Kronenburgerpark",
     "subtitle": "Mittelalterliche Befestigungsreste & Stadtökologischer Park, Nijmegen",
-    "rating": "4,5 (5.251)",
-    "reviewCount": "5.251 Bewertungen",
+    "rating": "4,5 (5.268)",
+    "reviewCount": "5.268 Bewertungen",
     "type": "Historisches Denkmal · Stadtpark",
     "openMaps": "Standort anzeigen"
   },
@@ -239,6 +244,8 @@
     "towerPageCta": "Kruittoren-Führer lesen"
   },
   "architecture": {
+    "powderVault": "Pulvergewölbe",
+    "roundPlan": "Runder Grundriss · um 1425",
     "title": "Architektur & Archäologie",
     "intro": "Ein Referenzarchiv zur mittelalterlichen Befestigungsstruktur des Parks, mit Schwerpunkt auf dem Kruittoren und seiner Erhaltungsgeschichte.",
     "schematicAlt": "Schemas des runden Kruittoren mit Kanonenkugelablenkung und dem inneren Pulvergewölbe",
@@ -484,6 +491,9 @@
     ]
   },
   "gallery": {
+    "previousPhoto": "Vorheriges Foto",
+    "nextPhoto": "Nächstes Foto",
+    "closePhoto": "Fotoansicht schließen",
     "title": "Fotogalerie",
     "subtitle": "Kronenburgerpark — Mittelalterliche Befestigungsreste & Stadtökologischer Park",
     "captions": [
@@ -541,6 +551,7 @@
     ]
   },
   "mapSection": {
+    "frameTitle": "Kronenburgerpark auf Google Maps",
     "title": "Lage & Anreise",
     "subtitle": "Kronenburgersingel, 6511 AL Nijmegen, Niederlande",
     "openMaps": "Auf Google Maps ansehen",

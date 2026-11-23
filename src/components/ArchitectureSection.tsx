@@ -39,8 +39,8 @@ export default function ArchitectureSection() {
                 <line x1="300" y1="50" x2="225" y2="100" stroke="var(--text-muted)" strokeWidth="2" strokeDasharray="4 3" markerEnd="url(#arrow)" />
                 {/* Inner powder store vault */}
                 <path d="M160 86 a34 34 0 0 1 0 68" fill="none" stroke="var(--accent)" strokeWidth="1.5" opacity="0.6" />
-                <text x="160" y="124" textAnchor="middle" fontSize="11" fill="var(--text-muted)">powder vault</text>
-                <text x="160" y="200" textAnchor="middle" fontSize="12" fill="var(--text-secondary)">round plan · c.1425</text>
+                <text x="160" y="124" textAnchor="middle" fontSize="11" fill="var(--text-muted)">{t('powderVault')}</text>
+                <text x="160" y="200" textAnchor="middle" fontSize="12" fill="var(--text-secondary)">{t('roundPlan')}</text>
                 <defs>
                   <marker id="arrow" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
                     <path d="M0,0 L6,3 L0,6 Z" fill="var(--text-muted)" />
